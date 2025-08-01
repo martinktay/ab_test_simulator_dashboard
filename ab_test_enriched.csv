@@ -1,0 +1,2001 @@
+user_id,group,visit_date,converted,session_duration_sec,page_views,device,channel,region
+1,A,1/28/2024,0,140,4,Desktop,Organic,North
+2,B,1/7/2024,0,903,5,Desktop,Organic,Scotland
+3,B,1/3/2024,0,395,3,Desktop,Social,Midlands
+4,B,1/23/2024,0,273,3,Mobile,Social,Midlands
+5,A,1/28/2024,0,50,6,Mobile,Organic,London
+6,A,1/14/2024,0,50,6,Tablet,Social,London
+7,A,1/24/2024,0,17,4,Mobile,Organic,Scotland
+8,B,1/10/2024,0,603,5,Desktop,Email,Scotland
+9,B,1/16/2024,1,275,5,Mobile,Social,North
+10,B,1/16/2024,0,369,7,Desktop,Email,Scotland
+11,A,1/22/2024,0,6,5,Mobile,Email,Scotland
+12,B,1/31/2024,0,1051,3,Mobile,Social,Scotland
+13,B,1/10/2024,1,535,4,Desktop,Organic,South
+14,A,1/25/2024,0,71,7,Mobile,Paid Search,South
+15,A,1/13/2024,0,60,5,Desktop,Email,North
+16,A,1/6/2024,0,60,7,Desktop,Social,North
+17,A,1/12/2024,0,108,8,Desktop,Email,Midlands
+18,B,1/9/2024,0,223,7,Tablet,Organic,North
+19,A,1/13/2024,0,169,5,Mobile,Social,Midlands
+20,A,1/4/2024,0,103,8,Mobile,Paid Search,Scotland
+21,B,1/24/2024,0,283,4,Mobile,Social,North
+22,A,1/11/2024,0,45,6,Mobile,Email,North
+23,A,1/20/2024,0,103,8,Mobile,Social,North
+24,A,1/18/2024,0,136,6,Mobile,Social,Midlands
+25,A,1/26/2024,0,182,3,Mobile,Email,Midlands
+26,B,1/11/2024,0,461,8,Mobile,Paid Search,London
+27,A,1/25/2024,1,66,4,Mobile,Organic,Midlands
+28,B,1/21/2024,0,216,7,Desktop,Social,Midlands
+29,B,1/4/2024,0,269,2,Mobile,Paid Search,South
+30,A,1/18/2024,0,14,10,Mobile,Organic,North
+31,B,1/1/2024,1,280,6,Desktop,Email,Midlands
+32,A,1/27/2024,0,56,4,Mobile,Paid Search,North
+33,A,1/7/2024,0,20,5,Tablet,Paid Search,North
+34,B,1/6/2024,0,892,6,Desktop,Social,South
+35,B,1/31/2024,0,1011,4,Mobile,Email,North
+36,B,1/15/2024,0,495,5,Desktop,Social,Midlands
+37,A,1/18/2024,0,108,6,Desktop,Email,North
+38,A,1/24/2024,0,30,3,Mobile,Organic,London
+39,B,1/11/2024,1,345,7,Desktop,Social,London
+40,A,1/20/2024,0,174,7,Mobile,Email,South
+41,A,1/24/2024,0,39,8,Mobile,Email,Midlands
+42,A,1/15/2024,0,205,4,Mobile,Paid Search,South
+43,A,1/16/2024,0,10,7,Mobile,Social,London
+44,B,1/7/2024,0,720,3,Mobile,Social,Midlands
+45,A,1/21/2024,0,89,4,Tablet,Organic,North
+46,B,1/10/2024,0,325,4,Mobile,Email,Midlands
+47,A,1/26/2024,0,112,0,Mobile,Paid Search,Scotland
+48,B,1/12/2024,1,220,1,Mobile,Email,Midlands
+49,B,1/24/2024,0,237,1,Desktop,Email,North
+50,A,1/14/2024,0,61,7,Tablet,Email,Scotland
+51,B,1/25/2024,1,1047,5,Desktop,Social,South
+52,B,1/5/2024,0,447,5,Tablet,Email,Midlands
+53,B,1/26/2024,0,841,8,Desktop,Organic,South
+54,B,1/21/2024,0,675,3,Tablet,Paid Search,Midlands
+55,B,1/18/2024,0,273,5,Desktop,Paid Search,London
+56,B,1/5/2024,0,764,3,Mobile,Email,London
+57,A,1/3/2024,0,27,5,Mobile,Paid Search,North
+58,A,1/23/2024,0,65,1,Desktop,Email,London
+59,A,1/26/2024,0,13,7,Mobile,Social,Scotland
+60,A,1/5/2024,0,118,2,Mobile,Paid Search,Scotland
+61,A,1/24/2024,0,147,4,Mobile,Social,Midlands
+62,A,1/17/2024,0,94,6,Tablet,Social,South
+63,B,1/19/2024,1,529,7,Mobile,Organic,Scotland
+64,A,1/19/2024,0,132,9,Desktop,Organic,Midlands
+65,A,1/25/2024,0,98,4,Desktop,Paid Search,South
+66,B,1/21/2024,0,234,1,Tablet,Email,London
+67,A,1/12/2024,0,45,4,Tablet,Email,Midlands
+68,B,1/25/2024,1,486,6,Desktop,Email,South
+69,A,1/29/2024,0,23,3,Mobile,Email,North
+70,B,1/9/2024,0,1300,4,Mobile,Organic,North
+71,B,1/1/2024,0,443,2,Mobile,Email,Scotland
+72,A,1/18/2024,0,66,6,Desktop,Email,South
+73,A,1/21/2024,0,1,8,Desktop,Social,North
+74,B,1/4/2024,1,506,7,Desktop,Email,Scotland
+75,B,1/31/2024,0,368,2,Mobile,Email,Midlands
+76,B,1/10/2024,0,391,6,Mobile,Organic,Midlands
+77,B,1/25/2024,0,442,9,Mobile,Paid Search,South
+78,A,1/7/2024,0,23,3,Mobile,Social,South
+79,A,1/22/2024,0,133,8,Mobile,Social,South
+80,A,1/23/2024,0,36,7,Mobile,Paid Search,South
+81,B,1/1/2024,0,596,6,Desktop,Social,North
+82,B,1/17/2024,0,292,10,Mobile,Email,North
+83,A,1/24/2024,0,120,5,Mobile,Email,Scotland
+84,A,1/29/2024,0,19,5,Tablet,Paid Search,North
+85,A,1/29/2024,0,111,5,Mobile,Organic,Midlands
+86,A,1/2/2024,0,117,5,Mobile,Organic,Scotland
+87,B,1/28/2024,0,392,4,Mobile,Social,North
+88,B,1/26/2024,0,304,10,Mobile,Organic,South
+89,B,1/11/2024,0,654,3,Mobile,Organic,North
+90,A,1/9/2024,0,191,2,Mobile,Organic,London
+91,A,1/7/2024,0,38,6,Mobile,Organic,Scotland
+92,B,1/22/2024,0,374,4,Mobile,Organic,North
+93,B,1/17/2024,0,429,4,Mobile,Organic,North
+94,B,1/17/2024,0,247,8,Desktop,Organic,Midlands
+95,B,1/2/2024,0,442,5,Mobile,Social,South
+96,A,1/6/2024,0,204,4,Tablet,Email,South
+97,B,1/14/2024,0,221,7,Mobile,Organic,Midlands
+98,A,1/6/2024,0,167,4,Mobile,Email,Midlands
+99,A,1/2/2024,0,7,2,Desktop,Paid Search,London
+100,A,1/1/2024,1,34,2,Mobile,Email,Scotland
+101,A,1/10/2024,0,9,3,Mobile,Paid Search,South
+102,B,1/21/2024,0,303,3,Desktop,Social,Midlands
+103,A,1/5/2024,0,113,8,Mobile,Email,Midlands
+104,B,1/2/2024,1,213,6,Desktop,Paid Search,Scotland
+105,B,1/22/2024,0,714,0,Tablet,Email,Midlands
+106,A,1/16/2024,0,86,8,Mobile,Social,London
+107,A,1/25/2024,0,158,5,Mobile,Email,Scotland
+108,B,1/2/2024,0,422,4,Mobile,Paid Search,London
+109,A,1/10/2024,0,77,5,Tablet,Organic,North
+110,A,1/2/2024,0,24,7,Desktop,Organic,South
+111,A,1/16/2024,0,102,6,Tablet,Organic,Midlands
+112,A,1/16/2024,0,52,3,Mobile,Social,Scotland
+113,B,1/19/2024,1,796,4,Desktop,Organic,London
+114,B,1/29/2024,0,495,2,Mobile,Social,South
+115,B,1/7/2024,0,301,4,Mobile,Organic,South
+116,B,1/22/2024,0,615,1,Tablet,Social,Midlands
+117,B,1/12/2024,0,488,9,Mobile,Social,South
+118,A,1/24/2024,0,61,3,Tablet,Email,Midlands
+119,B,1/15/2024,0,669,1,Mobile,Organic,North
+120,B,1/8/2024,0,232,5,Desktop,Email,Midlands
+121,B,1/6/2024,0,494,4,Mobile,Paid Search,London
+122,B,1/28/2024,0,679,6,Mobile,Organic,South
+123,A,1/27/2024,0,114,5,Mobile,Organic,South
+124,A,1/10/2024,0,34,8,Mobile,Organic,South
+125,A,1/3/2024,0,77,5,Mobile,Organic,Midlands
+126,A,1/19/2024,0,167,7,Desktop,Email,Scotland
+127,B,1/31/2024,0,511,4,Mobile,Email,Midlands
+128,B,1/17/2024,1,591,1,Mobile,Social,London
+129,A,1/7/2024,0,2,5,Mobile,Email,Midlands
+130,B,1/21/2024,0,214,4,Mobile,Social,South
+131,A,1/20/2024,0,162,3,Desktop,Paid Search,North
+132,A,1/26/2024,0,75,2,Desktop,Email,London
+133,A,1/31/2024,0,38,12,Mobile,Social,North
+134,A,1/4/2024,0,123,5,Mobile,Organic,London
+135,B,1/14/2024,0,858,10,Desktop,Paid Search,London
+136,A,1/20/2024,0,117,6,Mobile,Social,South
+137,B,1/22/2024,0,219,1,Mobile,Paid Search,Midlands
+138,B,1/15/2024,1,364,6,Mobile,Organic,South
+139,A,1/24/2024,0,135,2,Mobile,Organic,South
+140,B,1/8/2024,0,1070,4,Mobile,Social,South
+141,B,1/21/2024,0,984,5,Mobile,Social,North
+142,A,1/15/2024,0,87,8,Desktop,Organic,London
+143,A,1/22/2024,0,206,4,Mobile,Social,Scotland
+144,A,1/20/2024,0,107,2,Mobile,Organic,Midlands
+145,A,1/28/2024,0,100,1,Mobile,Email,South
+146,A,1/14/2024,0,11,8,Mobile,Social,London
+147,B,1/27/2024,0,282,8,Mobile,Paid Search,Midlands
+148,B,1/29/2024,0,209,4,Tablet,Organic,Scotland
+149,A,1/9/2024,0,15,1,Mobile,Email,Scotland
+150,A,1/8/2024,0,97,9,Desktop,Social,South
+151,B,1/26/2024,0,716,4,Mobile,Organic,Scotland
+152,A,1/28/2024,0,82,2,Desktop,Email,Scotland
+153,A,1/26/2024,0,46,4,Mobile,Social,Midlands
+154,A,1/17/2024,0,201,3,Mobile,Organic,Midlands
+155,B,1/31/2024,0,1273,8,Desktop,Organic,South
+156,A,1/2/2024,0,83,9,Mobile,Organic,London
+157,B,1/25/2024,0,334,4,Desktop,Social,South
+158,B,1/24/2024,0,430,4,Mobile,Email,North
+159,A,1/30/2024,0,81,5,Tablet,Organic,Scotland
+160,B,1/3/2024,0,390,11,Desktop,Email,London
+161,A,1/8/2024,0,137,8,Tablet,Email,Midlands
+162,B,1/12/2024,0,300,6,Mobile,Paid Search,North
+163,B,1/1/2024,1,301,2,Mobile,Email,North
+164,B,1/10/2024,1,230,8,Desktop,Email,Scotland
+165,A,1/20/2024,0,28,7,Desktop,Email,Midlands
+166,B,1/3/2024,0,541,6,Tablet,Email,London
+167,A,1/6/2024,0,116,5,Mobile,Email,Midlands
+168,A,1/7/2024,1,61,3,Desktop,Social,Scotland
+169,A,1/20/2024,0,12,5,Mobile,Paid Search,North
+170,B,1/23/2024,0,268,3,Mobile,Organic,Scotland
+171,B,1/25/2024,0,339,3,Mobile,Paid Search,South
+172,A,1/27/2024,0,5,7,Mobile,Paid Search,North
+173,B,1/18/2024,0,215,4,Tablet,Organic,Scotland
+174,A,1/11/2024,0,77,4,Mobile,Email,London
+175,B,1/19/2024,0,310,6,Desktop,Organic,London
+176,A,1/5/2024,0,57,6,Mobile,Email,London
+177,B,1/19/2024,0,352,3,Mobile,Organic,South
+178,A,1/11/2024,0,146,4,Mobile,Social,Midlands
+179,B,1/24/2024,0,828,6,Mobile,Paid Search,London
+180,A,1/12/2024,0,44,6,Mobile,Email,South
+181,A,1/10/2024,0,125,6,Desktop,Paid Search,London
+182,A,1/8/2024,0,36,6,Tablet,Email,South
+183,B,1/24/2024,0,775,3,Mobile,Organic,London
+184,B,1/28/2024,0,629,5,Mobile,Organic,Midlands
+185,A,1/28/2024,0,89,2,Mobile,Organic,Scotland
+186,B,1/9/2024,0,323,5,Desktop,Social,London
+187,B,1/4/2024,0,509,3,Mobile,Organic,Scotland
+188,B,1/5/2024,0,243,3,Mobile,Organic,London
+189,B,1/21/2024,0,226,5,Mobile,Social,Midlands
+190,A,1/8/2024,0,83,11,Tablet,Paid Search,Scotland
+191,A,1/23/2024,0,29,7,Mobile,Paid Search,South
+192,B,1/9/2024,0,682,7,Mobile,Email,London
+193,B,1/15/2024,0,692,4,Tablet,Paid Search,London
+194,B,1/15/2024,0,300,1,Desktop,Email,South
+195,A,1/16/2024,0,124,4,Desktop,Email,Midlands
+196,A,1/14/2024,0,128,5,Mobile,Paid Search,North
+197,B,1/8/2024,0,388,4,Tablet,Paid Search,London
+198,B,1/18/2024,0,682,4,Desktop,Social,South
+199,B,1/10/2024,0,654,7,Desktop,Email,North
+200,B,1/28/2024,0,454,6,Desktop,Paid Search,London
+201,B,1/20/2024,0,308,8,Desktop,Paid Search,Scotland
+202,A,1/6/2024,0,26,4,Mobile,Social,South
+203,A,1/12/2024,0,52,3,Mobile,Paid Search,Scotland
+204,B,1/2/2024,0,686,0,Desktop,Organic,Midlands
+205,B,1/7/2024,0,279,4,Mobile,Organic,North
+206,A,1/16/2024,0,2,1,Mobile,Email,South
+207,A,1/3/2024,0,32,4,Mobile,Social,London
+208,B,1/13/2024,0,326,3,Desktop,Paid Search,London
+209,A,1/3/2024,1,1,5,Mobile,Email,North
+210,A,1/27/2024,0,52,6,Desktop,Paid Search,Scotland
+211,B,1/18/2024,0,238,6,Desktop,Organic,Scotland
+212,B,1/11/2024,0,353,4,Mobile,Paid Search,South
+213,B,1/8/2024,0,316,4,Mobile,Paid Search,South
+214,A,1/6/2024,0,76,5,Mobile,Paid Search,Scotland
+215,B,1/1/2024,0,373,1,Mobile,Organic,South
+216,A,1/28/2024,0,81,9,Mobile,Organic,Scotland
+217,A,1/1/2024,0,118,7,Mobile,Social,North
+218,B,1/23/2024,0,411,5,Tablet,Organic,South
+219,B,1/8/2024,0,314,4,Mobile,Email,Scotland
+220,B,1/5/2024,0,567,5,Desktop,Paid Search,South
+221,B,1/28/2024,0,321,4,Mobile,Organic,London
+222,B,1/16/2024,0,252,1,Desktop,Email,London
+223,A,1/11/2024,0,29,3,Mobile,Organic,Midlands
+224,A,1/5/2024,0,137,7,Desktop,Paid Search,Scotland
+225,A,1/4/2024,0,92,6,Desktop,Email,Midlands
+226,A,1/30/2024,0,83,10,Desktop,Organic,Scotland
+227,B,1/6/2024,0,1083,4,Mobile,Organic,South
+228,A,1/14/2024,0,149,5,Desktop,Email,Scotland
+229,B,1/22/2024,0,667,6,Mobile,Social,London
+230,B,1/19/2024,0,299,6,Mobile,Email,South
+231,B,1/9/2024,0,475,8,Mobile,Email,London
+232,B,1/12/2024,0,209,4,Mobile,Email,South
+233,B,1/11/2024,0,258,3,Mobile,Email,Scotland
+234,A,1/14/2024,0,203,3,Desktop,Organic,Scotland
+235,A,1/23/2024,0,65,9,Mobile,Email,London
+236,B,1/16/2024,0,384,7,Mobile,Email,North
+237,A,1/1/2024,0,98,2,Mobile,Paid Search,Scotland
+238,A,1/31/2024,0,7,2,Desktop,Organic,North
+239,B,1/13/2024,0,311,4,Mobile,Paid Search,South
+240,A,1/23/2024,0,58,6,Mobile,Organic,North
+241,B,1/21/2024,0,846,9,Desktop,Social,London
+242,B,1/21/2024,0,923,11,Mobile,Social,Midlands
+243,B,1/30/2024,0,739,4,Mobile,Organic,Midlands
+244,A,1/13/2024,0,138,7,Mobile,Social,London
+245,A,1/2/2024,0,4,7,Desktop,Social,Midlands
+246,B,1/4/2024,0,790,3,Desktop,Organic,London
+247,A,1/28/2024,0,167,7,Mobile,Email,Scotland
+248,B,1/6/2024,0,1020,5,Mobile,Paid Search,North
+249,B,1/26/2024,0,994,2,Mobile,Organic,Midlands
+250,B,1/31/2024,0,575,9,Desktop,Organic,Scotland
+251,A,1/27/2024,0,104,6,Desktop,Organic,Midlands
+252,A,1/23/2024,0,145,3,Mobile,Paid Search,South
+253,B,1/27/2024,0,571,6,Mobile,Organic,London
+254,A,1/5/2024,0,114,3,Desktop,Paid Search,London
+255,A,1/25/2024,0,55,2,Desktop,Paid Search,Scotland
+256,B,1/3/2024,0,244,8,Desktop,Social,South
+257,B,1/1/2024,0,825,4,Desktop,Email,North
+258,B,1/4/2024,0,357,5,Desktop,Social,South
+259,B,1/25/2024,0,253,4,Mobile,Organic,South
+260,A,1/20/2024,0,30,3,Mobile,Organic,North
+261,B,1/2/2024,0,286,4,Mobile,Paid Search,North
+262,B,1/26/2024,0,1383,3,Desktop,Social,South
+263,A,1/30/2024,0,45,11,Mobile,Paid Search,Midlands
+264,B,1/30/2024,0,219,6,Mobile,Social,Midlands
+265,B,1/5/2024,0,629,5,Mobile,Social,South
+266,B,1/3/2024,1,405,5,Mobile,Social,Midlands
+267,B,1/29/2024,0,358,5,Desktop,Social,North
+268,B,1/28/2024,0,363,3,Mobile,Social,North
+269,A,1/29/2024,0,133,6,Mobile,Email,Midlands
+270,A,1/9/2024,0,104,4,Desktop,Organic,North
+271,B,1/20/2024,0,497,5,Mobile,Social,London
+272,B,1/6/2024,0,498,3,Desktop,Social,North
+273,B,1/18/2024,1,605,7,Desktop,Paid Search,South
+274,B,1/6/2024,0,733,3,Tablet,Organic,Scotland
+275,B,1/19/2024,0,214,6,Desktop,Organic,Midlands
+276,B,1/28/2024,0,208,7,Mobile,Organic,Midlands
+277,B,1/12/2024,0,480,1,Mobile,Social,North
+278,B,1/25/2024,0,314,6,Mobile,Paid Search,North
+279,B,1/11/2024,0,363,4,Mobile,Organic,Scotland
+280,B,1/2/2024,0,476,2,Mobile,Paid Search,Scotland
+281,B,1/15/2024,0,662,2,Mobile,Email,South
+282,A,1/12/2024,0,123,5,Desktop,Email,London
+283,A,1/12/2024,0,141,5,Mobile,Paid Search,South
+284,A,1/9/2024,0,29,3,Mobile,Social,Midlands
+285,B,1/21/2024,0,259,5,Mobile,Organic,North
+286,A,1/24/2024,0,10,11,Mobile,Email,South
+287,A,1/2/2024,0,187,2,Tablet,Email,North
+288,B,1/22/2024,0,234,6,Mobile,Paid Search,North
+289,A,1/3/2024,0,101,5,Desktop,Social,South
+290,B,1/12/2024,0,268,3,Mobile,Paid Search,South
+291,A,1/28/2024,0,9,4,Mobile,Paid Search,Scotland
+292,A,1/30/2024,0,11,10,Mobile,Paid Search,London
+293,B,1/26/2024,0,518,1,Desktop,Paid Search,Scotland
+294,A,1/16/2024,0,133,8,Mobile,Paid Search,London
+295,A,1/21/2024,0,40,3,Mobile,Social,South
+296,B,1/28/2024,0,221,5,Mobile,Paid Search,London
+297,B,1/24/2024,0,440,4,Desktop,Social,Midlands
+298,A,1/26/2024,0,72,11,Desktop,Organic,Scotland
+299,B,1/30/2024,0,292,3,Mobile,Organic,Scotland
+300,A,1/1/2024,0,26,4,Mobile,Organic,Scotland
+301,A,1/21/2024,0,15,3,Desktop,Organic,North
+302,B,1/3/2024,0,227,3,Desktop,Email,North
+303,B,1/20/2024,0,233,8,Desktop,Social,South
+304,B,1/2/2024,0,304,1,Desktop,Organic,South
+305,B,1/9/2024,0,388,5,Desktop,Email,North
+306,B,1/19/2024,0,1117,7,Mobile,Social,Scotland
+307,B,1/15/2024,0,217,3,Desktop,Email,North
+308,A,1/18/2024,0,117,7,Tablet,Email,London
+309,B,1/26/2024,0,475,5,Mobile,Paid Search,Scotland
+310,A,1/11/2024,0,94,7,Mobile,Email,North
+311,A,1/25/2024,0,173,5,Tablet,Email,South
+312,A,1/23/2024,0,24,7,Mobile,Social,North
+313,A,1/16/2024,0,7,5,Desktop,Email,Midlands
+314,B,1/22/2024,0,986,4,Mobile,Paid Search,North
+315,B,1/17/2024,0,542,5,Mobile,Organic,Scotland
+316,B,1/5/2024,0,357,11,Mobile,Organic,North
+317,A,1/12/2024,0,157,7,Mobile,Social,South
+318,A,1/11/2024,0,57,6,Mobile,Social,London
+319,A,1/30/2024,0,51,3,Mobile,Email,Midlands
+320,A,1/15/2024,0,86,0,Desktop,Social,Scotland
+321,B,1/27/2024,0,239,10,Tablet,Email,South
+322,B,1/3/2024,0,376,5,Mobile,Social,Midlands
+323,B,1/1/2024,0,323,5,Mobile,Organic,North
+324,A,1/20/2024,0,98,3,Mobile,Organic,Midlands
+325,B,1/29/2024,0,929,4,Mobile,Organic,London
+326,B,1/16/2024,0,401,2,Mobile,Organic,Midlands
+327,B,1/2/2024,0,242,2,Mobile,Email,Midlands
+328,B,1/2/2024,0,283,7,Mobile,Email,North
+329,A,1/3/2024,0,163,3,Mobile,Email,North
+330,A,1/8/2024,0,85,1,Mobile,Organic,Scotland
+331,A,1/24/2024,0,132,3,Desktop,Paid Search,North
+332,B,1/28/2024,0,425,7,Mobile,Organic,Midlands
+333,A,1/15/2024,0,4,5,Desktop,Organic,London
+334,A,1/7/2024,0,37,5,Tablet,Paid Search,North
+335,A,1/6/2024,0,14,4,Tablet,Paid Search,Scotland
+336,A,1/9/2024,1,12,5,Tablet,Social,Scotland
+337,B,1/20/2024,0,580,5,Mobile,Organic,Midlands
+338,B,1/28/2024,0,364,3,Mobile,Paid Search,North
+339,A,1/1/2024,0,192,3,Mobile,Social,North
+340,A,1/8/2024,0,30,6,Desktop,Paid Search,Scotland
+341,A,1/23/2024,0,202,6,Desktop,Paid Search,North
+342,A,1/23/2024,0,192,4,Desktop,Social,Midlands
+343,A,1/31/2024,0,57,9,Mobile,Organic,London
+344,A,1/3/2024,0,170,6,Desktop,Social,Midlands
+345,A,1/4/2024,0,152,5,Mobile,Organic,North
+346,B,1/26/2024,0,287,5,Mobile,Paid Search,Midlands
+347,B,1/25/2024,0,302,4,Desktop,Social,South
+348,A,1/15/2024,0,13,10,Mobile,Email,South
+349,A,1/6/2024,0,140,6,Tablet,Paid Search,North
+350,B,1/15/2024,0,294,2,Mobile,Social,North
+351,B,1/31/2024,0,209,4,Desktop,Paid Search,London
+352,B,1/21/2024,0,582,3,Mobile,Social,Midlands
+353,B,1/3/2024,0,322,2,Desktop,Organic,London
+354,A,1/25/2024,0,53,5,Desktop,Email,North
+355,A,1/21/2024,0,21,6,Tablet,Paid Search,North
+356,B,1/21/2024,0,308,5,Mobile,Email,Scotland
+357,A,1/14/2024,0,8,10,Tablet,Organic,London
+358,B,1/20/2024,0,264,5,Mobile,Social,North
+359,B,1/14/2024,0,845,5,Mobile,Email,South
+360,B,1/4/2024,0,257,4,Mobile,Social,Scotland
+361,A,1/12/2024,0,147,4,Desktop,Organic,Midlands
+362,B,1/17/2024,0,309,3,Mobile,Paid Search,Scotland
+363,A,1/7/2024,0,183,6,Desktop,Organic,Midlands
+364,B,1/9/2024,0,236,4,Desktop,Email,South
+365,B,1/3/2024,0,851,2,Mobile,Email,Midlands
+366,A,1/28/2024,0,146,9,Tablet,Email,London
+367,B,1/13/2024,1,974,5,Mobile,Social,Midlands
+368,B,1/15/2024,0,707,9,Desktop,Paid Search,Midlands
+369,A,1/18/2024,0,65,5,Mobile,Email,Scotland
+370,A,1/19/2024,0,21,5,Mobile,Email,South
+371,A,1/1/2024,0,31,1,Mobile,Email,Midlands
+372,A,1/6/2024,0,5,5,Mobile,Organic,London
+373,A,1/27/2024,0,29,8,Mobile,Email,Scotland
+374,B,1/27/2024,1,344,6,Mobile,Organic,South
+375,A,1/23/2024,0,22,2,Mobile,Email,South
+376,A,1/27/2024,0,115,5,Mobile,Organic,North
+377,B,1/27/2024,0,559,5,Mobile,Social,London
+378,A,1/2/2024,0,7,4,Desktop,Social,Scotland
+379,B,1/24/2024,1,505,6,Mobile,Organic,Scotland
+380,A,1/14/2024,0,99,5,Desktop,Paid Search,London
+381,A,1/6/2024,0,37,6,Desktop,Paid Search,South
+382,B,1/14/2024,0,357,5,Desktop,Organic,Midlands
+383,B,1/4/2024,0,297,4,Desktop,Social,London
+384,B,1/21/2024,0,629,7,Mobile,Organic,Scotland
+385,B,1/8/2024,0,398,5,Desktop,Paid Search,London
+386,B,1/30/2024,0,488,7,Mobile,Organic,South
+387,A,1/3/2024,0,99,6,Desktop,Social,North
+388,A,1/19/2024,0,58,4,Desktop,Paid Search,North
+389,B,1/30/2024,0,416,8,Mobile,Paid Search,Midlands
+390,B,1/31/2024,0,493,4,Desktop,Email,Midlands
+391,B,1/14/2024,0,1397,3,Mobile,Email,South
+392,A,1/27/2024,0,159,5,Mobile,Paid Search,Midlands
+393,A,1/20/2024,0,139,10,Mobile,Paid Search,North
+394,B,1/17/2024,0,449,6,Desktop,Organic,South
+395,A,1/25/2024,0,125,4,Desktop,Social,South
+396,B,1/8/2024,0,801,3,Desktop,Paid Search,South
+397,B,1/24/2024,0,586,3,Mobile,Social,London
+398,A,1/14/2024,0,168,5,Mobile,Paid Search,Midlands
+399,B,1/26/2024,0,416,2,Desktop,Social,Scotland
+400,B,1/6/2024,0,421,6,Mobile,Email,North
+401,A,1/23/2024,0,32,2,Desktop,Paid Search,Midlands
+402,B,1/22/2024,0,698,5,Mobile,Organic,North
+403,B,1/16/2024,1,211,2,Mobile,Social,Midlands
+404,B,1/25/2024,0,525,6,Mobile,Paid Search,Scotland
+405,A,1/19/2024,0,115,3,Desktop,Email,North
+406,B,1/14/2024,0,677,5,Mobile,Email,Scotland
+407,A,1/19/2024,0,147,2,Mobile,Email,North
+408,A,1/3/2024,0,3,6,Mobile,Email,London
+409,B,1/10/2024,0,707,6,Mobile,Paid Search,London
+410,A,1/19/2024,1,28,7,Mobile,Organic,North
+411,A,1/9/2024,1,115,6,Mobile,Social,North
+412,B,1/28/2024,0,899,6,Desktop,Organic,Scotland
+413,B,1/20/2024,0,902,4,Mobile,Social,South
+414,B,1/13/2024,0,255,4,Desktop,Organic,North
+415,B,1/7/2024,1,299,7,Desktop,Paid Search,Midlands
+416,A,1/14/2024,1,178,5,Mobile,Paid Search,Midlands
+417,A,1/31/2024,0,104,5,Mobile,Social,Midlands
+418,A,1/9/2024,0,119,8,Desktop,Paid Search,London
+419,B,1/27/2024,0,334,4,Mobile,Social,Scotland
+420,B,1/28/2024,0,418,2,Mobile,Organic,London
+421,B,1/23/2024,0,470,3,Mobile,Paid Search,Midlands
+422,B,1/25/2024,0,467,4,Desktop,Paid Search,North
+423,A,1/28/2024,0,28,6,Mobile,Social,Midlands
+424,A,1/19/2024,0,204,9,Tablet,Social,North
+425,A,1/15/2024,0,17,3,Desktop,Social,Scotland
+426,B,1/20/2024,1,239,5,Mobile,Social,South
+427,A,1/14/2024,0,174,3,Mobile,Email,North
+428,B,1/24/2024,0,655,2,Mobile,Social,London
+429,A,1/6/2024,0,129,4,Mobile,Email,Midlands
+430,A,1/21/2024,0,37,9,Mobile,Organic,Midlands
+431,A,1/29/2024,0,46,4,Mobile,Social,Midlands
+432,B,1/4/2024,0,430,5,Mobile,Email,North
+433,B,1/8/2024,0,288,8,Mobile,Email,Scotland
+434,A,1/17/2024,0,31,8,Mobile,Email,North
+435,A,1/30/2024,0,26,5,Tablet,Paid Search,London
+436,B,1/9/2024,0,362,3,Mobile,Email,Midlands
+437,A,1/1/2024,0,22,9,Tablet,Social,North
+438,B,1/24/2024,0,517,2,Mobile,Social,Midlands
+439,B,1/20/2024,0,367,8,Mobile,Social,London
+440,A,1/25/2024,0,25,7,Mobile,Email,South
+441,A,1/14/2024,0,26,6,Mobile,Email,South
+442,B,1/11/2024,0,1294,9,Mobile,Paid Search,South
+443,A,1/21/2024,0,140,3,Tablet,Organic,Midlands
+444,A,1/3/2024,0,138,6,Tablet,Paid Search,North
+445,B,1/9/2024,0,502,7,Mobile,Social,Midlands
+446,B,1/27/2024,0,882,7,Mobile,Social,Scotland
+447,B,1/14/2024,0,1280,5,Mobile,Social,North
+448,B,1/30/2024,1,419,5,Mobile,Paid Search,London
+449,A,1/9/2024,0,141,1,Mobile,Social,South
+450,A,1/4/2024,0,26,7,Mobile,Social,North
+451,B,1/27/2024,0,450,4,Mobile,Social,North
+452,B,1/4/2024,0,245,7,Mobile,Email,South
+453,A,1/28/2024,0,165,5,Mobile,Organic,London
+454,B,1/8/2024,0,710,5,Mobile,Email,Midlands
+455,A,1/2/2024,1,35,3,Mobile,Email,Midlands
+456,A,1/9/2024,0,203,5,Tablet,Organic,North
+457,A,1/29/2024,0,3,5,Mobile,Organic,South
+458,A,1/14/2024,0,189,4,Desktop,Paid Search,Scotland
+459,A,1/22/2024,0,17,3,Desktop,Organic,London
+460,A,1/9/2024,0,37,3,Tablet,Paid Search,Midlands
+461,A,1/24/2024,0,37,5,Desktop,Paid Search,London
+462,B,1/31/2024,0,314,10,Desktop,Email,London
+463,B,1/31/2024,0,411,2,Desktop,Social,London
+464,B,1/23/2024,0,262,5,Mobile,Email,South
+465,B,1/16/2024,0,982,3,Mobile,Email,South
+466,A,1/29/2024,0,140,4,Tablet,Organic,South
+467,A,1/30/2024,0,100,6,Desktop,Organic,North
+468,B,1/17/2024,0,608,3,Tablet,Paid Search,South
+469,A,1/16/2024,0,75,4,Desktop,Paid Search,North
+470,B,1/30/2024,0,990,4,Desktop,Paid Search,Midlands
+471,A,1/12/2024,0,3,5,Desktop,Organic,Midlands
+472,B,1/3/2024,0,1050,8,Desktop,Paid Search,Midlands
+473,A,1/11/2024,0,13,5,Mobile,Paid Search,Midlands
+474,B,1/14/2024,1,665,6,Tablet,Organic,Midlands
+475,B,1/18/2024,0,225,3,Desktop,Social,South
+476,B,1/21/2024,0,1487,4,Desktop,Email,Scotland
+477,A,1/31/2024,0,22,5,Desktop,Organic,South
+478,B,1/21/2024,1,242,6,Mobile,Paid Search,Scotland
+479,B,1/5/2024,0,1045,7,Mobile,Email,South
+480,B,1/16/2024,0,222,5,Tablet,Organic,Midlands
+481,B,1/20/2024,0,297,2,Mobile,Email,London
+482,B,1/5/2024,0,356,6,Mobile,Email,Scotland
+483,A,1/3/2024,0,181,4,Mobile,Social,London
+484,B,1/12/2024,1,296,2,Desktop,Paid Search,Midlands
+485,B,1/1/2024,0,263,4,Desktop,Organic,Scotland
+486,B,1/21/2024,0,694,2,Desktop,Paid Search,London
+487,A,1/29/2024,1,13,3,Desktop,Social,South
+488,A,1/9/2024,0,98,4,Mobile,Social,Midlands
+489,B,1/29/2024,0,901,7,Mobile,Organic,South
+490,B,1/9/2024,0,662,5,Mobile,Organic,South
+491,A,1/4/2024,0,182,5,Desktop,Social,Midlands
+492,B,1/3/2024,0,290,7,Mobile,Organic,Scotland
+493,A,1/17/2024,0,97,9,Desktop,Email,North
+494,A,1/2/2024,0,62,7,Mobile,Email,North
+495,A,1/24/2024,0,186,6,Mobile,Social,Midlands
+496,A,1/1/2024,0,130,6,Tablet,Paid Search,North
+497,B,1/8/2024,0,262,9,Mobile,Organic,London
+498,A,1/13/2024,1,24,2,Desktop,Organic,Scotland
+499,B,1/23/2024,0,1099,3,Mobile,Email,South
+500,B,1/15/2024,1,1285,9,Mobile,Organic,South
+501,B,1/8/2024,0,359,3,Mobile,Paid Search,Midlands
+502,B,1/12/2024,0,230,8,Mobile,Organic,South
+503,A,1/22/2024,0,111,5,Desktop,Organic,London
+504,B,1/12/2024,0,504,4,Mobile,Email,London
+505,B,1/14/2024,0,346,9,Mobile,Organic,Midlands
+506,A,1/15/2024,0,53,2,Mobile,Social,South
+507,B,1/15/2024,0,725,5,Desktop,Social,North
+508,B,1/9/2024,0,518,10,Desktop,Paid Search,North
+509,B,1/19/2024,0,897,5,Mobile,Paid Search,Scotland
+510,B,1/26/2024,0,388,4,Mobile,Paid Search,Midlands
+511,B,1/20/2024,0,285,7,Desktop,Paid Search,Scotland
+512,A,1/29/2024,0,162,3,Desktop,Email,North
+513,B,1/22/2024,0,809,6,Mobile,Organic,North
+514,B,1/8/2024,0,603,3,Desktop,Email,North
+515,A,1/21/2024,0,13,3,Desktop,Paid Search,Scotland
+516,A,1/19/2024,0,8,4,Desktop,Organic,Midlands
+517,A,1/6/2024,0,141,1,Desktop,Social,London
+518,B,1/20/2024,0,499,2,Tablet,Email,London
+519,B,1/25/2024,0,1309,4,Mobile,Organic,North
+520,A,1/29/2024,0,48,5,Tablet,Social,Midlands
+521,B,1/19/2024,0,270,8,Mobile,Social,Midlands
+522,A,1/4/2024,0,143,7,Desktop,Paid Search,South
+523,B,1/23/2024,0,1051,7,Mobile,Social,South
+524,B,1/7/2024,0,553,2,Mobile,Social,Scotland
+525,B,1/28/2024,0,546,6,Desktop,Paid Search,South
+526,A,1/28/2024,0,189,8,Desktop,Organic,Scotland
+527,A,1/4/2024,0,160,6,Mobile,Organic,London
+528,A,1/22/2024,0,95,4,Mobile,Paid Search,North
+529,A,1/12/2024,0,17,4,Mobile,Email,Midlands
+530,B,1/13/2024,0,600,4,Tablet,Paid Search,London
+531,B,1/3/2024,0,502,1,Desktop,Organic,London
+532,B,1/22/2024,0,2451,6,Mobile,Email,Scotland
+533,B,1/12/2024,0,1708,8,Desktop,Paid Search,North
+534,B,1/2/2024,0,243,7,Tablet,Organic,Scotland
+535,B,1/24/2024,0,439,7,Mobile,Organic,London
+536,B,1/2/2024,0,868,6,Desktop,Organic,Midlands
+537,B,1/27/2024,0,568,6,Mobile,Social,South
+538,A,1/23/2024,0,85,4,Desktop,Social,Scotland
+539,A,1/9/2024,0,179,3,Mobile,Email,London
+540,A,1/1/2024,0,41,6,Mobile,Email,South
+541,B,1/8/2024,0,924,3,Mobile,Email,South
+542,B,1/23/2024,0,279,10,Mobile,Social,London
+543,A,1/6/2024,0,77,5,Desktop,Email,North
+544,B,1/6/2024,0,334,6,Mobile,Organic,London
+545,B,1/22/2024,1,288,6,Mobile,Organic,Midlands
+546,A,1/25/2024,0,133,4,Desktop,Email,South
+547,A,1/18/2024,0,36,6,Mobile,Email,Midlands
+548,B,1/17/2024,0,334,5,Mobile,Social,Scotland
+549,B,1/29/2024,0,220,3,Tablet,Organic,South
+550,B,1/12/2024,0,443,2,Desktop,Paid Search,North
+551,B,1/6/2024,0,220,3,Mobile,Paid Search,London
+552,B,1/26/2024,0,573,2,Mobile,Social,Scotland
+553,B,1/27/2024,0,240,8,Tablet,Social,Midlands
+554,B,1/8/2024,0,246,7,Mobile,Social,Scotland
+555,B,1/19/2024,0,627,4,Mobile,Organic,North
+556,A,1/28/2024,0,154,3,Mobile,Email,London
+557,A,1/10/2024,0,43,3,Mobile,Email,Scotland
+558,A,1/1/2024,0,8,6,Desktop,Social,Midlands
+559,B,1/25/2024,0,422,5,Desktop,Organic,Scotland
+560,B,1/29/2024,0,290,1,Tablet,Paid Search,London
+561,B,1/13/2024,0,365,8,Desktop,Social,Scotland
+562,A,1/17/2024,1,71,9,Mobile,Organic,Midlands
+563,A,1/3/2024,0,43,4,Mobile,Social,London
+564,A,1/8/2024,0,4,7,Tablet,Organic,North
+565,A,1/14/2024,0,129,3,Mobile,Organic,North
+566,B,1/3/2024,0,267,7,Mobile,Social,South
+567,A,1/16/2024,0,149,5,Tablet,Email,Scotland
+568,A,1/13/2024,0,172,6,Mobile,Social,Midlands
+569,B,1/20/2024,0,703,8,Mobile,Email,Scotland
+570,A,1/24/2024,0,128,2,Desktop,Email,London
+571,B,1/17/2024,0,216,4,Tablet,Paid Search,South
+572,B,1/13/2024,0,459,9,Mobile,Organic,Midlands
+573,A,1/29/2024,0,151,4,Desktop,Social,Scotland
+574,B,1/6/2024,0,291,4,Mobile,Organic,Midlands
+575,B,1/17/2024,0,594,3,Mobile,Paid Search,London
+576,B,1/14/2024,0,895,4,Tablet,Email,South
+577,A,1/17/2024,0,47,4,Tablet,Social,Midlands
+578,B,1/30/2024,0,783,6,Mobile,Organic,London
+579,A,1/8/2024,0,203,7,Mobile,Paid Search,North
+580,A,1/11/2024,1,89,3,Mobile,Email,Midlands
+581,A,1/20/2024,1,184,6,Mobile,Email,South
+582,B,1/28/2024,0,1174,8,Mobile,Organic,Midlands
+583,A,1/1/2024,0,203,7,Mobile,Email,Midlands
+584,A,1/26/2024,0,119,3,Mobile,Paid Search,London
+585,B,1/7/2024,0,301,4,Mobile,Email,Scotland
+586,A,1/21/2024,0,82,6,Mobile,Social,Scotland
+587,A,1/21/2024,0,23,8,Desktop,Social,Midlands
+588,A,1/17/2024,0,41,3,Mobile,Organic,South
+589,A,1/30/2024,0,41,4,Mobile,Paid Search,South
+590,A,1/10/2024,0,49,3,Desktop,Email,London
+591,A,1/11/2024,0,44,8,Desktop,Email,Midlands
+592,B,1/22/2024,0,307,1,Mobile,Email,Midlands
+593,A,1/30/2024,0,60,3,Mobile,Social,Scotland
+594,A,1/9/2024,0,127,7,Desktop,Paid Search,London
+595,B,1/9/2024,0,681,5,Mobile,Email,North
+596,A,1/24/2024,0,192,9,Desktop,Organic,South
+597,B,1/5/2024,0,330,5,Mobile,Paid Search,South
+598,A,1/17/2024,0,56,4,Mobile,Paid Search,Midlands
+599,A,1/9/2024,0,64,5,Mobile,Email,London
+600,A,1/17/2024,0,12,7,Desktop,Social,North
+601,A,1/24/2024,0,55,3,Tablet,Paid Search,South
+602,A,1/21/2024,0,97,6,Mobile,Organic,London
+603,A,1/19/2024,0,58,7,Mobile,Paid Search,North
+604,A,1/27/2024,0,27,4,Mobile,Social,Midlands
+605,A,1/7/2024,0,38,4,Mobile,Organic,Scotland
+606,A,1/23/2024,0,185,4,Desktop,Social,South
+607,A,1/9/2024,0,69,3,Mobile,Email,South
+608,A,1/7/2024,1,135,4,Tablet,Paid Search,North
+609,B,1/13/2024,0,210,2,Desktop,Organic,Scotland
+610,B,1/11/2024,0,351,7,Tablet,Social,London
+611,A,1/14/2024,0,12,6,Desktop,Email,Midlands
+612,B,1/19/2024,0,481,7,Mobile,Organic,London
+613,B,1/11/2024,1,296,5,Mobile,Paid Search,North
+614,A,1/13/2024,0,25,4,Mobile,Paid Search,South
+615,B,1/31/2024,0,620,5,Mobile,Social,South
+616,B,1/14/2024,0,761,4,Mobile,Organic,London
+617,A,1/13/2024,0,18,7,Mobile,Email,Midlands
+618,A,1/1/2024,0,97,5,Tablet,Email,North
+619,B,1/8/2024,0,492,6,Mobile,Email,Midlands
+620,B,1/12/2024,0,413,5,Desktop,Social,North
+621,A,1/19/2024,1,61,2,Tablet,Email,Midlands
+622,A,1/12/2024,0,70,4,Desktop,Organic,London
+623,A,1/8/2024,0,138,4,Mobile,Social,Scotland
+624,A,1/8/2024,0,198,6,Mobile,Paid Search,North
+625,B,1/29/2024,0,288,11,Mobile,Social,London
+626,A,1/21/2024,0,138,6,Mobile,Social,South
+627,A,1/13/2024,0,186,8,Mobile,Social,South
+628,B,1/12/2024,0,412,5,Desktop,Organic,Midlands
+629,A,1/29/2024,0,11,3,Mobile,Paid Search,South
+630,A,1/16/2024,0,87,5,Mobile,Paid Search,Scotland
+631,B,1/1/2024,1,374,1,Tablet,Social,North
+632,B,1/13/2024,0,676,8,Mobile,Social,Midlands
+633,B,1/26/2024,0,215,6,Mobile,Social,North
+634,B,1/7/2024,0,227,4,Desktop,Organic,North
+635,A,1/28/2024,0,34,7,Mobile,Organic,London
+636,A,1/26/2024,0,177,1,Desktop,Email,South
+637,B,1/5/2024,0,228,7,Mobile,Paid Search,North
+638,A,1/8/2024,0,83,3,Desktop,Email,Scotland
+639,A,1/25/2024,0,94,9,Mobile,Email,Scotland
+640,A,1/27/2024,0,142,4,Mobile,Social,South
+641,A,1/14/2024,0,6,2,Mobile,Organic,South
+642,A,1/23/2024,0,116,4,Mobile,Email,Midlands
+643,A,1/30/2024,0,71,6,Mobile,Email,Midlands
+644,A,1/13/2024,0,119,2,Mobile,Email,Midlands
+645,A,1/15/2024,0,38,1,Mobile,Social,South
+646,B,1/23/2024,0,663,7,Mobile,Social,North
+647,B,1/17/2024,0,270,7,Mobile,Organic,London
+648,B,1/15/2024,0,340,6,Mobile,Email,Midlands
+649,B,1/20/2024,0,467,8,Desktop,Email,London
+650,A,1/18/2024,0,207,7,Mobile,Organic,Scotland
+651,A,1/18/2024,0,27,5,Mobile,Organic,South
+652,B,1/2/2024,0,231,6,Desktop,Organic,Scotland
+653,B,1/4/2024,0,265,6,Desktop,Paid Search,Midlands
+654,B,1/30/2024,0,410,7,Mobile,Organic,North
+655,A,1/1/2024,0,169,6,Mobile,Social,Midlands
+656,A,1/31/2024,0,40,3,Mobile,Paid Search,London
+657,A,1/4/2024,0,100,3,Mobile,Organic,Midlands
+658,A,1/18/2024,1,135,1,Desktop,Social,North
+659,B,1/5/2024,0,311,5,Mobile,Organic,North
+660,B,1/19/2024,0,253,3,Desktop,Organic,South
+661,A,1/15/2024,0,132,9,Mobile,Paid Search,South
+662,B,1/28/2024,0,1291,8,Mobile,Social,North
+663,B,1/8/2024,0,279,4,Desktop,Email,North
+664,A,1/20/2024,0,81,2,Mobile,Organic,London
+665,A,1/17/2024,0,32,3,Mobile,Paid Search,Midlands
+666,A,1/1/2024,0,49,2,Tablet,Social,South
+667,A,1/12/2024,0,84,4,Desktop,Organic,London
+668,A,1/26/2024,1,52,4,Desktop,Email,Midlands
+669,A,1/19/2024,0,61,5,Mobile,Social,South
+670,A,1/15/2024,1,100,8,Mobile,Social,London
+671,A,1/9/2024,0,57,6,Tablet,Paid Search,Scotland
+672,B,1/7/2024,0,681,3,Mobile,Organic,Scotland
+673,A,1/2/2024,0,25,5,Desktop,Organic,South
+674,B,1/31/2024,0,223,6,Mobile,Social,London
+675,A,1/29/2024,0,158,3,Mobile,Organic,Midlands
+676,B,1/9/2024,1,1211,8,Tablet,Social,Midlands
+677,A,1/10/2024,0,35,8,Mobile,Email,London
+678,A,1/2/2024,0,152,5,Mobile,Paid Search,Scotland
+679,B,1/19/2024,0,1046,4,Mobile,Organic,London
+680,B,1/11/2024,0,601,2,Mobile,Organic,Scotland
+681,B,1/13/2024,1,509,6,Mobile,Paid Search,Scotland
+682,A,1/10/2024,0,89,5,Mobile,Email,Midlands
+683,A,1/14/2024,0,56,6,Mobile,Email,South
+684,B,1/18/2024,0,331,7,Desktop,Email,North
+685,B,1/19/2024,0,795,3,Mobile,Email,London
+686,B,1/22/2024,1,244,9,Tablet,Email,Scotland
+687,B,1/9/2024,0,254,2,Mobile,Social,London
+688,A,1/25/2024,0,98,0,Mobile,Organic,South
+689,B,1/7/2024,0,440,6,Mobile,Organic,South
+690,A,1/28/2024,0,62,4,Desktop,Organic,North
+691,A,1/3/2024,0,117,6,Tablet,Social,North
+692,A,1/20/2024,0,166,4,Desktop,Paid Search,Scotland
+693,B,1/6/2024,0,212,5,Mobile,Email,North
+694,A,1/27/2024,1,83,2,Mobile,Paid Search,Scotland
+695,A,1/21/2024,0,36,5,Desktop,Email,Midlands
+696,B,1/2/2024,0,282,4,Tablet,Email,Scotland
+697,A,1/29/2024,1,102,3,Tablet,Paid Search,North
+698,B,1/6/2024,0,261,5,Mobile,Organic,London
+699,A,1/3/2024,0,50,3,Tablet,Social,North
+700,A,1/16/2024,0,196,3,Mobile,Paid Search,South
+701,B,1/30/2024,0,228,4,Mobile,Organic,North
+702,A,1/8/2024,0,15,8,Mobile,Email,Midlands
+703,A,1/2/2024,1,123,5,Mobile,Organic,Scotland
+704,A,1/17/2024,0,43,4,Desktop,Email,South
+705,A,1/9/2024,0,19,4,Desktop,Email,Scotland
+706,B,1/30/2024,0,1380,4,Desktop,Organic,Scotland
+707,A,1/12/2024,0,116,4,Desktop,Email,North
+708,B,1/3/2024,0,498,7,Mobile,Social,London
+709,A,1/11/2024,0,88,8,Desktop,Organic,South
+710,B,1/1/2024,0,343,7,Mobile,Paid Search,Midlands
+711,B,1/23/2024,0,428,3,Desktop,Email,Midlands
+712,B,1/13/2024,1,271,6,Desktop,Email,London
+713,A,1/15/2024,0,191,6,Desktop,Social,London
+714,A,1/26/2024,0,159,4,Mobile,Social,North
+715,A,1/5/2024,0,128,6,Desktop,Paid Search,Midlands
+716,B,1/21/2024,0,795,9,Mobile,Email,South
+717,B,1/30/2024,0,532,6,Mobile,Paid Search,London
+718,B,1/17/2024,0,1005,4,Desktop,Paid Search,London
+719,A,1/31/2024,0,39,6,Mobile,Email,London
+720,B,1/31/2024,0,393,7,Desktop,Paid Search,South
+721,B,1/25/2024,0,835,4,Mobile,Paid Search,Midlands
+722,A,1/23/2024,0,59,3,Mobile,Social,South
+723,A,1/24/2024,0,20,4,Desktop,Social,South
+724,B,1/25/2024,0,405,5,Mobile,Paid Search,North
+725,B,1/6/2024,0,256,3,Mobile,Email,London
+726,B,1/28/2024,0,553,5,Mobile,Social,Midlands
+727,A,1/21/2024,0,45,3,Mobile,Paid Search,North
+728,B,1/22/2024,0,475,5,Desktop,Organic,North
+729,A,1/11/2024,0,67,5,Mobile,Organic,Scotland
+730,A,1/18/2024,0,53,5,Desktop,Paid Search,London
+731,A,1/4/2024,0,53,6,Desktop,Organic,Midlands
+732,B,1/3/2024,0,505,6,Mobile,Social,Midlands
+733,B,1/13/2024,0,328,6,Desktop,Email,Midlands
+734,B,1/23/2024,0,222,5,Desktop,Paid Search,London
+735,A,1/9/2024,0,133,7,Mobile,Social,Midlands
+736,B,1/21/2024,0,629,3,Mobile,Email,South
+737,A,1/6/2024,0,149,5,Mobile,Organic,South
+738,B,1/26/2024,0,508,7,Desktop,Organic,London
+739,A,1/30/2024,0,173,2,Desktop,Organic,Midlands
+740,A,1/28/2024,0,141,8,Mobile,Organic,Scotland
+741,A,1/12/2024,0,186,4,Desktop,Social,Scotland
+742,A,1/2/2024,0,107,2,Desktop,Social,Scotland
+743,B,1/3/2024,1,413,5,Desktop,Email,South
+744,B,1/3/2024,0,209,5,Desktop,Paid Search,Scotland
+745,A,1/28/2024,0,79,4,Mobile,Email,Midlands
+746,B,1/12/2024,0,689,6,Desktop,Paid Search,Midlands
+747,A,1/15/2024,1,145,8,Desktop,Organic,Scotland
+748,B,1/9/2024,0,235,4,Desktop,Organic,North
+749,B,1/31/2024,0,710,3,Mobile,Organic,Scotland
+750,B,1/23/2024,0,293,6,Mobile,Organic,North
+751,A,1/8/2024,0,37,4,Mobile,Social,London
+752,B,1/11/2024,0,843,2,Mobile,Email,London
+753,B,1/16/2024,0,296,3,Desktop,Paid Search,Midlands
+754,A,1/26/2024,0,122,1,Mobile,Paid Search,South
+755,A,1/27/2024,0,44,9,Desktop,Social,Midlands
+756,B,1/25/2024,0,474,5,Desktop,Organic,Midlands
+757,B,1/22/2024,0,290,3,Desktop,Email,South
+758,B,1/4/2024,0,228,4,Mobile,Organic,Midlands
+759,B,1/28/2024,0,672,3,Tablet,Social,South
+760,B,1/1/2024,0,466,4,Desktop,Paid Search,Midlands
+761,A,1/24/2024,1,49,6,Desktop,Social,London
+762,A,1/7/2024,0,112,4,Mobile,Paid Search,North
+763,A,1/2/2024,0,85,2,Mobile,Email,Midlands
+764,B,1/24/2024,0,408,6,Mobile,Paid Search,North
+765,A,1/28/2024,0,10,3,Mobile,Email,Scotland
+766,B,1/5/2024,0,253,6,Mobile,Organic,Midlands
+767,B,1/7/2024,0,431,2,Mobile,Organic,London
+768,B,1/4/2024,0,628,8,Desktop,Social,South
+769,A,1/5/2024,0,125,3,Mobile,Email,London
+770,B,1/24/2024,0,516,6,Mobile,Organic,North
+771,A,1/1/2024,0,35,4,Desktop,Email,South
+772,B,1/1/2024,0,562,5,Mobile,Organic,London
+773,A,1/15/2024,1,40,6,Desktop,Organic,London
+774,A,1/20/2024,0,151,1,Mobile,Paid Search,London
+775,B,1/19/2024,1,478,5,Mobile,Social,South
+776,A,1/29/2024,0,48,7,Mobile,Paid Search,London
+777,A,1/10/2024,1,78,6,Desktop,Email,London
+778,B,1/28/2024,0,384,6,Mobile,Organic,North
+779,B,1/18/2024,0,381,7,Desktop,Social,London
+780,B,1/28/2024,0,307,4,Mobile,Organic,London
+781,B,1/3/2024,0,355,3,Mobile,Organic,Scotland
+782,B,1/11/2024,0,234,8,Desktop,Paid Search,South
+783,A,1/15/2024,0,87,4,Mobile,Email,Scotland
+784,A,1/31/2024,0,127,5,Desktop,Social,North
+785,A,1/27/2024,0,60,5,Mobile,Social,Scotland
+786,B,1/30/2024,0,717,3,Mobile,Social,Midlands
+787,B,1/11/2024,0,262,9,Desktop,Email,South
+788,A,1/17/2024,0,153,8,Tablet,Social,London
+789,A,1/17/2024,0,185,6,Mobile,Email,Scotland
+790,B,1/6/2024,0,882,3,Desktop,Social,Scotland
+791,A,1/5/2024,0,49,5,Mobile,Organic,London
+792,B,1/8/2024,0,264,5,Desktop,Email,London
+793,B,1/2/2024,0,211,5,Desktop,Paid Search,North
+794,B,1/16/2024,0,283,3,Mobile,Social,Scotland
+795,A,1/20/2024,0,5,7,Mobile,Paid Search,Scotland
+796,B,1/24/2024,0,617,3,Mobile,Email,Midlands
+797,B,1/12/2024,0,806,0,Mobile,Organic,Midlands
+798,B,1/6/2024,0,249,6,Mobile,Paid Search,Scotland
+799,B,1/1/2024,0,357,6,Desktop,Paid Search,Midlands
+800,B,1/31/2024,0,767,4,Tablet,Organic,Scotland
+801,B,1/4/2024,0,368,5,Mobile,Organic,South
+802,A,1/17/2024,0,49,9,Mobile,Email,North
+803,B,1/13/2024,0,257,5,Mobile,Social,Midlands
+804,B,1/18/2024,0,279,4,Tablet,Paid Search,Scotland
+805,A,1/5/2024,0,165,3,Mobile,Paid Search,Midlands
+806,B,1/30/2024,0,400,6,Mobile,Email,North
+807,B,1/24/2024,0,817,2,Mobile,Social,South
+808,B,1/24/2024,1,779,6,Mobile,Email,London
+809,A,1/27/2024,0,179,6,Mobile,Paid Search,London
+810,A,1/3/2024,1,36,6,Mobile,Paid Search,Midlands
+811,B,1/11/2024,0,1256,5,Mobile,Organic,Scotland
+812,B,1/13/2024,0,547,3,Mobile,Organic,North
+813,A,1/4/2024,0,39,4,Mobile,Social,South
+814,B,1/26/2024,0,760,4,Mobile,Paid Search,South
+815,B,1/27/2024,0,611,5,Mobile,Paid Search,South
+816,B,1/14/2024,0,219,4,Tablet,Organic,London
+817,B,1/22/2024,0,268,4,Desktop,Email,North
+818,A,1/11/2024,1,152,5,Mobile,Email,London
+819,A,1/27/2024,0,16,5,Mobile,Paid Search,Midlands
+820,A,1/10/2024,0,122,5,Desktop,Paid Search,South
+821,B,1/19/2024,0,487,7,Mobile,Social,North
+822,A,1/18/2024,0,1,3,Mobile,Social,South
+823,A,1/6/2024,0,121,2,Mobile,Organic,London
+824,A,1/27/2024,0,152,4,Tablet,Paid Search,London
+825,B,1/29/2024,1,231,4,Desktop,Email,London
+826,B,1/15/2024,0,757,6,Mobile,Social,South
+827,A,1/21/2024,0,127,3,Mobile,Organic,North
+828,A,1/30/2024,0,127,5,Tablet,Organic,North
+829,B,1/10/2024,0,401,5,Tablet,Email,Midlands
+830,A,1/5/2024,0,180,5,Tablet,Social,South
+831,A,1/26/2024,0,76,5,Mobile,Email,Midlands
+832,A,1/29/2024,0,180,3,Mobile,Organic,Midlands
+833,A,1/5/2024,0,45,10,Desktop,Paid Search,Midlands
+834,A,1/10/2024,0,58,5,Mobile,Email,Midlands
+835,A,1/28/2024,0,206,4,Mobile,Organic,London
+836,A,1/5/2024,0,162,4,Mobile,Paid Search,Midlands
+837,B,1/3/2024,0,738,7,Desktop,Paid Search,North
+838,A,1/23/2024,0,135,3,Desktop,Social,Midlands
+839,B,1/6/2024,0,260,6,Mobile,Social,London
+840,B,1/4/2024,0,300,2,Desktop,Organic,Scotland
+841,A,1/18/2024,0,3,4,Mobile,Email,Scotland
+842,B,1/28/2024,0,326,4,Desktop,Paid Search,Scotland
+843,A,1/9/2024,0,58,4,Mobile,Social,South
+844,B,1/17/2024,0,973,8,Mobile,Social,North
+845,A,1/29/2024,0,48,5,Mobile,Email,London
+846,A,1/13/2024,0,160,8,Mobile,Social,Scotland
+847,A,1/27/2024,0,26,5,Mobile,Organic,London
+848,B,1/15/2024,0,1730,7,Mobile,Email,London
+849,B,1/30/2024,0,209,8,Tablet,Paid Search,South
+850,B,1/20/2024,0,271,3,Mobile,Organic,Scotland
+851,A,1/17/2024,0,20,4,Mobile,Paid Search,Midlands
+852,B,1/13/2024,0,415,6,Mobile,Paid Search,London
+853,A,1/16/2024,0,70,4,Mobile,Social,Scotland
+854,B,1/22/2024,1,684,4,Mobile,Organic,London
+855,A,1/4/2024,0,68,6,Desktop,Organic,South
+856,A,1/5/2024,0,63,2,Mobile,Email,South
+857,A,1/5/2024,1,11,4,Desktop,Organic,Midlands
+858,A,1/9/2024,0,191,2,Desktop,Email,South
+859,B,1/17/2024,0,249,8,Mobile,Organic,Scotland
+860,A,1/13/2024,0,20,7,Mobile,Paid Search,South
+861,B,1/2/2024,0,448,2,Desktop,Email,Midlands
+862,A,1/13/2024,0,181,5,Mobile,Organic,North
+863,B,1/22/2024,0,222,6,Mobile,Email,London
+864,A,1/21/2024,0,174,7,Tablet,Social,London
+865,A,1/27/2024,0,153,7,Mobile,Social,Scotland
+866,B,1/23/2024,0,246,7,Mobile,Email,Midlands
+867,A,1/19/2024,0,50,6,Tablet,Email,Midlands
+868,A,1/3/2024,0,60,5,Mobile,Paid Search,Midlands
+869,B,1/10/2024,0,593,5,Mobile,Organic,London
+870,B,1/2/2024,0,876,8,Desktop,Social,South
+871,A,1/13/2024,0,140,7,Desktop,Social,London
+872,A,1/19/2024,0,94,4,Mobile,Organic,London
+873,B,1/26/2024,0,309,5,Mobile,Social,London
+874,A,1/17/2024,0,157,8,Desktop,Social,South
+875,A,1/21/2024,0,7,5,Desktop,Email,North
+876,A,1/14/2024,0,50,2,Mobile,Social,Scotland
+877,B,1/31/2024,0,377,3,Mobile,Social,North
+878,B,1/12/2024,0,322,7,Mobile,Social,North
+879,A,1/21/2024,0,8,3,Desktop,Organic,London
+880,A,1/12/2024,0,75,8,Desktop,Paid Search,North
+881,A,1/11/2024,0,78,1,Tablet,Email,London
+882,B,1/7/2024,0,334,5,Desktop,Paid Search,London
+883,A,1/4/2024,0,5,3,Mobile,Social,Scotland
+884,A,1/19/2024,0,32,5,Mobile,Social,Midlands
+885,B,1/1/2024,1,482,5,Desktop,Social,London
+886,A,1/28/2024,1,59,2,Desktop,Paid Search,North
+887,B,1/31/2024,0,317,7,Mobile,Organic,Scotland
+888,A,1/24/2024,0,81,2,Mobile,Organic,North
+889,A,1/29/2024,0,31,4,Tablet,Email,Midlands
+890,A,1/3/2024,0,83,5,Mobile,Paid Search,South
+891,B,1/13/2024,0,384,4,Mobile,Organic,Midlands
+892,B,1/15/2024,1,580,4,Desktop,Email,Scotland
+893,B,1/2/2024,0,531,5,Desktop,Social,Midlands
+894,A,1/11/2024,0,151,4,Mobile,Social,Midlands
+895,B,1/4/2024,0,330,4,Desktop,Email,Scotland
+896,A,1/19/2024,1,68,5,Mobile,Organic,Scotland
+897,A,1/29/2024,0,104,7,Mobile,Paid Search,North
+898,B,1/17/2024,0,679,6,Mobile,Email,London
+899,A,1/3/2024,0,3,6,Desktop,Organic,South
+900,A,1/28/2024,0,26,8,Tablet,Email,South
+901,A,1/18/2024,0,69,5,Desktop,Organic,South
+902,A,1/8/2024,1,8,2,Tablet,Social,Midlands
+903,A,1/22/2024,0,60,4,Mobile,Email,Scotland
+904,B,1/25/2024,0,262,6,Mobile,Paid Search,Scotland
+905,A,1/24/2024,0,164,3,Mobile,Email,Scotland
+906,B,1/26/2024,0,669,3,Mobile,Social,London
+907,B,1/19/2024,0,510,5,Desktop,Social,Scotland
+908,A,1/5/2024,0,125,5,Desktop,Organic,Scotland
+909,A,1/7/2024,0,90,6,Tablet,Social,Midlands
+910,A,1/21/2024,0,143,2,Mobile,Organic,North
+911,B,1/8/2024,0,267,6,Mobile,Social,South
+912,A,1/28/2024,0,93,4,Mobile,Organic,Midlands
+913,B,1/5/2024,0,293,3,Mobile,Paid Search,Midlands
+914,A,1/17/2024,0,157,4,Mobile,Organic,Midlands
+915,B,1/5/2024,0,240,2,Mobile,Organic,South
+916,A,1/4/2024,0,171,6,Mobile,Paid Search,Midlands
+917,A,1/22/2024,0,104,8,Mobile,Organic,North
+918,B,1/19/2024,0,889,5,Mobile,Organic,Scotland
+919,B,1/31/2024,0,432,6,Mobile,Paid Search,North
+920,A,1/27/2024,0,45,5,Mobile,Social,Scotland
+921,B,1/21/2024,0,608,5,Mobile,Email,Scotland
+922,A,1/2/2024,0,200,6,Mobile,Organic,Midlands
+923,B,1/11/2024,0,674,4,Mobile,Social,Midlands
+924,B,1/22/2024,1,482,4,Mobile,Email,South
+925,A,1/13/2024,0,166,5,Mobile,Paid Search,London
+926,A,1/15/2024,0,6,5,Mobile,Organic,North
+927,A,1/12/2024,0,93,4,Desktop,Organic,South
+928,B,1/22/2024,1,234,4,Desktop,Paid Search,South
+929,B,1/21/2024,0,301,7,Desktop,Organic,North
+930,A,1/22/2024,0,89,5,Mobile,Email,North
+931,A,1/11/2024,0,45,4,Mobile,Email,Scotland
+932,B,1/7/2024,0,540,3,Desktop,Paid Search,London
+933,B,1/28/2024,0,1248,9,Mobile,Organic,Midlands
+934,B,1/5/2024,0,223,6,Desktop,Social,London
+935,A,1/17/2024,0,56,6,Mobile,Organic,London
+936,A,1/24/2024,0,95,4,Mobile,Paid Search,Midlands
+937,A,1/20/2024,0,5,7,Desktop,Social,London
+938,B,1/9/2024,0,737,6,Mobile,Email,South
+939,A,1/14/2024,0,37,6,Mobile,Email,South
+940,B,1/26/2024,0,257,2,Mobile,Social,Midlands
+941,A,1/12/2024,0,96,6,Mobile,Social,Midlands
+942,B,1/6/2024,1,242,4,Mobile,Paid Search,North
+943,B,1/17/2024,0,316,7,Mobile,Organic,North
+944,B,1/19/2024,0,531,8,Desktop,Email,London
+945,A,1/19/2024,0,69,6,Desktop,Organic,London
+946,A,1/26/2024,0,3,3,Mobile,Email,Midlands
+947,A,1/16/2024,0,44,4,Tablet,Organic,London
+948,B,1/12/2024,0,690,5,Mobile,Email,Scotland
+949,B,1/12/2024,0,621,3,Mobile,Organic,South
+950,B,1/20/2024,0,272,5,Desktop,Paid Search,London
+951,B,1/6/2024,0,275,8,Desktop,Email,London
+952,B,1/31/2024,0,328,8,Desktop,Paid Search,North
+953,A,1/23/2024,0,57,5,Mobile,Email,Scotland
+954,B,1/26/2024,0,737,5,Mobile,Email,London
+955,A,1/4/2024,0,162,8,Desktop,Email,South
+956,A,1/6/2024,0,144,5,Mobile,Organic,London
+957,B,1/11/2024,1,219,4,Desktop,Email,Midlands
+958,A,1/1/2024,0,14,3,Mobile,Paid Search,Scotland
+959,A,1/30/2024,0,54,7,Desktop,Organic,London
+960,B,1/24/2024,0,401,4,Mobile,Organic,Scotland
+961,A,1/23/2024,0,25,4,Mobile,Email,London
+962,B,1/15/2024,0,277,5,Mobile,Social,South
+963,A,1/27/2024,0,84,3,Desktop,Organic,South
+964,A,1/11/2024,0,147,5,Desktop,Email,Scotland
+965,A,1/25/2024,0,102,4,Mobile,Paid Search,North
+966,A,1/19/2024,0,131,6,Desktop,Social,North
+967,B,1/18/2024,0,380,5,Mobile,Organic,Midlands
+968,A,1/17/2024,0,105,5,Mobile,Social,North
+969,B,1/19/2024,0,250,2,Mobile,Organic,Scotland
+970,A,1/21/2024,0,193,5,Mobile,Social,North
+971,B,1/14/2024,0,326,3,Mobile,Social,Midlands
+972,B,1/27/2024,0,828,3,Mobile,Paid Search,London
+973,B,1/18/2024,0,395,5,Desktop,Social,North
+974,A,1/28/2024,0,72,4,Desktop,Paid Search,Scotland
+975,A,1/19/2024,0,9,3,Desktop,Email,Scotland
+976,A,1/15/2024,0,91,4,Mobile,Organic,Midlands
+977,B,1/31/2024,0,271,2,Tablet,Paid Search,Midlands
+978,A,1/15/2024,0,15,6,Desktop,Organic,South
+979,A,1/4/2024,0,205,7,Mobile,Paid Search,South
+980,B,1/7/2024,0,272,3,Desktop,Organic,South
+981,A,1/13/2024,0,122,5,Mobile,Paid Search,London
+982,B,1/3/2024,0,442,4,Mobile,Organic,Scotland
+983,A,1/16/2024,0,33,6,Mobile,Email,South
+984,A,1/31/2024,0,23,6,Mobile,Organic,Scotland
+985,B,1/9/2024,0,390,2,Desktop,Email,Midlands
+986,A,1/8/2024,0,205,2,Mobile,Email,London
+987,B,1/20/2024,0,349,5,Mobile,Email,Midlands
+988,A,1/13/2024,0,171,2,Tablet,Social,Scotland
+989,A,1/17/2024,0,84,7,Tablet,Organic,South
+990,B,1/17/2024,0,512,4,Desktop,Social,Midlands
+991,B,1/17/2024,0,481,5,Mobile,Social,North
+992,B,1/1/2024,0,355,7,Mobile,Organic,London
+993,A,1/8/2024,0,95,5,Desktop,Email,Scotland
+994,B,1/19/2024,0,267,7,Mobile,Social,South
+995,A,1/31/2024,0,134,1,Mobile,Social,Midlands
+996,A,1/6/2024,0,28,3,Mobile,Paid Search,London
+997,B,1/3/2024,0,747,4,Mobile,Organic,South
+998,A,1/27/2024,0,44,9,Mobile,Social,Midlands
+999,B,1/5/2024,0,900,4,Mobile,Organic,Scotland
+1000,A,1/13/2024,0,177,5,Mobile,Organic,North
+1001,A,1/15/2024,0,61,6,Mobile,Social,North
+1002,B,1/14/2024,0,234,6,Mobile,Organic,Scotland
+1003,B,1/29/2024,0,618,3,Mobile,Email,London
+1004,B,1/31/2024,0,395,3,Desktop,Social,Scotland
+1005,B,1/23/2024,1,492,5,Desktop,Social,Midlands
+1006,B,1/16/2024,0,322,7,Mobile,Social,London
+1007,B,1/18/2024,1,353,6,Mobile,Paid Search,North
+1008,B,1/22/2024,1,567,6,Mobile,Paid Search,Midlands
+1009,A,1/29/2024,0,86,4,Mobile,Paid Search,South
+1010,A,1/22/2024,0,201,7,Mobile,Paid Search,South
+1011,A,1/11/2024,0,75,4,Mobile,Social,South
+1012,B,1/3/2024,0,1318,8,Desktop,Email,North
+1013,B,1/22/2024,0,865,5,Desktop,Organic,Scotland
+1014,A,1/10/2024,0,12,5,Mobile,Organic,London
+1015,B,1/10/2024,0,366,4,Mobile,Social,North
+1016,B,1/30/2024,0,778,5,Desktop,Email,Midlands
+1017,A,1/21/2024,0,59,2,Mobile,Organic,Midlands
+1018,B,1/16/2024,0,251,3,Desktop,Email,South
+1019,B,1/12/2024,0,741,7,Mobile,Social,London
+1020,A,1/2/2024,0,10,5,Desktop,Paid Search,South
+1021,B,1/9/2024,0,358,6,Tablet,Email,Midlands
+1022,A,1/24/2024,1,105,7,Tablet,Organic,Midlands
+1023,B,1/3/2024,0,774,2,Mobile,Organic,Scotland
+1024,B,1/24/2024,0,1062,7,Mobile,Organic,Scotland
+1025,B,1/30/2024,0,866,5,Mobile,Paid Search,Scotland
+1026,A,1/25/2024,0,192,5,Tablet,Email,South
+1027,B,1/30/2024,0,594,7,Mobile,Email,London
+1028,B,1/15/2024,0,558,6,Mobile,Organic,Scotland
+1029,A,1/3/2024,0,115,5,Mobile,Email,North
+1030,B,1/19/2024,0,529,0,Mobile,Organic,Scotland
+1031,A,1/18/2024,1,11,7,Mobile,Email,South
+1032,B,1/8/2024,0,272,5,Mobile,Paid Search,London
+1033,A,1/26/2024,0,78,5,Mobile,Paid Search,Scotland
+1034,A,1/17/2024,0,38,6,Mobile,Social,London
+1035,A,1/8/2024,0,24,8,Tablet,Social,North
+1036,B,1/7/2024,0,357,4,Desktop,Social,Midlands
+1037,A,1/30/2024,0,124,6,Desktop,Email,London
+1038,B,1/7/2024,0,387,4,Mobile,Paid Search,Scotland
+1039,A,1/3/2024,1,20,1,Desktop,Paid Search,South
+1040,A,1/1/2024,0,113,3,Mobile,Paid Search,South
+1041,B,1/4/2024,0,232,4,Mobile,Organic,South
+1042,B,1/25/2024,0,469,5,Mobile,Email,South
+1043,A,1/5/2024,0,115,4,Mobile,Email,London
+1044,B,1/1/2024,0,294,5,Mobile,Social,South
+1045,B,1/15/2024,0,651,2,Tablet,Organic,Midlands
+1046,B,1/5/2024,0,287,2,Mobile,Organic,North
+1047,A,1/13/2024,0,79,5,Mobile,Paid Search,London
+1048,A,1/8/2024,0,7,5,Mobile,Social,London
+1049,B,1/8/2024,0,612,5,Mobile,Email,South
+1050,A,1/5/2024,0,6,6,Mobile,Organic,South
+1051,B,1/28/2024,0,623,4,Mobile,Paid Search,London
+1052,B,1/9/2024,0,225,9,Desktop,Email,South
+1053,B,1/31/2024,0,839,7,Mobile,Paid Search,South
+1054,B,1/1/2024,0,481,2,Mobile,Email,South
+1055,B,1/4/2024,0,1854,3,Desktop,Paid Search,South
+1056,A,1/3/2024,0,129,4,Desktop,Email,South
+1057,B,1/2/2024,0,437,6,Desktop,Social,Scotland
+1058,A,1/31/2024,0,154,7,Desktop,Email,Scotland
+1059,A,1/8/2024,0,196,4,Mobile,Email,Scotland
+1060,B,1/23/2024,0,296,5,Mobile,Email,London
+1061,B,1/9/2024,0,620,5,Desktop,Paid Search,North
+1062,B,1/2/2024,0,1242,3,Desktop,Organic,London
+1063,B,1/14/2024,0,438,3,Mobile,Email,Scotland
+1064,A,1/14/2024,0,162,7,Mobile,Email,London
+1065,A,1/4/2024,1,164,3,Desktop,Social,North
+1066,B,1/30/2024,0,401,8,Mobile,Email,South
+1067,A,1/31/2024,0,81,8,Mobile,Social,Midlands
+1068,A,1/6/2024,0,35,5,Mobile,Email,Scotland
+1069,A,1/11/2024,0,131,5,Desktop,Paid Search,Scotland
+1070,A,1/3/2024,0,101,3,Tablet,Organic,North
+1071,A,1/8/2024,0,105,3,Mobile,Organic,South
+1072,A,1/3/2024,0,79,6,Mobile,Organic,South
+1073,A,1/14/2024,0,12,5,Mobile,Paid Search,Midlands
+1074,A,1/28/2024,0,5,4,Mobile,Social,South
+1075,B,1/13/2024,0,1319,6,Mobile,Organic,North
+1076,A,1/13/2024,0,167,3,Mobile,Paid Search,South
+1077,A,1/2/2024,0,145,12,Mobile,Paid Search,North
+1078,B,1/13/2024,1,341,1,Desktop,Email,Scotland
+1079,A,1/29/2024,0,73,6,Desktop,Social,Scotland
+1080,B,1/19/2024,0,898,1,Mobile,Paid Search,Scotland
+1081,B,1/27/2024,0,463,6,Mobile,Social,London
+1082,A,1/6/2024,0,28,1,Tablet,Organic,Scotland
+1083,A,1/16/2024,0,162,4,Mobile,Organic,North
+1084,B,1/2/2024,0,633,3,Desktop,Organic,Midlands
+1085,B,1/8/2024,0,868,3,Mobile,Email,South
+1086,A,1/17/2024,0,188,5,Desktop,Email,Scotland
+1087,B,1/23/2024,0,285,5,Desktop,Social,London
+1088,A,1/2/2024,0,54,5,Desktop,Social,London
+1089,B,1/10/2024,0,1418,9,Desktop,Email,North
+1090,A,1/28/2024,0,79,3,Tablet,Paid Search,Midlands
+1091,B,1/16/2024,0,858,3,Mobile,Social,Scotland
+1092,B,1/6/2024,0,314,6,Mobile,Social,Scotland
+1093,B,1/28/2024,0,280,6,Mobile,Organic,London
+1094,B,1/2/2024,0,215,3,Desktop,Social,North
+1095,A,1/2/2024,0,78,7,Desktop,Social,London
+1096,A,1/26/2024,0,58,4,Mobile,Paid Search,London
+1097,A,1/13/2024,0,74,1,Mobile,Social,Midlands
+1098,A,1/24/2024,0,61,7,Desktop,Paid Search,North
+1099,B,1/15/2024,1,453,7,Mobile,Organic,Midlands
+1100,A,1/31/2024,0,129,2,Mobile,Email,North
+1101,A,1/28/2024,0,17,5,Desktop,Organic,Scotland
+1102,B,1/2/2024,0,1043,6,Mobile,Paid Search,South
+1103,B,1/7/2024,0,645,9,Mobile,Paid Search,South
+1104,B,1/3/2024,0,788,3,Mobile,Social,North
+1105,B,1/8/2024,0,1584,4,Mobile,Social,South
+1106,A,1/23/2024,0,57,10,Mobile,Email,London
+1107,A,1/14/2024,0,151,4,Mobile,Paid Search,Scotland
+1108,B,1/24/2024,0,425,4,Mobile,Paid Search,Scotland
+1109,B,1/30/2024,0,357,4,Mobile,Organic,South
+1110,A,1/23/2024,0,50,7,Mobile,Email,North
+1111,B,1/27/2024,0,507,8,Mobile,Organic,London
+1112,A,1/22/2024,0,76,6,Tablet,Social,North
+1113,A,1/29/2024,0,76,6,Mobile,Social,South
+1114,B,1/7/2024,0,230,3,Desktop,Organic,Scotland
+1115,B,1/21/2024,0,269,5,Desktop,Social,Scotland
+1116,B,1/7/2024,1,260,6,Mobile,Organic,North
+1117,A,1/1/2024,0,28,2,Desktop,Paid Search,Midlands
+1118,B,1/17/2024,0,629,8,Mobile,Paid Search,North
+1119,A,1/9/2024,0,92,5,Desktop,Social,Midlands
+1120,A,1/30/2024,0,41,4,Mobile,Email,North
+1121,B,1/21/2024,0,658,4,Desktop,Paid Search,Midlands
+1122,B,1/13/2024,0,934,2,Mobile,Social,Midlands
+1123,B,1/21/2024,0,594,5,Desktop,Email,Midlands
+1124,B,1/19/2024,0,497,5,Mobile,Social,Midlands
+1125,B,1/21/2024,0,319,4,Desktop,Organic,London
+1126,B,1/19/2024,0,240,2,Mobile,Social,Midlands
+1127,A,1/25/2024,0,27,4,Desktop,Organic,Midlands
+1128,A,1/25/2024,0,157,4,Mobile,Paid Search,Scotland
+1129,A,1/22/2024,0,139,1,Mobile,Paid Search,London
+1130,A,1/31/2024,1,90,8,Desktop,Social,Midlands
+1131,B,1/17/2024,0,385,4,Tablet,Email,South
+1132,A,1/23/2024,0,205,10,Mobile,Social,London
+1133,A,1/23/2024,0,25,6,Tablet,Social,Scotland
+1134,A,1/30/2024,0,74,3,Desktop,Paid Search,North
+1135,B,1/10/2024,0,344,6,Desktop,Paid Search,Scotland
+1136,A,1/10/2024,0,23,4,Mobile,Social,Scotland
+1137,B,1/4/2024,0,571,3,Mobile,Paid Search,London
+1138,A,1/8/2024,0,205,2,Desktop,Organic,London
+1139,A,1/22/2024,0,196,3,Mobile,Social,South
+1140,B,1/20/2024,0,269,5,Mobile,Paid Search,South
+1141,B,1/20/2024,0,522,3,Mobile,Social,London
+1142,A,1/18/2024,0,128,4,Mobile,Paid Search,London
+1143,B,1/14/2024,1,339,3,Desktop,Organic,London
+1144,B,1/18/2024,0,250,6,Desktop,Organic,North
+1145,A,1/28/2024,0,93,5,Mobile,Social,Scotland
+1146,B,1/14/2024,0,632,5,Mobile,Organic,South
+1147,B,1/20/2024,1,478,4,Mobile,Organic,South
+1148,B,1/21/2024,0,322,4,Mobile,Paid Search,Midlands
+1149,B,1/24/2024,0,570,6,Mobile,Social,North
+1150,B,1/15/2024,0,605,4,Desktop,Paid Search,London
+1151,B,1/22/2024,0,369,6,Desktop,Paid Search,London
+1152,B,1/30/2024,0,544,4,Mobile,Email,North
+1153,B,1/31/2024,0,358,5,Desktop,Organic,South
+1154,B,1/4/2024,0,341,5,Mobile,Paid Search,London
+1155,B,1/13/2024,0,289,4,Desktop,Paid Search,Midlands
+1156,B,1/27/2024,0,419,5,Mobile,Paid Search,South
+1157,A,1/23/2024,0,51,3,Desktop,Organic,Scotland
+1158,B,1/8/2024,0,638,4,Mobile,Organic,North
+1159,B,1/18/2024,0,616,6,Mobile,Organic,South
+1160,A,1/12/2024,0,8,6,Mobile,Social,Scotland
+1161,B,1/23/2024,0,524,1,Mobile,Paid Search,Midlands
+1162,A,1/31/2024,0,41,3,Mobile,Organic,North
+1163,A,1/14/2024,0,122,4,Mobile,Paid Search,London
+1164,B,1/2/2024,0,408,6,Mobile,Social,London
+1165,A,1/18/2024,0,52,4,Desktop,Email,Scotland
+1166,B,1/24/2024,0,511,3,Mobile,Social,South
+1167,B,1/2/2024,0,535,14,Desktop,Organic,Midlands
+1168,B,1/31/2024,0,212,5,Mobile,Organic,Scotland
+1169,A,1/11/2024,0,1,4,Tablet,Social,Midlands
+1170,A,1/9/2024,0,101,5,Tablet,Paid Search,Midlands
+1171,B,1/12/2024,0,287,5,Mobile,Organic,Midlands
+1172,B,1/17/2024,0,1191,7,Desktop,Organic,North
+1173,B,1/15/2024,0,299,7,Mobile,Social,Scotland
+1174,A,1/25/2024,0,90,7,Tablet,Paid Search,North
+1175,B,1/31/2024,1,301,2,Mobile,Social,South
+1176,B,1/17/2024,0,232,5,Mobile,Social,South
+1177,B,1/26/2024,0,454,3,Mobile,Paid Search,London
+1178,A,1/29/2024,0,33,7,Mobile,Paid Search,London
+1179,B,1/26/2024,0,429,2,Mobile,Email,London
+1180,B,1/18/2024,0,233,6,Desktop,Social,South
+1181,B,1/22/2024,0,988,4,Mobile,Paid Search,Midlands
+1182,A,1/6/2024,0,125,8,Mobile,Organic,Midlands
+1183,B,1/17/2024,0,300,5,Mobile,Email,Scotland
+1184,B,1/23/2024,0,806,1,Mobile,Social,South
+1185,A,1/24/2024,0,32,2,Mobile,Paid Search,London
+1186,B,1/18/2024,0,830,3,Desktop,Email,South
+1187,B,1/8/2024,0,349,6,Mobile,Email,Midlands
+1188,A,1/9/2024,0,21,8,Mobile,Organic,Midlands
+1189,A,1/6/2024,0,107,4,Mobile,Email,North
+1190,B,1/5/2024,0,369,3,Mobile,Social,North
+1191,A,1/12/2024,0,20,6,Desktop,Paid Search,Scotland
+1192,B,1/25/2024,0,261,6,Mobile,Email,South
+1193,A,1/29/2024,0,127,8,Mobile,Email,North
+1194,B,1/28/2024,0,290,6,Mobile,Social,North
+1195,A,1/11/2024,0,14,6,Mobile,Organic,South
+1196,B,1/25/2024,0,615,5,Mobile,Organic,Midlands
+1197,B,1/1/2024,0,1089,4,Mobile,Paid Search,Scotland
+1198,B,1/11/2024,0,1040,5,Desktop,Social,Scotland
+1199,B,1/19/2024,0,415,5,Mobile,Organic,Scotland
+1200,A,1/9/2024,0,41,6,Mobile,Paid Search,North
+1201,B,1/27/2024,0,425,11,Mobile,Paid Search,Midlands
+1202,A,1/2/2024,0,7,8,Mobile,Organic,Scotland
+1203,A,1/12/2024,0,6,7,Mobile,Social,South
+1204,A,1/4/2024,0,117,7,Desktop,Email,Scotland
+1205,A,1/4/2024,0,201,4,Desktop,Organic,London
+1206,B,1/18/2024,0,441,8,Mobile,Email,Midlands
+1207,B,1/15/2024,0,344,6,Mobile,Email,London
+1208,A,1/19/2024,0,177,2,Mobile,Social,Midlands
+1209,A,1/13/2024,0,95,4,Mobile,Social,South
+1210,B,1/19/2024,0,1755,0,Desktop,Paid Search,North
+1211,A,1/17/2024,0,166,6,Desktop,Social,North
+1212,A,1/6/2024,0,180,0,Tablet,Paid Search,Midlands
+1213,A,1/16/2024,0,53,7,Mobile,Organic,Scotland
+1214,B,1/24/2024,0,475,9,Mobile,Email,London
+1215,B,1/12/2024,0,354,7,Desktop,Social,South
+1216,A,1/19/2024,0,74,2,Desktop,Organic,Scotland
+1217,A,1/5/2024,1,25,4,Desktop,Paid Search,North
+1218,B,1/17/2024,0,342,8,Mobile,Social,Scotland
+1219,B,1/26/2024,0,318,5,Mobile,Email,London
+1220,A,1/23/2024,0,95,5,Mobile,Organic,North
+1221,B,1/26/2024,1,903,6,Mobile,Social,Midlands
+1222,A,1/29/2024,0,49,2,Mobile,Social,South
+1223,A,1/1/2024,0,169,4,Desktop,Organic,South
+1224,B,1/28/2024,0,862,7,Mobile,Paid Search,North
+1225,A,1/27/2024,0,163,3,Mobile,Paid Search,Midlands
+1226,B,1/25/2024,0,305,6,Desktop,Social,London
+1227,A,1/24/2024,0,152,2,Mobile,Paid Search,South
+1228,A,1/23/2024,1,96,8,Desktop,Paid Search,North
+1229,B,1/10/2024,0,1240,10,Mobile,Organic,South
+1230,A,1/15/2024,0,157,5,Mobile,Paid Search,Midlands
+1231,B,1/23/2024,0,673,4,Tablet,Paid Search,London
+1232,A,1/21/2024,0,78,4,Tablet,Organic,Midlands
+1233,A,1/21/2024,0,71,8,Mobile,Social,Scotland
+1234,A,1/11/2024,0,9,9,Desktop,Social,Midlands
+1235,B,1/13/2024,0,316,7,Mobile,Organic,Midlands
+1236,A,1/5/2024,0,137,7,Mobile,Email,South
+1237,B,1/1/2024,0,599,3,Mobile,Organic,Midlands
+1238,A,1/24/2024,0,192,8,Mobile,Email,North
+1239,B,1/12/2024,0,1034,7,Desktop,Paid Search,South
+1240,A,1/11/2024,0,61,2,Desktop,Social,South
+1241,B,1/17/2024,1,608,5,Tablet,Email,Scotland
+1242,B,1/4/2024,0,449,7,Desktop,Email,North
+1243,B,1/15/2024,1,442,6,Mobile,Paid Search,Midlands
+1244,B,1/25/2024,0,558,1,Desktop,Social,Scotland
+1245,B,1/30/2024,0,429,3,Tablet,Paid Search,North
+1246,B,1/9/2024,0,295,4,Desktop,Social,Scotland
+1247,A,1/21/2024,0,42,4,Desktop,Social,London
+1248,A,1/20/2024,0,9,3,Tablet,Paid Search,Midlands
+1249,B,1/19/2024,0,760,7,Mobile,Email,Scotland
+1250,B,1/19/2024,0,287,9,Desktop,Organic,London
+1251,B,1/12/2024,0,477,4,Desktop,Social,Midlands
+1252,A,1/5/2024,0,197,3,Tablet,Social,Scotland
+1253,A,1/10/2024,0,37,4,Mobile,Organic,Scotland
+1254,A,1/17/2024,0,40,4,Mobile,Organic,Scotland
+1255,B,1/5/2024,0,347,6,Desktop,Paid Search,Scotland
+1256,A,1/22/2024,0,168,3,Mobile,Social,South
+1257,A,1/16/2024,0,67,10,Desktop,Paid Search,Scotland
+1258,A,1/7/2024,0,202,5,Mobile,Organic,South
+1259,A,1/28/2024,0,19,5,Mobile,Paid Search,South
+1260,B,1/9/2024,0,261,3,Mobile,Social,London
+1261,A,1/3/2024,0,93,2,Mobile,Email,Midlands
+1262,B,1/15/2024,0,479,7,Mobile,Email,South
+1263,A,1/16/2024,0,111,5,Mobile,Social,North
+1264,A,1/18/2024,0,182,4,Mobile,Paid Search,South
+1265,A,1/14/2024,0,3,6,Mobile,Organic,North
+1266,A,1/3/2024,0,22,5,Mobile,Organic,London
+1267,A,1/12/2024,0,149,4,Mobile,Email,North
+1268,A,1/9/2024,0,196,7,Mobile,Paid Search,London
+1269,B,1/28/2024,0,274,4,Desktop,Organic,London
+1270,A,1/7/2024,0,103,2,Mobile,Organic,London
+1271,B,1/9/2024,0,356,3,Mobile,Social,North
+1272,B,1/13/2024,0,590,8,Desktop,Paid Search,North
+1273,B,1/18/2024,1,454,5,Mobile,Paid Search,London
+1274,A,1/5/2024,0,12,6,Tablet,Organic,London
+1275,A,1/13/2024,0,196,2,Desktop,Paid Search,Midlands
+1276,A,1/4/2024,0,33,3,Mobile,Paid Search,London
+1277,A,1/31/2024,0,83,3,Mobile,Paid Search,Scotland
+1278,B,1/2/2024,0,1295,7,Mobile,Social,Midlands
+1279,A,1/16/2024,0,46,5,Mobile,Organic,Midlands
+1280,A,1/9/2024,0,207,2,Mobile,Email,Midlands
+1281,B,1/9/2024,0,288,2,Mobile,Paid Search,Scotland
+1282,B,1/6/2024,0,363,7,Desktop,Organic,Midlands
+1283,B,1/11/2024,1,246,8,Mobile,Email,Midlands
+1284,A,1/22/2024,0,2,4,Mobile,Social,North
+1285,A,1/24/2024,0,118,4,Desktop,Organic,North
+1286,B,1/22/2024,1,218,4,Mobile,Social,London
+1287,A,1/1/2024,0,27,3,Mobile,Organic,London
+1288,A,1/4/2024,0,129,4,Mobile,Social,South
+1289,A,1/13/2024,0,10,6,Mobile,Organic,Scotland
+1290,A,1/23/2024,0,24,5,Tablet,Social,North
+1291,A,1/13/2024,0,151,5,Mobile,Email,London
+1292,A,1/13/2024,0,42,3,Mobile,Organic,Scotland
+1293,B,1/2/2024,1,251,6,Mobile,Email,Midlands
+1294,B,1/9/2024,0,350,4,Mobile,Paid Search,Scotland
+1295,B,1/24/2024,0,483,2,Mobile,Email,North
+1296,A,1/8/2024,0,66,5,Desktop,Organic,South
+1297,A,1/7/2024,1,54,7,Tablet,Email,North
+1298,A,1/4/2024,0,33,8,Mobile,Organic,London
+1299,B,1/18/2024,1,303,0,Mobile,Social,London
+1300,B,1/3/2024,0,367,5,Desktop,Paid Search,Scotland
+1301,A,1/28/2024,0,9,4,Mobile,Email,North
+1302,B,1/6/2024,0,825,6,Mobile,Paid Search,London
+1303,A,1/12/2024,0,16,4,Mobile,Email,Midlands
+1304,B,1/12/2024,0,233,7,Mobile,Organic,Midlands
+1305,B,1/21/2024,0,370,2,Mobile,Email,South
+1306,B,1/28/2024,0,614,3,Desktop,Paid Search,Scotland
+1307,B,1/8/2024,0,375,3,Desktop,Email,London
+1308,B,1/22/2024,0,485,5,Mobile,Paid Search,South
+1309,A,1/22/2024,0,124,6,Mobile,Paid Search,Midlands
+1310,B,1/1/2024,0,505,9,Tablet,Organic,South
+1311,A,1/4/2024,0,25,6,Mobile,Social,South
+1312,B,1/21/2024,0,675,7,Desktop,Social,London
+1313,B,1/28/2024,0,237,2,Mobile,Email,London
+1314,B,1/11/2024,0,509,2,Mobile,Paid Search,London
+1315,A,1/3/2024,0,180,8,Mobile,Organic,Scotland
+1316,B,1/13/2024,0,309,8,Desktop,Social,South
+1317,B,1/25/2024,0,224,8,Mobile,Organic,South
+1318,B,1/17/2024,0,394,7,Mobile,Organic,Scotland
+1319,A,1/22/2024,0,25,6,Mobile,Paid Search,Midlands
+1320,A,1/22/2024,0,18,2,Desktop,Email,North
+1321,A,1/10/2024,0,85,7,Tablet,Paid Search,Midlands
+1322,A,1/21/2024,0,52,6,Tablet,Social,Scotland
+1323,B,1/12/2024,0,616,5,Tablet,Social,South
+1324,A,1/15/2024,0,74,6,Mobile,Organic,South
+1325,B,1/21/2024,1,1117,4,Mobile,Paid Search,London
+1326,A,1/10/2024,0,123,4,Mobile,Paid Search,London
+1327,A,1/14/2024,0,60,4,Mobile,Organic,South
+1328,B,1/13/2024,0,467,5,Desktop,Email,South
+1329,B,1/5/2024,0,322,4,Desktop,Organic,London
+1330,A,1/6/2024,0,206,7,Mobile,Organic,London
+1331,B,1/24/2024,0,243,2,Desktop,Social,Midlands
+1332,B,1/2/2024,0,381,4,Tablet,Paid Search,South
+1333,A,1/22/2024,0,77,1,Mobile,Social,South
+1334,B,1/17/2024,0,1682,6,Mobile,Organic,Scotland
+1335,B,1/4/2024,0,1104,1,Mobile,Paid Search,Midlands
+1336,B,1/14/2024,0,315,6,Mobile,Organic,North
+1337,A,1/10/2024,0,66,6,Mobile,Organic,North
+1338,B,1/3/2024,0,342,0,Mobile,Email,North
+1339,A,1/25/2024,0,22,6,Mobile,Social,London
+1340,A,1/3/2024,0,9,1,Tablet,Social,North
+1341,A,1/15/2024,0,89,4,Mobile,Organic,Scotland
+1342,A,1/6/2024,0,186,6,Mobile,Email,London
+1343,B,1/17/2024,0,608,7,Tablet,Organic,London
+1344,B,1/12/2024,0,389,6,Mobile,Organic,North
+1345,B,1/22/2024,0,407,3,Mobile,Organic,London
+1346,A,1/20/2024,0,166,7,Desktop,Email,Midlands
+1347,A,1/24/2024,0,127,6,Mobile,Paid Search,Midlands
+1348,A,1/29/2024,0,139,5,Desktop,Email,North
+1349,B,1/11/2024,0,1318,7,Mobile,Organic,Scotland
+1350,A,1/25/2024,0,12,4,Mobile,Paid Search,London
+1351,B,1/4/2024,0,605,7,Mobile,Organic,South
+1352,B,1/26/2024,0,259,1,Mobile,Email,North
+1353,A,1/28/2024,0,173,2,Desktop,Email,London
+1354,B,1/26/2024,0,387,2,Desktop,Paid Search,North
+1355,A,1/6/2024,0,200,6,Tablet,Email,North
+1356,B,1/1/2024,0,620,8,Desktop,Organic,Scotland
+1357,B,1/20/2024,0,692,6,Mobile,Paid Search,South
+1358,A,1/23/2024,1,164,0,Desktop,Social,London
+1359,A,1/28/2024,0,97,10,Desktop,Organic,North
+1360,B,1/16/2024,0,269,2,Desktop,Social,North
+1361,B,1/15/2024,0,730,5,Desktop,Paid Search,London
+1362,A,1/17/2024,0,70,8,Mobile,Paid Search,North
+1363,B,1/8/2024,0,292,5,Mobile,Organic,North
+1364,B,1/28/2024,0,299,4,Desktop,Email,North
+1365,B,1/26/2024,0,396,3,Mobile,Organic,Midlands
+1366,A,1/12/2024,1,42,7,Mobile,Email,Midlands
+1367,B,1/27/2024,0,377,7,Desktop,Email,South
+1368,B,1/22/2024,0,719,3,Mobile,Organic,Scotland
+1369,A,1/21/2024,0,59,3,Mobile,Paid Search,London
+1370,A,1/10/2024,0,81,2,Mobile,Organic,Scotland
+1371,B,1/27/2024,0,1066,2,Desktop,Social,Scotland
+1372,A,1/15/2024,0,59,7,Mobile,Paid Search,Midlands
+1373,B,1/30/2024,0,578,4,Desktop,Email,South
+1374,A,1/9/2024,0,203,1,Mobile,Paid Search,Scotland
+1375,A,1/2/2024,0,85,3,Mobile,Organic,Scotland
+1376,B,1/5/2024,1,613,10,Mobile,Paid Search,North
+1377,A,1/6/2024,0,176,3,Desktop,Email,London
+1378,B,1/7/2024,1,216,6,Mobile,Email,South
+1379,A,1/21/2024,0,133,4,Tablet,Paid Search,London
+1380,B,1/25/2024,0,269,5,Tablet,Social,Midlands
+1381,A,1/1/2024,0,53,3,Desktop,Email,Scotland
+1382,A,1/23/2024,0,148,7,Tablet,Social,Scotland
+1383,B,1/26/2024,0,1046,5,Mobile,Email,London
+1384,A,1/7/2024,0,89,2,Mobile,Paid Search,Midlands
+1385,B,1/20/2024,0,320,6,Desktop,Email,North
+1386,A,1/25/2024,0,117,3,Desktop,Social,North
+1387,B,1/30/2024,0,445,2,Desktop,Social,Scotland
+1388,A,1/12/2024,0,42,7,Desktop,Paid Search,Scotland
+1389,B,1/16/2024,0,1050,6,Tablet,Social,South
+1390,A,1/16/2024,0,181,3,Mobile,Social,London
+1391,A,1/11/2024,0,80,5,Desktop,Paid Search,Scotland
+1392,A,1/21/2024,0,22,7,Desktop,Email,Midlands
+1393,A,1/4/2024,1,55,4,Desktop,Paid Search,London
+1394,B,1/13/2024,0,220,4,Mobile,Email,South
+1395,A,1/7/2024,0,123,3,Desktop,Email,North
+1396,B,1/4/2024,0,529,6,Tablet,Email,South
+1397,A,1/15/2024,0,169,4,Mobile,Organic,London
+1398,A,1/19/2024,0,85,5,Desktop,Email,North
+1399,B,1/9/2024,0,288,7,Mobile,Paid Search,Midlands
+1400,B,1/11/2024,0,368,4,Tablet,Paid Search,North
+1401,A,1/8/2024,0,54,3,Mobile,Paid Search,North
+1402,A,1/1/2024,0,55,1,Mobile,Organic,Midlands
+1403,A,1/23/2024,0,11,5,Mobile,Social,Scotland
+1404,B,1/25/2024,0,399,8,Desktop,Organic,Scotland
+1405,B,1/24/2024,1,327,5,Mobile,Paid Search,North
+1406,A,1/8/2024,0,193,5,Desktop,Paid Search,North
+1407,B,1/13/2024,0,557,3,Tablet,Social,South
+1408,B,1/22/2024,0,491,3,Desktop,Organic,Scotland
+1409,B,1/27/2024,0,264,6,Mobile,Paid Search,Midlands
+1410,B,1/4/2024,1,608,5,Tablet,Email,North
+1411,A,1/8/2024,0,69,7,Desktop,Email,North
+1412,A,1/3/2024,0,35,6,Mobile,Paid Search,South
+1413,A,1/29/2024,0,94,8,Mobile,Email,South
+1414,A,1/9/2024,0,17,8,Mobile,Social,South
+1415,B,1/29/2024,0,227,8,Desktop,Paid Search,London
+1416,B,1/2/2024,0,827,9,Mobile,Organic,Midlands
+1417,A,1/2/2024,1,12,5,Mobile,Paid Search,London
+1418,A,1/28/2024,0,39,3,Desktop,Social,North
+1419,A,1/13/2024,0,180,4,Mobile,Organic,South
+1420,B,1/15/2024,0,814,5,Desktop,Social,South
+1421,A,1/28/2024,0,114,6,Desktop,Email,South
+1422,B,1/23/2024,0,212,7,Mobile,Email,Scotland
+1423,A,1/12/2024,0,12,4,Desktop,Email,Midlands
+1424,A,1/26/2024,0,48,6,Mobile,Social,London
+1425,B,1/4/2024,0,1294,13,Mobile,Social,Midlands
+1426,B,1/26/2024,0,1006,3,Desktop,Paid Search,South
+1427,A,1/8/2024,0,1,7,Mobile,Organic,North
+1428,B,1/9/2024,0,909,7,Tablet,Organic,Scotland
+1429,B,1/23/2024,0,305,2,Mobile,Social,Midlands
+1430,B,1/5/2024,0,607,5,Mobile,Social,North
+1431,A,1/24/2024,0,181,2,Tablet,Email,South
+1432,B,1/20/2024,0,217,4,Mobile,Social,South
+1433,A,1/18/2024,0,201,3,Desktop,Email,South
+1434,B,1/11/2024,1,329,3,Mobile,Social,South
+1435,A,1/15/2024,0,45,1,Desktop,Organic,Scotland
+1436,A,1/28/2024,0,9,7,Mobile,Paid Search,Scotland
+1437,A,1/22/2024,0,110,4,Mobile,Social,Midlands
+1438,B,1/9/2024,0,365,9,Mobile,Email,South
+1439,A,1/17/2024,0,67,4,Mobile,Paid Search,Scotland
+1440,B,1/27/2024,1,335,6,Desktop,Email,North
+1441,B,1/26/2024,0,1051,3,Mobile,Email,Scotland
+1442,A,1/12/2024,0,29,8,Mobile,Paid Search,Scotland
+1443,B,1/7/2024,1,334,6,Mobile,Paid Search,Midlands
+1444,A,1/10/2024,0,175,5,Desktop,Paid Search,Scotland
+1445,B,1/25/2024,0,607,3,Desktop,Social,North
+1446,A,1/26/2024,0,58,11,Mobile,Paid Search,South
+1447,B,1/25/2024,0,353,7,Mobile,Social,London
+1448,B,1/10/2024,0,546,6,Mobile,Organic,Midlands
+1449,B,1/27/2024,0,868,6,Desktop,Organic,North
+1450,B,1/13/2024,0,344,6,Mobile,Email,Midlands
+1451,A,1/19/2024,0,206,6,Mobile,Email,South
+1452,B,1/11/2024,0,288,5,Desktop,Social,Scotland
+1453,B,1/13/2024,0,609,8,Tablet,Email,Scotland
+1454,B,1/21/2024,0,253,6,Mobile,Organic,North
+1455,A,1/8/2024,0,9,8,Desktop,Social,South
+1456,B,1/8/2024,0,801,13,Mobile,Social,London
+1457,B,1/4/2024,0,350,4,Tablet,Paid Search,London
+1458,B,1/15/2024,0,338,1,Mobile,Social,Scotland
+1459,A,1/31/2024,0,72,4,Mobile,Email,South
+1460,B,1/28/2024,0,322,2,Desktop,Organic,South
+1461,A,1/11/2024,0,150,7,Mobile,Email,North
+1462,B,1/11/2024,0,316,4,Mobile,Organic,London
+1463,A,1/1/2024,0,33,5,Mobile,Paid Search,North
+1464,B,1/17/2024,0,321,8,Desktop,Organic,Midlands
+1465,B,1/15/2024,0,2232,6,Mobile,Paid Search,South
+1466,A,1/20/2024,0,14,5,Desktop,Email,London
+1467,B,1/6/2024,0,1133,2,Mobile,Paid Search,North
+1468,A,1/24/2024,0,156,6,Mobile,Social,Scotland
+1469,B,1/22/2024,0,613,5,Mobile,Social,Midlands
+1470,B,1/28/2024,0,457,6,Mobile,Organic,North
+1471,B,1/25/2024,0,251,3,Desktop,Email,Scotland
+1472,B,1/15/2024,0,402,6,Desktop,Email,London
+1473,B,1/31/2024,0,632,6,Mobile,Organic,London
+1474,A,1/9/2024,0,155,4,Mobile,Social,Midlands
+1475,A,1/14/2024,0,118,7,Desktop,Paid Search,Scotland
+1476,B,1/18/2024,0,330,4,Desktop,Organic,South
+1477,B,1/26/2024,0,494,0,Desktop,Paid Search,London
+1478,B,1/17/2024,0,431,9,Desktop,Paid Search,South
+1479,B,1/18/2024,0,479,1,Mobile,Email,South
+1480,A,1/5/2024,0,171,6,Desktop,Social,North
+1481,B,1/20/2024,1,510,4,Mobile,Paid Search,North
+1482,A,1/20/2024,0,38,5,Mobile,Social,London
+1483,B,1/9/2024,0,235,6,Desktop,Email,South
+1484,A,1/11/2024,0,1,8,Tablet,Organic,North
+1485,A,1/24/2024,0,117,4,Desktop,Organic,Scotland
+1486,A,1/22/2024,0,136,5,Mobile,Email,Scotland
+1487,A,1/1/2024,0,151,10,Mobile,Email,Scotland
+1488,B,1/18/2024,0,356,5,Mobile,Paid Search,Scotland
+1489,A,1/6/2024,0,147,7,Desktop,Email,South
+1490,A,1/27/2024,0,178,6,Mobile,Organic,Scotland
+1491,A,1/2/2024,0,81,4,Desktop,Social,South
+1492,A,1/15/2024,0,140,3,Mobile,Social,London
+1493,A,1/29/2024,0,77,5,Desktop,Social,London
+1494,A,1/26/2024,0,22,4,Tablet,Social,Scotland
+1495,B,1/21/2024,0,277,4,Mobile,Email,Scotland
+1496,B,1/14/2024,0,330,5,Mobile,Email,Scotland
+1497,B,1/5/2024,0,289,2,Desktop,Social,London
+1498,A,1/6/2024,0,186,7,Mobile,Email,North
+1499,A,1/6/2024,0,143,3,Desktop,Paid Search,London
+1500,B,1/30/2024,0,597,5,Desktop,Email,Scotland
+1501,B,1/22/2024,0,219,6,Mobile,Paid Search,North
+1502,A,1/30/2024,0,195,8,Desktop,Paid Search,North
+1503,A,1/18/2024,0,7,5,Mobile,Email,Midlands
+1504,A,1/14/2024,0,125,3,Tablet,Social,South
+1505,A,1/10/2024,0,143,3,Mobile,Paid Search,Scotland
+1506,A,1/14/2024,0,152,5,Desktop,Email,South
+1507,B,1/13/2024,0,260,7,Mobile,Organic,Midlands
+1508,B,1/31/2024,0,228,5,Mobile,Social,South
+1509,B,1/30/2024,0,280,5,Mobile,Organic,Scotland
+1510,B,1/3/2024,0,434,10,Desktop,Paid Search,Midlands
+1511,B,1/30/2024,0,502,2,Mobile,Organic,South
+1512,B,1/6/2024,0,379,6,Desktop,Email,London
+1513,B,1/29/2024,0,933,7,Mobile,Social,North
+1514,A,1/8/2024,0,5,4,Desktop,Paid Search,Midlands
+1515,A,1/12/2024,0,65,11,Desktop,Email,London
+1516,A,1/13/2024,0,2,5,Mobile,Social,Scotland
+1517,B,1/11/2024,0,312,4,Mobile,Paid Search,North
+1518,B,1/12/2024,0,684,1,Mobile,Paid Search,Midlands
+1519,A,1/1/2024,0,83,11,Mobile,Paid Search,North
+1520,B,1/17/2024,0,785,3,Mobile,Paid Search,Midlands
+1521,A,1/16/2024,0,18,2,Desktop,Organic,Midlands
+1522,B,1/11/2024,1,817,7,Mobile,Organic,South
+1523,A,1/13/2024,0,129,5,Desktop,Organic,North
+1524,A,1/18/2024,0,32,1,Tablet,Paid Search,North
+1525,A,1/11/2024,0,199,6,Mobile,Organic,London
+1526,A,1/31/2024,0,89,4,Desktop,Social,Scotland
+1527,A,1/28/2024,0,100,9,Mobile,Paid Search,London
+1528,A,1/12/2024,0,110,4,Desktop,Social,South
+1529,B,1/6/2024,0,487,9,Mobile,Social,Midlands
+1530,B,1/9/2024,1,232,5,Desktop,Organic,South
+1531,A,1/16/2024,1,111,2,Tablet,Paid Search,South
+1532,B,1/4/2024,0,282,8,Mobile,Organic,London
+1533,B,1/3/2024,0,377,2,Desktop,Organic,Midlands
+1534,A,1/28/2024,0,95,7,Mobile,Organic,Scotland
+1535,A,1/16/2024,0,160,9,Mobile,Paid Search,South
+1536,A,1/24/2024,0,38,3,Desktop,Paid Search,Scotland
+1537,A,1/27/2024,0,59,3,Mobile,Organic,Midlands
+1538,B,1/26/2024,0,342,6,Desktop,Social,Midlands
+1539,A,1/30/2024,0,60,7,Mobile,Social,London
+1540,B,1/25/2024,0,223,2,Desktop,Paid Search,North
+1541,B,1/12/2024,0,370,9,Mobile,Email,London
+1542,A,1/11/2024,0,33,5,Mobile,Organic,Scotland
+1543,B,1/5/2024,0,251,5,Mobile,Organic,London
+1544,A,1/25/2024,0,88,3,Mobile,Email,Midlands
+1545,B,1/18/2024,0,988,6,Mobile,Paid Search,South
+1546,A,1/19/2024,0,198,6,Mobile,Social,North
+1547,B,1/23/2024,0,491,4,Mobile,Paid Search,Midlands
+1548,B,1/23/2024,0,239,6,Mobile,Social,South
+1549,A,1/6/2024,0,13,8,Mobile,Social,Scotland
+1550,B,1/22/2024,1,300,4,Mobile,Paid Search,Scotland
+1551,B,1/18/2024,0,907,6,Mobile,Organic,Scotland
+1552,B,1/26/2024,1,276,4,Tablet,Organic,London
+1553,B,1/6/2024,0,513,9,Mobile,Organic,Scotland
+1554,B,1/4/2024,0,646,5,Mobile,Social,Scotland
+1555,A,1/12/2024,0,77,7,Mobile,Organic,London
+1556,A,1/19/2024,0,71,2,Desktop,Social,South
+1557,B,1/29/2024,1,283,4,Mobile,Organic,Midlands
+1558,A,1/27/2024,0,158,4,Desktop,Paid Search,North
+1559,B,1/29/2024,0,549,7,Mobile,Email,Scotland
+1560,B,1/2/2024,0,690,3,Mobile,Social,Scotland
+1561,A,1/17/2024,0,130,4,Desktop,Paid Search,Scotland
+1562,A,1/11/2024,0,81,3,Mobile,Social,London
+1563,B,1/11/2024,0,454,3,Mobile,Social,London
+1564,A,1/21/2024,0,96,2,Desktop,Paid Search,London
+1565,B,1/16/2024,0,518,10,Desktop,Organic,North
+1566,A,1/2/2024,0,165,3,Desktop,Social,Midlands
+1567,B,1/2/2024,0,330,2,Desktop,Email,Scotland
+1568,A,1/23/2024,0,30,6,Desktop,Email,South
+1569,B,1/8/2024,0,293,4,Desktop,Paid Search,Scotland
+1570,A,1/13/2024,0,180,6,Mobile,Email,Scotland
+1571,B,1/10/2024,0,265,2,Desktop,Paid Search,Scotland
+1572,A,1/8/2024,0,55,4,Desktop,Paid Search,Scotland
+1573,B,1/30/2024,0,400,9,Mobile,Social,Midlands
+1574,B,1/4/2024,1,595,10,Mobile,Paid Search,South
+1575,A,1/15/2024,0,73,5,Mobile,Paid Search,London
+1576,A,1/30/2024,0,30,2,Desktop,Organic,South
+1577,A,1/1/2024,0,7,3,Mobile,Social,Scotland
+1578,B,1/11/2024,0,308,7,Tablet,Email,South
+1579,B,1/7/2024,0,280,6,Mobile,Organic,Scotland
+1580,B,1/17/2024,1,237,4,Desktop,Organic,South
+1581,A,1/27/2024,0,79,2,Mobile,Social,North
+1582,A,1/20/2024,0,148,7,Desktop,Social,South
+1583,B,1/24/2024,0,270,6,Desktop,Organic,London
+1584,A,1/18/2024,0,206,7,Desktop,Social,London
+1585,B,1/22/2024,0,1321,7,Desktop,Social,South
+1586,A,1/29/2024,0,44,3,Desktop,Paid Search,South
+1587,B,1/22/2024,0,356,3,Mobile,Social,Midlands
+1588,A,1/12/2024,0,155,4,Mobile,Paid Search,South
+1589,A,1/9/2024,0,167,5,Desktop,Organic,London
+1590,B,1/5/2024,0,379,2,Mobile,Organic,North
+1591,B,1/10/2024,0,353,4,Mobile,Email,London
+1592,B,1/4/2024,0,1421,7,Mobile,Social,Midlands
+1593,A,1/5/2024,0,41,5,Mobile,Organic,South
+1594,A,1/28/2024,0,32,6,Mobile,Paid Search,North
+1595,B,1/28/2024,0,386,4,Desktop,Organic,London
+1596,B,1/10/2024,1,259,9,Mobile,Social,North
+1597,A,1/31/2024,0,96,2,Mobile,Email,Scotland
+1598,A,1/11/2024,0,24,6,Mobile,Email,London
+1599,A,1/21/2024,0,26,4,Desktop,Organic,Scotland
+1600,B,1/24/2024,0,673,3,Tablet,Email,North
+1601,A,1/10/2024,0,63,6,Desktop,Social,South
+1602,A,1/28/2024,0,117,7,Mobile,Social,South
+1603,A,1/8/2024,0,77,8,Tablet,Email,South
+1604,A,1/2/2024,0,131,9,Desktop,Paid Search,Scotland
+1605,A,1/23/2024,0,21,5,Desktop,Email,South
+1606,B,1/8/2024,0,219,4,Desktop,Email,Midlands
+1607,A,1/16/2024,1,21,3,Mobile,Organic,London
+1608,B,1/27/2024,0,483,7,Mobile,Paid Search,London
+1609,A,1/22/2024,0,79,4,Mobile,Email,North
+1610,B,1/5/2024,0,232,8,Mobile,Organic,Scotland
+1611,B,1/27/2024,0,636,8,Desktop,Organic,London
+1612,B,1/25/2024,1,315,1,Desktop,Organic,Scotland
+1613,B,1/29/2024,0,228,5,Desktop,Social,North
+1614,A,1/3/2024,0,117,4,Mobile,Organic,South
+1615,A,1/12/2024,0,121,3,Mobile,Organic,North
+1616,B,1/13/2024,0,332,2,Mobile,Social,Midlands
+1617,B,1/13/2024,0,1541,8,Mobile,Social,South
+1618,B,1/10/2024,0,325,8,Mobile,Organic,South
+1619,B,1/4/2024,0,244,3,Desktop,Email,South
+1620,B,1/9/2024,0,393,4,Mobile,Paid Search,North
+1621,A,1/22/2024,0,187,12,Tablet,Social,Midlands
+1622,A,1/24/2024,0,18,3,Mobile,Paid Search,Scotland
+1623,B,1/23/2024,0,247,3,Desktop,Social,North
+1624,B,1/27/2024,0,948,4,Mobile,Organic,London
+1625,A,1/2/2024,0,57,3,Mobile,Social,London
+1626,B,1/19/2024,0,351,4,Desktop,Organic,North
+1627,A,1/1/2024,0,67,6,Desktop,Paid Search,Scotland
+1628,B,1/25/2024,0,230,4,Mobile,Email,London
+1629,A,1/29/2024,0,30,3,Mobile,Organic,Scotland
+1630,A,1/7/2024,0,179,8,Mobile,Paid Search,South
+1631,B,1/17/2024,0,423,2,Desktop,Paid Search,North
+1632,A,1/3/2024,0,128,3,Tablet,Social,South
+1633,B,1/20/2024,0,328,7,Mobile,Organic,London
+1634,B,1/20/2024,0,476,3,Mobile,Paid Search,Scotland
+1635,B,1/21/2024,0,785,7,Tablet,Email,South
+1636,A,1/30/2024,0,80,5,Mobile,Social,London
+1637,A,1/3/2024,0,152,2,Desktop,Social,Midlands
+1638,A,1/3/2024,0,49,9,Mobile,Paid Search,South
+1639,B,1/17/2024,0,1467,4,Mobile,Organic,Midlands
+1640,B,1/7/2024,0,785,3,Mobile,Social,Midlands
+1641,B,1/27/2024,0,232,1,Mobile,Organic,London
+1642,B,1/26/2024,0,553,2,Mobile,Paid Search,North
+1643,B,1/14/2024,0,220,6,Desktop,Paid Search,Scotland
+1644,B,1/17/2024,0,293,10,Desktop,Organic,London
+1645,A,1/18/2024,0,28,6,Desktop,Email,South
+1646,B,1/13/2024,0,422,6,Desktop,Social,Scotland
+1647,A,1/20/2024,0,40,2,Mobile,Paid Search,North
+1648,B,1/29/2024,0,524,4,Mobile,Email,London
+1649,B,1/20/2024,1,457,5,Desktop,Email,North
+1650,B,1/21/2024,0,370,8,Mobile,Organic,South
+1651,A,1/27/2024,0,11,5,Mobile,Organic,London
+1652,A,1/18/2024,0,108,3,Mobile,Organic,South
+1653,A,1/4/2024,0,91,1,Mobile,Email,Scotland
+1654,A,1/1/2024,1,133,7,Mobile,Social,Scotland
+1655,A,1/18/2024,0,27,7,Desktop,Organic,North
+1656,B,1/1/2024,0,829,4,Tablet,Social,North
+1657,B,1/26/2024,0,242,4,Desktop,Organic,Scotland
+1658,A,1/26/2024,0,109,4,Tablet,Email,Midlands
+1659,A,1/13/2024,0,151,9,Tablet,Social,Scotland
+1660,A,1/20/2024,0,177,1,Mobile,Social,London
+1661,B,1/20/2024,1,275,3,Mobile,Email,South
+1662,B,1/23/2024,0,217,4,Desktop,Social,Scotland
+1663,B,1/10/2024,0,755,3,Mobile,Email,Scotland
+1664,A,1/27/2024,0,206,3,Mobile,Email,South
+1665,B,1/11/2024,0,1454,8,Mobile,Paid Search,South
+1666,B,1/9/2024,0,571,11,Mobile,Organic,London
+1667,A,1/9/2024,0,70,4,Mobile,Paid Search,South
+1668,B,1/5/2024,0,800,2,Mobile,Email,North
+1669,A,1/26/2024,0,37,3,Mobile,Email,Scotland
+1670,B,1/1/2024,0,510,4,Desktop,Social,South
+1671,A,1/17/2024,1,143,2,Mobile,Email,London
+1672,B,1/22/2024,0,631,7,Desktop,Email,South
+1673,B,1/2/2024,0,607,2,Mobile,Email,Scotland
+1674,B,1/24/2024,0,491,11,Mobile,Organic,Midlands
+1675,B,1/13/2024,0,468,5,Mobile,Paid Search,South
+1676,A,1/9/2024,0,109,5,Mobile,Paid Search,North
+1677,A,1/29/2024,0,25,4,Desktop,Organic,Scotland
+1678,A,1/4/2024,0,154,4,Desktop,Organic,London
+1679,A,1/5/2024,0,57,4,Desktop,Organic,Scotland
+1680,B,1/11/2024,0,356,3,Tablet,Paid Search,Midlands
+1681,A,1/24/2024,0,127,5,Mobile,Paid Search,London
+1682,B,1/19/2024,0,1114,9,Mobile,Email,Midlands
+1683,B,1/21/2024,0,307,5,Mobile,Paid Search,Midlands
+1684,B,1/3/2024,0,518,2,Mobile,Social,North
+1685,A,1/12/2024,0,42,6,Mobile,Paid Search,South
+1686,B,1/26/2024,0,594,7,Mobile,Organic,North
+1687,B,1/19/2024,0,768,5,Mobile,Paid Search,North
+1688,A,1/19/2024,0,200,7,Mobile,Email,North
+1689,B,1/13/2024,1,279,7,Mobile,Paid Search,London
+1690,B,1/28/2024,0,434,8,Desktop,Organic,South
+1691,A,1/7/2024,1,57,7,Desktop,Social,South
+1692,B,1/15/2024,0,209,3,Desktop,Organic,London
+1693,A,1/23/2024,0,152,4,Desktop,Social,North
+1694,A,1/7/2024,0,47,4,Mobile,Email,North
+1695,A,1/26/2024,0,137,3,Mobile,Email,Midlands
+1696,A,1/8/2024,0,21,7,Mobile,Paid Search,Midlands
+1697,A,1/5/2024,0,7,7,Desktop,Email,Scotland
+1698,A,1/21/2024,0,43,3,Desktop,Email,Midlands
+1699,B,1/14/2024,0,989,7,Mobile,Organic,South
+1700,B,1/4/2024,0,239,8,Mobile,Organic,London
+1701,B,1/23/2024,0,1012,3,Tablet,Paid Search,North
+1702,A,1/10/2024,0,169,4,Mobile,Paid Search,Scotland
+1703,A,1/20/2024,0,112,7,Desktop,Paid Search,Midlands
+1704,B,1/15/2024,0,211,1,Mobile,Paid Search,Scotland
+1705,A,1/18/2024,1,173,4,Mobile,Organic,London
+1706,A,1/20/2024,0,33,2,Desktop,Paid Search,London
+1707,B,1/13/2024,0,307,2,Desktop,Paid Search,Scotland
+1708,A,1/29/2024,0,73,5,Desktop,Email,Scotland
+1709,B,1/8/2024,0,289,6,Mobile,Paid Search,Scotland
+1710,B,1/9/2024,0,315,5,Mobile,Social,North
+1711,A,1/16/2024,0,49,4,Desktop,Email,South
+1712,A,1/19/2024,0,18,5,Mobile,Organic,Midlands
+1713,B,1/16/2024,0,455,7,Mobile,Social,Midlands
+1714,A,1/7/2024,0,184,4,Desktop,Paid Search,Midlands
+1715,A,1/14/2024,1,17,2,Mobile,Email,Scotland
+1716,B,1/28/2024,0,1581,9,Mobile,Paid Search,Scotland
+1717,A,1/14/2024,0,17,4,Desktop,Email,Scotland
+1718,B,1/25/2024,0,356,3,Tablet,Paid Search,North
+1719,B,1/27/2024,0,1234,4,Mobile,Social,North
+1720,A,1/4/2024,0,82,4,Mobile,Organic,North
+1721,A,1/26/2024,0,46,6,Desktop,Social,North
+1722,A,1/15/2024,0,38,4,Desktop,Social,London
+1723,A,1/3/2024,0,108,6,Desktop,Organic,North
+1724,A,1/5/2024,0,31,9,Mobile,Email,North
+1725,B,1/1/2024,0,353,3,Mobile,Email,North
+1726,A,1/3/2024,0,19,3,Desktop,Organic,Midlands
+1727,B,1/15/2024,0,213,8,Desktop,Paid Search,Midlands
+1728,B,1/24/2024,0,1713,6,Desktop,Email,Midlands
+1729,B,1/27/2024,0,504,1,Mobile,Social,South
+1730,B,1/8/2024,0,286,7,Mobile,Organic,London
+1731,A,1/31/2024,1,109,5,Mobile,Social,Scotland
+1732,B,1/29/2024,0,293,7,Tablet,Email,North
+1733,B,1/4/2024,1,224,5,Desktop,Organic,Midlands
+1734,A,1/2/2024,0,166,2,Mobile,Organic,London
+1735,A,1/29/2024,0,42,6,Mobile,Email,North
+1736,B,1/24/2024,0,653,7,Mobile,Email,South
+1737,A,1/24/2024,1,179,5,Mobile,Organic,Scotland
+1738,A,1/10/2024,0,64,6,Desktop,Paid Search,North
+1739,A,1/4/2024,0,137,5,Desktop,Organic,Scotland
+1740,A,1/3/2024,0,160,6,Mobile,Paid Search,North
+1741,B,1/2/2024,0,527,3,Mobile,Social,South
+1742,B,1/25/2024,0,396,4,Desktop,Paid Search,London
+1743,B,1/17/2024,0,439,5,Mobile,Paid Search,Scotland
+1744,A,1/23/2024,0,3,8,Mobile,Email,Scotland
+1745,A,1/21/2024,0,161,10,Tablet,Organic,London
+1746,A,1/24/2024,0,196,5,Desktop,Social,Scotland
+1747,A,1/20/2024,0,5,3,Desktop,Organic,Midlands
+1748,A,1/23/2024,0,90,7,Mobile,Paid Search,London
+1749,B,1/13/2024,0,428,2,Mobile,Paid Search,South
+1750,A,1/5/2024,0,44,6,Mobile,Paid Search,North
+1751,B,1/31/2024,0,229,6,Mobile,Organic,North
+1752,A,1/30/2024,0,72,6,Desktop,Paid Search,London
+1753,A,1/21/2024,0,3,5,Mobile,Organic,Midlands
+1754,A,1/30/2024,0,82,0,Desktop,Social,South
+1755,B,1/9/2024,0,1117,6,Mobile,Social,North
+1756,B,1/25/2024,0,485,4,Mobile,Organic,North
+1757,B,1/29/2024,0,962,6,Tablet,Social,Midlands
+1758,A,1/25/2024,0,200,3,Mobile,Email,Scotland
+1759,A,1/28/2024,0,34,6,Mobile,Paid Search,London
+1760,B,1/22/2024,0,238,3,Mobile,Paid Search,Midlands
+1761,A,1/6/2024,0,181,5,Mobile,Paid Search,Midlands
+1762,B,1/5/2024,0,558,2,Mobile,Email,Midlands
+1763,A,1/25/2024,1,30,4,Mobile,Paid Search,Midlands
+1764,A,1/10/2024,0,200,7,Desktop,Organic,Scotland
+1765,A,1/8/2024,0,48,6,Desktop,Paid Search,South
+1766,A,1/7/2024,0,117,7,Mobile,Organic,Midlands
+1767,B,1/7/2024,0,401,6,Mobile,Social,Midlands
+1768,A,1/6/2024,0,193,2,Desktop,Organic,London
+1769,A,1/21/2024,0,141,0,Mobile,Organic,North
+1770,A,1/29/2024,0,150,4,Desktop,Organic,Scotland
+1771,A,1/20/2024,0,184,5,Desktop,Paid Search,Midlands
+1772,B,1/3/2024,0,461,2,Mobile,Email,South
+1773,B,1/19/2024,0,667,3,Desktop,Email,South
+1774,B,1/22/2024,1,932,6,Tablet,Organic,South
+1775,B,1/15/2024,0,463,9,Desktop,Paid Search,London
+1776,A,1/4/2024,0,113,6,Mobile,Email,South
+1777,B,1/28/2024,0,349,4,Mobile,Social,London
+1778,A,1/12/2024,0,172,2,Tablet,Social,Scotland
+1779,A,1/6/2024,1,88,6,Mobile,Paid Search,South
+1780,B,1/19/2024,0,551,7,Desktop,Social,North
+1781,A,1/31/2024,0,11,2,Mobile,Social,Midlands
+1782,B,1/4/2024,0,696,6,Mobile,Social,Scotland
+1783,A,1/15/2024,0,185,8,Desktop,Email,North
+1784,B,1/9/2024,0,304,4,Desktop,Social,Scotland
+1785,B,1/5/2024,0,323,6,Desktop,Organic,South
+1786,B,1/13/2024,0,676,6,Tablet,Organic,Scotland
+1787,B,1/23/2024,1,303,1,Mobile,Social,Scotland
+1788,B,1/26/2024,1,285,7,Mobile,Organic,Scotland
+1789,A,1/18/2024,0,20,6,Tablet,Email,London
+1790,B,1/30/2024,0,219,5,Mobile,Paid Search,North
+1791,A,1/30/2024,0,48,3,Desktop,Organic,South
+1792,B,1/5/2024,0,401,7,Mobile,Social,Midlands
+1793,B,1/25/2024,0,215,4,Mobile,Paid Search,South
+1794,B,1/16/2024,0,342,2,Mobile,Paid Search,South
+1795,A,1/27/2024,0,12,7,Mobile,Social,London
+1796,A,1/19/2024,0,26,5,Desktop,Organic,London
+1797,B,1/14/2024,0,377,8,Desktop,Email,Scotland
+1798,A,1/25/2024,0,22,7,Desktop,Organic,South
+1799,A,1/30/2024,0,22,5,Mobile,Organic,North
+1800,A,1/16/2024,0,3,4,Mobile,Email,London
+1801,B,1/27/2024,0,940,3,Mobile,Paid Search,London
+1802,B,1/15/2024,0,401,9,Mobile,Email,North
+1803,A,1/22/2024,0,130,4,Mobile,Email,London
+1804,A,1/4/2024,0,105,8,Mobile,Social,North
+1805,A,1/7/2024,0,129,4,Mobile,Social,Midlands
+1806,B,1/16/2024,0,447,2,Mobile,Organic,North
+1807,B,1/24/2024,0,324,2,Mobile,Social,Midlands
+1808,A,1/22/2024,0,61,5,Mobile,Email,Scotland
+1809,A,1/21/2024,0,57,8,Mobile,Email,Scotland
+1810,A,1/22/2024,0,31,5,Mobile,Social,London
+1811,B,1/21/2024,0,323,6,Tablet,Social,North
+1812,B,1/8/2024,1,433,3,Mobile,Social,London
+1813,A,1/17/2024,1,92,5,Desktop,Email,North
+1814,A,1/16/2024,0,6,8,Mobile,Paid Search,London
+1815,A,1/27/2024,0,25,4,Desktop,Paid Search,Scotland
+1816,B,1/23/2024,0,1031,5,Mobile,Social,Scotland
+1817,A,1/31/2024,0,105,1,Desktop,Organic,London
+1818,B,1/10/2024,1,439,5,Mobile,Organic,North
+1819,B,1/10/2024,0,293,6,Desktop,Paid Search,South
+1820,A,1/27/2024,0,144,3,Mobile,Social,North
+1821,A,1/2/2024,0,69,6,Mobile,Email,London
+1822,A,1/31/2024,1,38,5,Desktop,Organic,North
+1823,B,1/30/2024,0,286,5,Mobile,Organic,Midlands
+1824,B,1/9/2024,0,447,6,Tablet,Email,North
+1825,B,1/17/2024,0,309,6,Mobile,Email,Scotland
+1826,B,1/11/2024,0,226,7,Mobile,Social,Scotland
+1827,A,1/10/2024,0,12,6,Desktop,Email,Midlands
+1828,B,1/22/2024,0,1037,5,Mobile,Email,North
+1829,B,1/25/2024,1,480,6,Mobile,Email,South
+1830,A,1/17/2024,0,103,6,Desktop,Paid Search,North
+1831,B,1/4/2024,0,1173,5,Desktop,Email,Scotland
+1832,B,1/16/2024,0,276,10,Tablet,Organic,Scotland
+1833,B,1/20/2024,0,261,4,Mobile,Social,London
+1834,B,1/15/2024,0,413,8,Mobile,Social,Scotland
+1835,B,1/25/2024,0,501,6,Mobile,Social,London
+1836,B,1/27/2024,0,320,4,Mobile,Paid Search,Scotland
+1837,A,1/21/2024,0,41,5,Desktop,Organic,Scotland
+1838,A,1/5/2024,0,123,4,Mobile,Email,South
+1839,B,1/6/2024,0,789,6,Mobile,Organic,London
+1840,A,1/17/2024,0,76,2,Mobile,Social,London
+1841,A,1/1/2024,0,139,2,Desktop,Email,Scotland
+1842,A,1/31/2024,0,169,9,Tablet,Social,London
+1843,A,1/25/2024,0,173,1,Desktop,Social,Scotland
+1844,B,1/19/2024,0,284,3,Mobile,Social,Scotland
+1845,B,1/4/2024,0,859,4,Desktop,Organic,North
+1846,A,1/17/2024,0,82,3,Desktop,Organic,London
+1847,A,1/9/2024,0,38,2,Mobile,Social,Midlands
+1848,A,1/31/2024,0,65,6,Mobile,Social,London
+1849,B,1/24/2024,0,653,2,Mobile,Email,London
+1850,B,1/2/2024,0,311,7,Mobile,Social,South
+1851,A,1/8/2024,0,101,10,Desktop,Social,Midlands
+1852,B,1/15/2024,0,507,1,Mobile,Social,Midlands
+1853,B,1/7/2024,0,592,2,Mobile,Social,South
+1854,B,1/27/2024,0,562,4,Tablet,Organic,South
+1855,B,1/6/2024,0,753,4,Desktop,Social,London
+1856,A,1/1/2024,0,87,8,Desktop,Paid Search,North
+1857,B,1/15/2024,0,422,6,Mobile,Social,South
+1858,A,1/23/2024,0,185,2,Mobile,Organic,Midlands
+1859,B,1/26/2024,0,553,6,Mobile,Paid Search,Midlands
+1860,B,1/7/2024,0,391,8,Mobile,Paid Search,London
+1861,B,1/29/2024,0,449,8,Mobile,Social,North
+1862,B,1/30/2024,0,320,2,Mobile,Social,Scotland
+1863,A,1/25/2024,0,58,5,Mobile,Organic,South
+1864,B,1/17/2024,0,236,4,Mobile,Paid Search,South
+1865,B,1/2/2024,0,1253,3,Mobile,Paid Search,London
+1866,B,1/27/2024,0,831,8,Desktop,Organic,North
+1867,A,1/9/2024,0,13,3,Desktop,Social,Midlands
+1868,A,1/29/2024,0,54,7,Mobile,Email,Midlands
+1869,A,1/9/2024,0,42,2,Mobile,Email,Scotland
+1870,B,1/13/2024,0,388,1,Mobile,Paid Search,Midlands
+1871,B,1/6/2024,1,510,5,Mobile,Paid Search,South
+1872,A,1/6/2024,0,72,4,Mobile,Social,Scotland
+1873,B,1/20/2024,0,211,4,Desktop,Email,North
+1874,B,1/20/2024,0,551,4,Tablet,Paid Search,Scotland
+1875,B,1/21/2024,0,395,3,Desktop,Social,North
+1876,B,1/3/2024,1,234,0,Tablet,Email,Midlands
+1877,B,1/17/2024,0,267,2,Desktop,Organic,London
+1878,B,1/31/2024,1,213,3,Mobile,Paid Search,Scotland
+1879,A,1/17/2024,0,105,4,Tablet,Organic,Scotland
+1880,B,1/12/2024,0,249,2,Mobile,Email,South
+1881,B,1/16/2024,0,350,6,Desktop,Social,South
+1882,B,1/15/2024,0,619,5,Mobile,Social,North
+1883,B,1/13/2024,0,303,1,Mobile,Email,London
+1884,B,1/23/2024,0,429,8,Desktop,Organic,South
+1885,A,1/1/2024,0,52,6,Mobile,Social,South
+1886,A,1/17/2024,0,185,1,Mobile,Paid Search,Midlands
+1887,A,1/3/2024,0,2,9,Mobile,Organic,Midlands
+1888,A,1/26/2024,0,84,3,Mobile,Organic,South
+1889,B,1/15/2024,0,388,9,Tablet,Paid Search,North
+1890,B,1/4/2024,0,1441,4,Desktop,Email,London
+1891,A,1/4/2024,0,31,3,Mobile,Social,South
+1892,A,1/18/2024,1,153,7,Mobile,Organic,North
+1893,B,1/17/2024,0,482,5,Desktop,Social,North
+1894,A,1/19/2024,0,68,6,Mobile,Social,South
+1895,B,1/11/2024,0,242,3,Mobile,Organic,North
+1896,B,1/20/2024,0,396,7,Mobile,Email,Scotland
+1897,B,1/3/2024,0,287,5,Desktop,Organic,North
+1898,A,1/8/2024,0,62,8,Mobile,Email,South
+1899,A,1/14/2024,0,131,7,Mobile,Paid Search,North
+1900,B,1/26/2024,0,459,3,Mobile,Email,South
+1901,B,1/1/2024,1,242,5,Mobile,Email,Midlands
+1902,A,1/14/2024,0,1,9,Mobile,Organic,South
+1903,B,1/2/2024,0,429,5,Mobile,Social,North
+1904,A,1/29/2024,1,10,6,Mobile,Social,South
+1905,B,1/23/2024,0,410,4,Mobile,Email,London
+1906,A,1/4/2024,0,67,6,Mobile,Email,South
+1907,B,1/24/2024,0,951,6,Desktop,Organic,South
+1908,A,1/27/2024,0,137,5,Desktop,Email,London
+1909,A,1/29/2024,0,118,6,Mobile,Organic,London
+1910,A,1/19/2024,0,48,4,Mobile,Paid Search,London
+1911,A,1/6/2024,0,109,4,Mobile,Email,Scotland
+1912,B,1/25/2024,0,627,7,Desktop,Paid Search,South
+1913,B,1/1/2024,0,1682,7,Desktop,Email,London
+1914,A,1/17/2024,0,137,5,Mobile,Email,London
+1915,A,1/8/2024,0,178,3,Desktop,Paid Search,Midlands
+1916,B,1/19/2024,0,384,3,Desktop,Paid Search,Scotland
+1917,B,1/21/2024,1,651,3,Tablet,Organic,South
+1918,B,1/1/2024,0,269,2,Mobile,Organic,North
+1919,A,1/5/2024,0,149,6,Mobile,Paid Search,Scotland
+1920,A,1/27/2024,0,159,3,Mobile,Email,Scotland
+1921,B,1/16/2024,0,356,3,Desktop,Organic,Midlands
+1922,A,1/6/2024,0,0,11,Desktop,Email,South
+1923,B,1/8/2024,0,289,4,Mobile,Social,South
+1924,A,1/13/2024,0,131,10,Mobile,Organic,London
+1925,B,1/16/2024,0,474,8,Mobile,Organic,London
+1926,A,1/30/2024,0,29,3,Mobile,Organic,Scotland
+1927,B,1/3/2024,0,266,7,Mobile,Social,Midlands
+1928,A,1/19/2024,0,196,5,Mobile,Paid Search,South
+1929,B,1/12/2024,0,308,3,Mobile,Email,Midlands
+1930,A,1/16/2024,0,20,5,Desktop,Social,North
+1931,B,1/27/2024,0,260,6,Mobile,Paid Search,South
+1932,B,1/11/2024,0,247,5,Mobile,Organic,London
+1933,B,1/10/2024,0,246,5,Mobile,Paid Search,Scotland
+1934,B,1/25/2024,0,277,2,Desktop,Paid Search,Midlands
+1935,B,1/20/2024,0,338,6,Mobile,Paid Search,London
+1936,B,1/31/2024,0,490,5,Tablet,Email,Scotland
+1937,A,1/4/2024,0,94,4,Mobile,Paid Search,London
+1938,B,1/12/2024,1,522,7,Tablet,Paid Search,South
+1939,A,1/23/2024,0,206,5,Desktop,Paid Search,Midlands
+1940,A,1/2/2024,1,24,6,Mobile,Paid Search,North
+1941,A,1/24/2024,0,18,6,Tablet,Social,London
+1942,A,1/22/2024,0,122,6,Mobile,Social,Midlands
+1943,B,1/19/2024,0,460,3,Mobile,Paid Search,South
+1944,B,1/25/2024,0,368,5,Mobile,Paid Search,London
+1945,B,1/5/2024,0,466,4,Mobile,Paid Search,South
+1946,B,1/8/2024,0,218,8,Desktop,Organic,North
+1947,A,1/7/2024,0,174,3,Desktop,Paid Search,North
+1948,A,1/14/2024,0,47,2,Mobile,Paid Search,Scotland
+1949,A,1/24/2024,0,119,1,Mobile,Social,Scotland
+1950,A,1/23/2024,0,170,7,Mobile,Social,Scotland
+1951,A,1/3/2024,0,27,3,Desktop,Social,South
+1952,A,1/18/2024,1,74,2,Mobile,Email,Scotland
+1953,B,1/16/2024,0,273,4,Tablet,Organic,Midlands
+1954,B,1/23/2024,0,399,6,Mobile,Paid Search,South
+1955,B,1/19/2024,0,1921,2,Mobile,Social,South
+1956,B,1/19/2024,0,811,7,Desktop,Email,Scotland
+1957,B,1/18/2024,0,308,4,Mobile,Paid Search,Scotland
+1958,A,1/20/2024,0,164,10,Mobile,Paid Search,South
+1959,B,1/16/2024,0,303,8,Mobile,Social,North
+1960,B,1/8/2024,0,462,6,Mobile,Paid Search,North
+1961,A,1/28/2024,0,37,7,Tablet,Paid Search,Scotland
+1962,A,1/1/2024,1,158,3,Mobile,Paid Search,North
+1963,B,1/17/2024,0,549,4,Mobile,Social,Midlands
+1964,A,1/12/2024,0,145,8,Mobile,Email,Midlands
+1965,B,1/30/2024,0,254,5,Mobile,Paid Search,Midlands
+1966,B,1/21/2024,0,265,4,Desktop,Email,South
+1967,A,1/11/2024,0,61,4,Tablet,Paid Search,South
+1968,A,1/5/2024,0,134,5,Desktop,Social,South
+1969,A,1/27/2024,0,122,5,Mobile,Email,South
+1970,A,1/12/2024,0,7,4,Mobile,Social,South
+1971,A,1/17/2024,0,7,3,Mobile,Organic,Scotland
+1972,B,1/6/2024,0,534,6,Desktop,Paid Search,North
+1973,A,1/1/2024,0,95,8,Mobile,Organic,Scotland
+1974,B,1/5/2024,0,218,5,Mobile,Organic,North
+1975,A,1/25/2024,0,106,5,Tablet,Organic,Scotland
+1976,B,1/28/2024,0,847,3,Mobile,Paid Search,Midlands
+1977,A,1/14/2024,0,90,5,Mobile,Social,London
+1978,A,1/5/2024,0,168,5,Mobile,Organic,South
+1979,B,1/22/2024,0,618,10,Mobile,Email,London
+1980,B,1/24/2024,0,553,4,Mobile,Paid Search,London
+1981,A,1/27/2024,0,61,4,Mobile,Social,Midlands
+1982,B,1/1/2024,0,486,9,Mobile,Social,London
+1983,A,1/30/2024,0,183,5,Mobile,Organic,London
+1984,A,1/18/2024,0,197,4,Desktop,Paid Search,Midlands
+1985,A,1/16/2024,0,42,2,Mobile,Organic,North
+1986,A,1/9/2024,0,25,4,Desktop,Email,Scotland
+1987,B,1/19/2024,0,390,4,Mobile,Social,London
+1988,A,1/22/2024,0,205,5,Mobile,Social,South
+1989,A,1/5/2024,0,172,2,Tablet,Paid Search,Midlands
+1990,B,1/27/2024,0,392,8,Mobile,Social,London
+1991,B,1/2/2024,0,435,3,Mobile,Paid Search,North
+1992,A,1/30/2024,0,51,5,Desktop,Organic,North
+1993,B,1/15/2024,0,282,4,Mobile,Email,South
+1994,A,1/7/2024,1,43,5,Mobile,Paid Search,London
+1995,B,1/4/2024,0,417,7,Mobile,Organic,South
+1996,B,1/1/2024,1,320,6,Desktop,Email,North
+1997,B,1/13/2024,0,941,7,Desktop,Social,North
+1998,A,1/20/2024,0,21,3,Mobile,Email,Scotland
+1999,A,1/22/2024,0,17,8,Mobile,Email,North
+2000,A,1/7/2024,0,99,3,Mobile,Email,Midlands
