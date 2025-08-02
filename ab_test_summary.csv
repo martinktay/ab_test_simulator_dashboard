@@ -1,0 +1,11 @@
+metric,value
+Total_Users,2000.0
+Group_A_Users,987.0
+Group_B_Users,1013.0
+Group_A_Conv_Rate,0.06382978723404255
+Group_B_Conv_Rate,0.09674234945705824
+Improvement_Percent,51.563014149391265
+Z_Statistic,2.704806412556831
+P_Value_Z,0.006834420560274834
+Chi2_Statistic,6.878088143065277
+P_Value_Chi2,0.008725885371070176

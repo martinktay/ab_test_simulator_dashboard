@@ -1,0 +1,2001 @@
+user_id,group,visit_date,converted,session_duration_sec,page_views,device,channel,region,visit_day,visit_month,visit_weekday,engagement_score
+1,A,2024-01-28,0,140,4,Desktop,Organic,North,28,1,Sunday,9.333333333333334
+2,B,2024-01-07,0,903,5,Desktop,Organic,Scotland,7,1,Sunday,75.25
+3,B,2024-01-03,0,395,3,Desktop,Social,Midlands,3,1,Wednesday,19.75
+4,B,2024-01-23,0,273,3,Mobile,Social,Midlands,23,1,Tuesday,13.649999999999999
+5,A,2024-01-28,0,50,6,Mobile,Organic,London,28,1,Sunday,5.0
+6,A,2024-01-14,0,50,6,Tablet,Social,London,14,1,Sunday,5.0
+7,A,2024-01-24,0,17,4,Mobile,Organic,Scotland,24,1,Wednesday,1.1333333333333333
+8,B,2024-01-10,0,603,5,Desktop,Email,Scotland,10,1,Wednesday,50.25
+9,B,2024-01-16,1,275,5,Mobile,Social,North,16,1,Tuesday,22.916666666666664
+10,B,2024-01-16,0,369,7,Desktop,Email,Scotland,16,1,Tuesday,43.050000000000004
+11,A,2024-01-22,0,6,5,Mobile,Email,Scotland,22,1,Monday,0.5
+12,B,2024-01-31,0,1051,3,Mobile,Social,Scotland,31,1,Wednesday,52.55
+13,B,2024-01-10,1,535,4,Desktop,Organic,South,10,1,Wednesday,35.666666666666664
+14,A,2024-01-25,0,71,7,Mobile,Paid Search,South,25,1,Thursday,8.283333333333333
+15,A,2024-01-13,0,60,5,Desktop,Email,North,13,1,Saturday,5.0
+16,A,2024-01-06,0,60,7,Desktop,Social,North,6,1,Saturday,7.0
+17,A,2024-01-12,0,108,8,Desktop,Email,Midlands,12,1,Friday,14.4
+18,B,2024-01-09,0,223,7,Tablet,Organic,North,9,1,Tuesday,26.016666666666666
+19,A,2024-01-13,0,169,5,Mobile,Social,Midlands,13,1,Saturday,14.083333333333334
+20,A,2024-01-04,0,103,8,Mobile,Paid Search,Scotland,4,1,Thursday,13.733333333333333
+21,B,2024-01-24,0,283,4,Mobile,Social,North,24,1,Wednesday,18.866666666666667
+22,A,2024-01-11,0,45,6,Mobile,Email,North,11,1,Thursday,4.5
+23,A,2024-01-20,0,103,8,Mobile,Social,North,20,1,Saturday,13.733333333333333
+24,A,2024-01-18,0,136,6,Mobile,Social,Midlands,18,1,Thursday,13.6
+25,A,2024-01-26,0,182,3,Mobile,Email,Midlands,26,1,Friday,9.1
+26,B,2024-01-11,0,461,8,Mobile,Paid Search,London,11,1,Thursday,61.46666666666667
+27,A,2024-01-25,1,66,4,Mobile,Organic,Midlands,25,1,Thursday,4.4
+28,B,2024-01-21,0,216,7,Desktop,Social,Midlands,21,1,Sunday,25.2
+29,B,2024-01-04,0,269,2,Mobile,Paid Search,South,4,1,Thursday,8.966666666666667
+30,A,2024-01-18,0,14,10,Mobile,Organic,North,18,1,Thursday,2.3333333333333335
+31,B,2024-01-01,1,280,6,Desktop,Email,Midlands,1,1,Monday,28.0
+32,A,2024-01-27,0,56,4,Mobile,Paid Search,North,27,1,Saturday,3.7333333333333334
+33,A,2024-01-07,0,20,5,Tablet,Paid Search,North,7,1,Sunday,1.6666666666666665
+34,B,2024-01-06,0,892,6,Desktop,Social,South,6,1,Saturday,89.2
+35,B,2024-01-31,0,1011,4,Mobile,Email,North,31,1,Wednesday,67.4
+36,B,2024-01-15,0,495,5,Desktop,Social,Midlands,15,1,Monday,41.25
+37,A,2024-01-18,0,108,6,Desktop,Email,North,18,1,Thursday,10.8
+38,A,2024-01-24,0,30,3,Mobile,Organic,London,24,1,Wednesday,1.5
+39,B,2024-01-11,1,345,7,Desktop,Social,London,11,1,Thursday,40.25
+40,A,2024-01-20,0,174,7,Mobile,Email,South,20,1,Saturday,20.3
+41,A,2024-01-24,0,39,8,Mobile,Email,Midlands,24,1,Wednesday,5.2
+42,A,2024-01-15,0,205,4,Mobile,Paid Search,South,15,1,Monday,13.666666666666666
+43,A,2024-01-16,0,10,7,Mobile,Social,London,16,1,Tuesday,1.1666666666666665
+44,B,2024-01-07,0,720,3,Mobile,Social,Midlands,7,1,Sunday,36.0
+45,A,2024-01-21,0,89,4,Tablet,Organic,North,21,1,Sunday,5.933333333333334
+46,B,2024-01-10,0,325,4,Mobile,Email,Midlands,10,1,Wednesday,21.666666666666668
+47,A,2024-01-26,0,112,0,Mobile,Paid Search,Scotland,26,1,Friday,0.0
+48,B,2024-01-12,1,220,1,Mobile,Email,Midlands,12,1,Friday,3.6666666666666665
+49,B,2024-01-24,0,237,1,Desktop,Email,North,24,1,Wednesday,3.95
+50,A,2024-01-14,0,61,7,Tablet,Email,Scotland,14,1,Sunday,7.116666666666666
+51,B,2024-01-25,1,1047,5,Desktop,Social,South,25,1,Thursday,87.25
+52,B,2024-01-05,0,447,5,Tablet,Email,Midlands,5,1,Friday,37.25
+53,B,2024-01-26,0,841,8,Desktop,Organic,South,26,1,Friday,112.13333333333334
+54,B,2024-01-21,0,675,3,Tablet,Paid Search,Midlands,21,1,Sunday,33.75
+55,B,2024-01-18,0,273,5,Desktop,Paid Search,London,18,1,Thursday,22.75
+56,B,2024-01-05,0,764,3,Mobile,Email,London,5,1,Friday,38.199999999999996
+57,A,2024-01-03,0,27,5,Mobile,Paid Search,North,3,1,Wednesday,2.25
+58,A,2024-01-23,0,65,1,Desktop,Email,London,23,1,Tuesday,1.0833333333333333
+59,A,2024-01-26,0,13,7,Mobile,Social,Scotland,26,1,Friday,1.5166666666666666
+60,A,2024-01-05,0,118,2,Mobile,Paid Search,Scotland,5,1,Friday,3.933333333333333
+61,A,2024-01-24,0,147,4,Mobile,Social,Midlands,24,1,Wednesday,9.8
+62,A,2024-01-17,0,94,6,Tablet,Social,South,17,1,Wednesday,9.4
+63,B,2024-01-19,1,529,7,Mobile,Organic,Scotland,19,1,Friday,61.71666666666667
+64,A,2024-01-19,0,132,9,Desktop,Organic,Midlands,19,1,Friday,19.8
+65,A,2024-01-25,0,98,4,Desktop,Paid Search,South,25,1,Thursday,6.533333333333333
+66,B,2024-01-21,0,234,1,Tablet,Email,London,21,1,Sunday,3.9
+67,A,2024-01-12,0,45,4,Tablet,Email,Midlands,12,1,Friday,3.0
+68,B,2024-01-25,1,486,6,Desktop,Email,South,25,1,Thursday,48.599999999999994
+69,A,2024-01-29,0,23,3,Mobile,Email,North,29,1,Monday,1.1500000000000001
+70,B,2024-01-09,0,1300,4,Mobile,Organic,North,9,1,Tuesday,86.66666666666667
+71,B,2024-01-01,0,443,2,Mobile,Email,Scotland,1,1,Monday,14.766666666666667
+72,A,2024-01-18,0,66,6,Desktop,Email,South,18,1,Thursday,6.6000000000000005
+73,A,2024-01-21,0,1,8,Desktop,Social,North,21,1,Sunday,0.13333333333333333
+74,B,2024-01-04,1,506,7,Desktop,Email,Scotland,4,1,Thursday,59.03333333333333
+75,B,2024-01-31,0,368,2,Mobile,Email,Midlands,31,1,Wednesday,12.266666666666667
+76,B,2024-01-10,0,391,6,Mobile,Organic,Midlands,10,1,Wednesday,39.1
+77,B,2024-01-25,0,442,9,Mobile,Paid Search,South,25,1,Thursday,66.3
+78,A,2024-01-07,0,23,3,Mobile,Social,South,7,1,Sunday,1.1500000000000001
+79,A,2024-01-22,0,133,8,Mobile,Social,South,22,1,Monday,17.733333333333334
+80,A,2024-01-23,0,36,7,Mobile,Paid Search,South,23,1,Tuesday,4.2
+81,B,2024-01-01,0,596,6,Desktop,Social,North,1,1,Monday,59.6
+82,B,2024-01-17,0,292,10,Mobile,Email,North,17,1,Wednesday,48.666666666666664
+83,A,2024-01-24,0,120,5,Mobile,Email,Scotland,24,1,Wednesday,10.0
+84,A,2024-01-29,0,19,5,Tablet,Paid Search,North,29,1,Monday,1.5833333333333333
+85,A,2024-01-29,0,111,5,Mobile,Organic,Midlands,29,1,Monday,9.25
+86,A,2024-01-02,0,117,5,Mobile,Organic,Scotland,2,1,Tuesday,9.75
+87,B,2024-01-28,0,392,4,Mobile,Social,North,28,1,Sunday,26.133333333333333
+88,B,2024-01-26,0,304,10,Mobile,Organic,South,26,1,Friday,50.666666666666664
+89,B,2024-01-11,0,654,3,Mobile,Organic,North,11,1,Thursday,32.7
+90,A,2024-01-09,0,191,2,Mobile,Organic,London,9,1,Tuesday,6.366666666666666
+91,A,2024-01-07,0,38,6,Mobile,Organic,Scotland,7,1,Sunday,3.8
+92,B,2024-01-22,0,374,4,Mobile,Organic,North,22,1,Monday,24.933333333333334
+93,B,2024-01-17,0,429,4,Mobile,Organic,North,17,1,Wednesday,28.6
+94,B,2024-01-17,0,247,8,Desktop,Organic,Midlands,17,1,Wednesday,32.93333333333333
+95,B,2024-01-02,0,442,5,Mobile,Social,South,2,1,Tuesday,36.83333333333333
+96,A,2024-01-06,0,204,4,Tablet,Email,South,6,1,Saturday,13.6
+97,B,2024-01-14,0,221,7,Mobile,Organic,Midlands,14,1,Sunday,25.78333333333333
+98,A,2024-01-06,0,167,4,Mobile,Email,Midlands,6,1,Saturday,11.133333333333333
+99,A,2024-01-02,0,7,2,Desktop,Paid Search,London,2,1,Tuesday,0.23333333333333334
+100,A,2024-01-01,1,34,2,Mobile,Email,Scotland,1,1,Monday,1.1333333333333333
+101,A,2024-01-10,0,9,3,Mobile,Paid Search,South,10,1,Wednesday,0.44999999999999996
+102,B,2024-01-21,0,303,3,Desktop,Social,Midlands,21,1,Sunday,15.149999999999999
+103,A,2024-01-05,0,113,8,Mobile,Email,Midlands,5,1,Friday,15.066666666666666
+104,B,2024-01-02,1,213,6,Desktop,Paid Search,Scotland,2,1,Tuesday,21.299999999999997
+105,B,2024-01-22,0,714,0,Tablet,Email,Midlands,22,1,Monday,0.0
+106,A,2024-01-16,0,86,8,Mobile,Social,London,16,1,Tuesday,11.466666666666667
+107,A,2024-01-25,0,158,5,Mobile,Email,Scotland,25,1,Thursday,13.166666666666666
+108,B,2024-01-02,0,422,4,Mobile,Paid Search,London,2,1,Tuesday,28.133333333333333
+109,A,2024-01-10,0,77,5,Tablet,Organic,North,10,1,Wednesday,6.416666666666667
+110,A,2024-01-02,0,24,7,Desktop,Organic,South,2,1,Tuesday,2.8000000000000003
+111,A,2024-01-16,0,102,6,Tablet,Organic,Midlands,16,1,Tuesday,10.2
+112,A,2024-01-16,0,52,3,Mobile,Social,Scotland,16,1,Tuesday,2.6
+113,B,2024-01-19,1,796,4,Desktop,Organic,London,19,1,Friday,53.06666666666667
+114,B,2024-01-29,0,495,2,Mobile,Social,South,29,1,Monday,16.5
+115,B,2024-01-07,0,301,4,Mobile,Organic,South,7,1,Sunday,20.066666666666666
+116,B,2024-01-22,0,615,1,Tablet,Social,Midlands,22,1,Monday,10.25
+117,B,2024-01-12,0,488,9,Mobile,Social,South,12,1,Friday,73.19999999999999
+118,A,2024-01-24,0,61,3,Tablet,Email,Midlands,24,1,Wednesday,3.05
+119,B,2024-01-15,0,669,1,Mobile,Organic,North,15,1,Monday,11.15
+120,B,2024-01-08,0,232,5,Desktop,Email,Midlands,8,1,Monday,19.333333333333332
+121,B,2024-01-06,0,494,4,Mobile,Paid Search,London,6,1,Saturday,32.93333333333333
+122,B,2024-01-28,0,679,6,Mobile,Organic,South,28,1,Sunday,67.9
+123,A,2024-01-27,0,114,5,Mobile,Organic,South,27,1,Saturday,9.5
+124,A,2024-01-10,0,34,8,Mobile,Organic,South,10,1,Wednesday,4.533333333333333
+125,A,2024-01-03,0,77,5,Mobile,Organic,Midlands,3,1,Wednesday,6.416666666666667
+126,A,2024-01-19,0,167,7,Desktop,Email,Scotland,19,1,Friday,19.483333333333334
+127,B,2024-01-31,0,511,4,Mobile,Email,Midlands,31,1,Wednesday,34.06666666666667
+128,B,2024-01-17,1,591,1,Mobile,Social,London,17,1,Wednesday,9.85
+129,A,2024-01-07,0,2,5,Mobile,Email,Midlands,7,1,Sunday,0.16666666666666666
+130,B,2024-01-21,0,214,4,Mobile,Social,South,21,1,Sunday,14.266666666666667
+131,A,2024-01-20,0,162,3,Desktop,Paid Search,North,20,1,Saturday,8.100000000000001
+132,A,2024-01-26,0,75,2,Desktop,Email,London,26,1,Friday,2.5
+133,A,2024-01-31,0,38,12,Mobile,Social,North,31,1,Wednesday,7.6
+134,A,2024-01-04,0,123,5,Mobile,Organic,London,4,1,Thursday,10.25
+135,B,2024-01-14,0,858,10,Desktop,Paid Search,London,14,1,Sunday,143.0
+136,A,2024-01-20,0,117,6,Mobile,Social,South,20,1,Saturday,11.7
+137,B,2024-01-22,0,219,1,Mobile,Paid Search,Midlands,22,1,Monday,3.65
+138,B,2024-01-15,1,364,6,Mobile,Organic,South,15,1,Monday,36.4
+139,A,2024-01-24,0,135,2,Mobile,Organic,South,24,1,Wednesday,4.5
+140,B,2024-01-08,0,1070,4,Mobile,Social,South,8,1,Monday,71.33333333333333
+141,B,2024-01-21,0,984,5,Mobile,Social,North,21,1,Sunday,82.0
+142,A,2024-01-15,0,87,8,Desktop,Organic,London,15,1,Monday,11.6
+143,A,2024-01-22,0,206,4,Mobile,Social,Scotland,22,1,Monday,13.733333333333333
+144,A,2024-01-20,0,107,2,Mobile,Organic,Midlands,20,1,Saturday,3.566666666666667
+145,A,2024-01-28,0,100,1,Mobile,Email,South,28,1,Sunday,1.6666666666666667
+146,A,2024-01-14,0,11,8,Mobile,Social,London,14,1,Sunday,1.4666666666666666
+147,B,2024-01-27,0,282,8,Mobile,Paid Search,Midlands,27,1,Saturday,37.6
+148,B,2024-01-29,0,209,4,Tablet,Organic,Scotland,29,1,Monday,13.933333333333334
+149,A,2024-01-09,0,15,1,Mobile,Email,Scotland,9,1,Tuesday,0.25
+150,A,2024-01-08,0,97,9,Desktop,Social,South,8,1,Monday,14.55
+151,B,2024-01-26,0,716,4,Mobile,Organic,Scotland,26,1,Friday,47.733333333333334
+152,A,2024-01-28,0,82,2,Desktop,Email,Scotland,28,1,Sunday,2.7333333333333334
+153,A,2024-01-26,0,46,4,Mobile,Social,Midlands,26,1,Friday,3.066666666666667
+154,A,2024-01-17,0,201,3,Mobile,Organic,Midlands,17,1,Wednesday,10.05
+155,B,2024-01-31,0,1273,8,Desktop,Organic,South,31,1,Wednesday,169.73333333333332
+156,A,2024-01-02,0,83,9,Mobile,Organic,London,2,1,Tuesday,12.45
+157,B,2024-01-25,0,334,4,Desktop,Social,South,25,1,Thursday,22.266666666666666
+158,B,2024-01-24,0,430,4,Mobile,Email,North,24,1,Wednesday,28.666666666666668
+159,A,2024-01-30,0,81,5,Tablet,Organic,Scotland,30,1,Tuesday,6.75
+160,B,2024-01-03,0,390,11,Desktop,Email,London,3,1,Wednesday,71.5
+161,A,2024-01-08,0,137,8,Tablet,Email,Midlands,8,1,Monday,18.266666666666666
+162,B,2024-01-12,0,300,6,Mobile,Paid Search,North,12,1,Friday,30.0
+163,B,2024-01-01,1,301,2,Mobile,Email,North,1,1,Monday,10.033333333333333
+164,B,2024-01-10,1,230,8,Desktop,Email,Scotland,10,1,Wednesday,30.666666666666668
+165,A,2024-01-20,0,28,7,Desktop,Email,Midlands,20,1,Saturday,3.2666666666666666
+166,B,2024-01-03,0,541,6,Tablet,Email,London,3,1,Wednesday,54.10000000000001
+167,A,2024-01-06,0,116,5,Mobile,Email,Midlands,6,1,Saturday,9.666666666666666
+168,A,2024-01-07,1,61,3,Desktop,Social,Scotland,7,1,Sunday,3.05
+169,A,2024-01-20,0,12,5,Mobile,Paid Search,North,20,1,Saturday,1.0
+170,B,2024-01-23,0,268,3,Mobile,Organic,Scotland,23,1,Tuesday,13.4
+171,B,2024-01-25,0,339,3,Mobile,Paid Search,South,25,1,Thursday,16.950000000000003
+172,A,2024-01-27,0,5,7,Mobile,Paid Search,North,27,1,Saturday,0.5833333333333333
+173,B,2024-01-18,0,215,4,Tablet,Organic,Scotland,18,1,Thursday,14.333333333333334
+174,A,2024-01-11,0,77,4,Mobile,Email,London,11,1,Thursday,5.133333333333334
+175,B,2024-01-19,0,310,6,Desktop,Organic,London,19,1,Friday,31.0
+176,A,2024-01-05,0,57,6,Mobile,Email,London,5,1,Friday,5.699999999999999
+177,B,2024-01-19,0,352,3,Mobile,Organic,South,19,1,Friday,17.599999999999998
+178,A,2024-01-11,0,146,4,Mobile,Social,Midlands,11,1,Thursday,9.733333333333333
+179,B,2024-01-24,0,828,6,Mobile,Paid Search,London,24,1,Wednesday,82.80000000000001
+180,A,2024-01-12,0,44,6,Mobile,Email,South,12,1,Friday,4.3999999999999995
+181,A,2024-01-10,0,125,6,Desktop,Paid Search,London,10,1,Wednesday,12.5
+182,A,2024-01-08,0,36,6,Tablet,Email,South,8,1,Monday,3.5999999999999996
+183,B,2024-01-24,0,775,3,Mobile,Organic,London,24,1,Wednesday,38.75
+184,B,2024-01-28,0,629,5,Mobile,Organic,Midlands,28,1,Sunday,52.416666666666664
+185,A,2024-01-28,0,89,2,Mobile,Organic,Scotland,28,1,Sunday,2.966666666666667
+186,B,2024-01-09,0,323,5,Desktop,Social,London,9,1,Tuesday,26.916666666666668
+187,B,2024-01-04,0,509,3,Mobile,Organic,Scotland,4,1,Thursday,25.449999999999996
+188,B,2024-01-05,0,243,3,Mobile,Organic,London,5,1,Friday,12.149999999999999
+189,B,2024-01-21,0,226,5,Mobile,Social,Midlands,21,1,Sunday,18.833333333333332
+190,A,2024-01-08,0,83,11,Tablet,Paid Search,Scotland,8,1,Monday,15.216666666666667
+191,A,2024-01-23,0,29,7,Mobile,Paid Search,South,23,1,Tuesday,3.3833333333333333
+192,B,2024-01-09,0,682,7,Mobile,Email,London,9,1,Tuesday,79.56666666666666
+193,B,2024-01-15,0,692,4,Tablet,Paid Search,London,15,1,Monday,46.13333333333333
+194,B,2024-01-15,0,300,1,Desktop,Email,South,15,1,Monday,5.0
+195,A,2024-01-16,0,124,4,Desktop,Email,Midlands,16,1,Tuesday,8.266666666666667
+196,A,2024-01-14,0,128,5,Mobile,Paid Search,North,14,1,Sunday,10.666666666666666
+197,B,2024-01-08,0,388,4,Tablet,Paid Search,London,8,1,Monday,25.866666666666667
+198,B,2024-01-18,0,682,4,Desktop,Social,South,18,1,Thursday,45.46666666666667
+199,B,2024-01-10,0,654,7,Desktop,Email,North,10,1,Wednesday,76.3
+200,B,2024-01-28,0,454,6,Desktop,Paid Search,London,28,1,Sunday,45.4
+201,B,2024-01-20,0,308,8,Desktop,Paid Search,Scotland,20,1,Saturday,41.06666666666667
+202,A,2024-01-06,0,26,4,Mobile,Social,South,6,1,Saturday,1.7333333333333334
+203,A,2024-01-12,0,52,3,Mobile,Paid Search,Scotland,12,1,Friday,2.6
+204,B,2024-01-02,0,686,0,Desktop,Organic,Midlands,2,1,Tuesday,0.0
+205,B,2024-01-07,0,279,4,Mobile,Organic,North,7,1,Sunday,18.6
+206,A,2024-01-16,0,2,1,Mobile,Email,South,16,1,Tuesday,0.03333333333333333
+207,A,2024-01-03,0,32,4,Mobile,Social,London,3,1,Wednesday,2.1333333333333333
+208,B,2024-01-13,0,326,3,Desktop,Paid Search,London,13,1,Saturday,16.3
+209,A,2024-01-03,1,1,5,Mobile,Email,North,3,1,Wednesday,0.08333333333333333
+210,A,2024-01-27,0,52,6,Desktop,Paid Search,Scotland,27,1,Saturday,5.2
+211,B,2024-01-18,0,238,6,Desktop,Organic,Scotland,18,1,Thursday,23.8
+212,B,2024-01-11,0,353,4,Mobile,Paid Search,South,11,1,Thursday,23.533333333333335
+213,B,2024-01-08,0,316,4,Mobile,Paid Search,South,8,1,Monday,21.066666666666666
+214,A,2024-01-06,0,76,5,Mobile,Paid Search,Scotland,6,1,Saturday,6.333333333333333
+215,B,2024-01-01,0,373,1,Mobile,Organic,South,1,1,Monday,6.216666666666667
+216,A,2024-01-28,0,81,9,Mobile,Organic,Scotland,28,1,Sunday,12.15
+217,A,2024-01-01,0,118,7,Mobile,Social,North,1,1,Monday,13.766666666666666
+218,B,2024-01-23,0,411,5,Tablet,Organic,South,23,1,Tuesday,34.25
+219,B,2024-01-08,0,314,4,Mobile,Email,Scotland,8,1,Monday,20.933333333333334
+220,B,2024-01-05,0,567,5,Desktop,Paid Search,South,5,1,Friday,47.25
+221,B,2024-01-28,0,321,4,Mobile,Organic,London,28,1,Sunday,21.4
+222,B,2024-01-16,0,252,1,Desktop,Email,London,16,1,Tuesday,4.2
+223,A,2024-01-11,0,29,3,Mobile,Organic,Midlands,11,1,Thursday,1.45
+224,A,2024-01-05,0,137,7,Desktop,Paid Search,Scotland,5,1,Friday,15.983333333333333
+225,A,2024-01-04,0,92,6,Desktop,Email,Midlands,4,1,Thursday,9.200000000000001
+226,A,2024-01-30,0,83,10,Desktop,Organic,Scotland,30,1,Tuesday,13.833333333333332
+227,B,2024-01-06,0,1083,4,Mobile,Organic,South,6,1,Saturday,72.2
+228,A,2024-01-14,0,149,5,Desktop,Email,Scotland,14,1,Sunday,12.416666666666668
+229,B,2024-01-22,0,667,6,Mobile,Social,London,22,1,Monday,66.7
+230,B,2024-01-19,0,299,6,Mobile,Email,South,19,1,Friday,29.9
+231,B,2024-01-09,0,475,8,Mobile,Email,London,9,1,Tuesday,63.333333333333336
+232,B,2024-01-12,0,209,4,Mobile,Email,South,12,1,Friday,13.933333333333334
+233,B,2024-01-11,0,258,3,Mobile,Email,Scotland,11,1,Thursday,12.899999999999999
+234,A,2024-01-14,0,203,3,Desktop,Organic,Scotland,14,1,Sunday,10.15
+235,A,2024-01-23,0,65,9,Mobile,Email,London,23,1,Tuesday,9.75
+236,B,2024-01-16,0,384,7,Mobile,Email,North,16,1,Tuesday,44.800000000000004
+237,A,2024-01-01,0,98,2,Mobile,Paid Search,Scotland,1,1,Monday,3.2666666666666666
+238,A,2024-01-31,0,7,2,Desktop,Organic,North,31,1,Wednesday,0.23333333333333334
+239,B,2024-01-13,0,311,4,Mobile,Paid Search,South,13,1,Saturday,20.733333333333334
+240,A,2024-01-23,0,58,6,Mobile,Organic,North,23,1,Tuesday,5.8
+241,B,2024-01-21,0,846,9,Desktop,Social,London,21,1,Sunday,126.89999999999999
+242,B,2024-01-21,0,923,11,Mobile,Social,Midlands,21,1,Sunday,169.21666666666667
+243,B,2024-01-30,0,739,4,Mobile,Organic,Midlands,30,1,Tuesday,49.266666666666666
+244,A,2024-01-13,0,138,7,Mobile,Social,London,13,1,Saturday,16.099999999999998
+245,A,2024-01-02,0,4,7,Desktop,Social,Midlands,2,1,Tuesday,0.4666666666666667
+246,B,2024-01-04,0,790,3,Desktop,Organic,London,4,1,Thursday,39.5
+247,A,2024-01-28,0,167,7,Mobile,Email,Scotland,28,1,Sunday,19.483333333333334
+248,B,2024-01-06,0,1020,5,Mobile,Paid Search,North,6,1,Saturday,85.0
+249,B,2024-01-26,0,994,2,Mobile,Organic,Midlands,26,1,Friday,33.13333333333333
+250,B,2024-01-31,0,575,9,Desktop,Organic,Scotland,31,1,Wednesday,86.25
+251,A,2024-01-27,0,104,6,Desktop,Organic,Midlands,27,1,Saturday,10.4
+252,A,2024-01-23,0,145,3,Mobile,Paid Search,South,23,1,Tuesday,7.25
+253,B,2024-01-27,0,571,6,Mobile,Organic,London,27,1,Saturday,57.10000000000001
+254,A,2024-01-05,0,114,3,Desktop,Paid Search,London,5,1,Friday,5.699999999999999
+255,A,2024-01-25,0,55,2,Desktop,Paid Search,Scotland,25,1,Thursday,1.8333333333333333
+256,B,2024-01-03,0,244,8,Desktop,Social,South,3,1,Wednesday,32.53333333333333
+257,B,2024-01-01,0,825,4,Desktop,Email,North,1,1,Monday,55.0
+258,B,2024-01-04,0,357,5,Desktop,Social,South,4,1,Thursday,29.75
+259,B,2024-01-25,0,253,4,Mobile,Organic,South,25,1,Thursday,16.866666666666667
+260,A,2024-01-20,0,30,3,Mobile,Organic,North,20,1,Saturday,1.5
+261,B,2024-01-02,0,286,4,Mobile,Paid Search,North,2,1,Tuesday,19.066666666666666
+262,B,2024-01-26,0,1383,3,Desktop,Social,South,26,1,Friday,69.15
+263,A,2024-01-30,0,45,11,Mobile,Paid Search,Midlands,30,1,Tuesday,8.25
+264,B,2024-01-30,0,219,6,Mobile,Social,Midlands,30,1,Tuesday,21.9
+265,B,2024-01-05,0,629,5,Mobile,Social,South,5,1,Friday,52.416666666666664
+266,B,2024-01-03,1,405,5,Mobile,Social,Midlands,3,1,Wednesday,33.75
+267,B,2024-01-29,0,358,5,Desktop,Social,North,29,1,Monday,29.833333333333336
+268,B,2024-01-28,0,363,3,Mobile,Social,North,28,1,Sunday,18.15
+269,A,2024-01-29,0,133,6,Mobile,Email,Midlands,29,1,Monday,13.3
+270,A,2024-01-09,0,104,4,Desktop,Organic,North,9,1,Tuesday,6.933333333333334
+271,B,2024-01-20,0,497,5,Mobile,Social,London,20,1,Saturday,41.416666666666664
+272,B,2024-01-06,0,498,3,Desktop,Social,North,6,1,Saturday,24.900000000000002
+273,B,2024-01-18,1,605,7,Desktop,Paid Search,South,18,1,Thursday,70.58333333333334
+274,B,2024-01-06,0,733,3,Tablet,Organic,Scotland,6,1,Saturday,36.65
+275,B,2024-01-19,0,214,6,Desktop,Organic,Midlands,19,1,Friday,21.400000000000002
+276,B,2024-01-28,0,208,7,Mobile,Organic,Midlands,28,1,Sunday,24.266666666666666
+277,B,2024-01-12,0,480,1,Mobile,Social,North,12,1,Friday,8.0
+278,B,2024-01-25,0,314,6,Mobile,Paid Search,North,25,1,Thursday,31.4
+279,B,2024-01-11,0,363,4,Mobile,Organic,Scotland,11,1,Thursday,24.2
+280,B,2024-01-02,0,476,2,Mobile,Paid Search,Scotland,2,1,Tuesday,15.866666666666667
+281,B,2024-01-15,0,662,2,Mobile,Email,South,15,1,Monday,22.066666666666666
+282,A,2024-01-12,0,123,5,Desktop,Email,London,12,1,Friday,10.25
+283,A,2024-01-12,0,141,5,Mobile,Paid Search,South,12,1,Friday,11.75
+284,A,2024-01-09,0,29,3,Mobile,Social,Midlands,9,1,Tuesday,1.45
+285,B,2024-01-21,0,259,5,Mobile,Organic,North,21,1,Sunday,21.583333333333332
+286,A,2024-01-24,0,10,11,Mobile,Email,South,24,1,Wednesday,1.8333333333333333
+287,A,2024-01-02,0,187,2,Tablet,Email,North,2,1,Tuesday,6.233333333333333
+288,B,2024-01-22,0,234,6,Mobile,Paid Search,North,22,1,Monday,23.4
+289,A,2024-01-03,0,101,5,Desktop,Social,South,3,1,Wednesday,8.416666666666666
+290,B,2024-01-12,0,268,3,Mobile,Paid Search,South,12,1,Friday,13.4
+291,A,2024-01-28,0,9,4,Mobile,Paid Search,Scotland,28,1,Sunday,0.6
+292,A,2024-01-30,0,11,10,Mobile,Paid Search,London,30,1,Tuesday,1.8333333333333333
+293,B,2024-01-26,0,518,1,Desktop,Paid Search,Scotland,26,1,Friday,8.633333333333333
+294,A,2024-01-16,0,133,8,Mobile,Paid Search,London,16,1,Tuesday,17.733333333333334
+295,A,2024-01-21,0,40,3,Mobile,Social,South,21,1,Sunday,2.0
+296,B,2024-01-28,0,221,5,Mobile,Paid Search,London,28,1,Sunday,18.416666666666664
+297,B,2024-01-24,0,440,4,Desktop,Social,Midlands,24,1,Wednesday,29.333333333333332
+298,A,2024-01-26,0,72,11,Desktop,Organic,Scotland,26,1,Friday,13.2
+299,B,2024-01-30,0,292,3,Mobile,Organic,Scotland,30,1,Tuesday,14.599999999999998
+300,A,2024-01-01,0,26,4,Mobile,Organic,Scotland,1,1,Monday,1.7333333333333334
+301,A,2024-01-21,0,15,3,Desktop,Organic,North,21,1,Sunday,0.75
+302,B,2024-01-03,0,227,3,Desktop,Email,North,3,1,Wednesday,11.35
+303,B,2024-01-20,0,233,8,Desktop,Social,South,20,1,Saturday,31.066666666666666
+304,B,2024-01-02,0,304,1,Desktop,Organic,South,2,1,Tuesday,5.066666666666666
+305,B,2024-01-09,0,388,5,Desktop,Email,North,9,1,Tuesday,32.333333333333336
+306,B,2024-01-19,0,1117,7,Mobile,Social,Scotland,19,1,Friday,130.31666666666666
+307,B,2024-01-15,0,217,3,Desktop,Email,North,15,1,Monday,10.85
+308,A,2024-01-18,0,117,7,Tablet,Email,London,18,1,Thursday,13.65
+309,B,2024-01-26,0,475,5,Mobile,Paid Search,Scotland,26,1,Friday,39.583333333333336
+310,A,2024-01-11,0,94,7,Mobile,Email,North,11,1,Thursday,10.966666666666667
+311,A,2024-01-25,0,173,5,Tablet,Email,South,25,1,Thursday,14.416666666666666
+312,A,2024-01-23,0,24,7,Mobile,Social,North,23,1,Tuesday,2.8000000000000003
+313,A,2024-01-16,0,7,5,Desktop,Email,Midlands,16,1,Tuesday,0.5833333333333334
+314,B,2024-01-22,0,986,4,Mobile,Paid Search,North,22,1,Monday,65.73333333333333
+315,B,2024-01-17,0,542,5,Mobile,Organic,Scotland,17,1,Wednesday,45.166666666666664
+316,B,2024-01-05,0,357,11,Mobile,Organic,North,5,1,Friday,65.45
+317,A,2024-01-12,0,157,7,Mobile,Social,South,12,1,Friday,18.316666666666666
+318,A,2024-01-11,0,57,6,Mobile,Social,London,11,1,Thursday,5.699999999999999
+319,A,2024-01-30,0,51,3,Mobile,Email,Midlands,30,1,Tuesday,2.55
+320,A,2024-01-15,0,86,0,Desktop,Social,Scotland,15,1,Monday,0.0
+321,B,2024-01-27,0,239,10,Tablet,Email,South,27,1,Saturday,39.833333333333336
+322,B,2024-01-03,0,376,5,Mobile,Social,Midlands,3,1,Wednesday,31.333333333333332
+323,B,2024-01-01,0,323,5,Mobile,Organic,North,1,1,Monday,26.916666666666668
+324,A,2024-01-20,0,98,3,Mobile,Organic,Midlands,20,1,Saturday,4.9
+325,B,2024-01-29,0,929,4,Mobile,Organic,London,29,1,Monday,61.93333333333333
+326,B,2024-01-16,0,401,2,Mobile,Organic,Midlands,16,1,Tuesday,13.366666666666667
+327,B,2024-01-02,0,242,2,Mobile,Email,Midlands,2,1,Tuesday,8.066666666666666
+328,B,2024-01-02,0,283,7,Mobile,Email,North,2,1,Tuesday,33.016666666666666
+329,A,2024-01-03,0,163,3,Mobile,Email,North,3,1,Wednesday,8.15
+330,A,2024-01-08,0,85,1,Mobile,Organic,Scotland,8,1,Monday,1.4166666666666667
+331,A,2024-01-24,0,132,3,Desktop,Paid Search,North,24,1,Wednesday,6.6000000000000005
+332,B,2024-01-28,0,425,7,Mobile,Organic,Midlands,28,1,Sunday,49.58333333333333
+333,A,2024-01-15,0,4,5,Desktop,Organic,London,15,1,Monday,0.3333333333333333
+334,A,2024-01-07,0,37,5,Tablet,Paid Search,North,7,1,Sunday,3.0833333333333335
+335,A,2024-01-06,0,14,4,Tablet,Paid Search,Scotland,6,1,Saturday,0.9333333333333333
+336,A,2024-01-09,1,12,5,Tablet,Social,Scotland,9,1,Tuesday,1.0
+337,B,2024-01-20,0,580,5,Mobile,Organic,Midlands,20,1,Saturday,48.33333333333333
+338,B,2024-01-28,0,364,3,Mobile,Paid Search,North,28,1,Sunday,18.2
+339,A,2024-01-01,0,192,3,Mobile,Social,North,1,1,Monday,9.600000000000001
+340,A,2024-01-08,0,30,6,Desktop,Paid Search,Scotland,8,1,Monday,3.0
+341,A,2024-01-23,0,202,6,Desktop,Paid Search,North,23,1,Tuesday,20.2
+342,A,2024-01-23,0,192,4,Desktop,Social,Midlands,23,1,Tuesday,12.8
+343,A,2024-01-31,0,57,9,Mobile,Organic,London,31,1,Wednesday,8.549999999999999
+344,A,2024-01-03,0,170,6,Desktop,Social,Midlands,3,1,Wednesday,17.0
+345,A,2024-01-04,0,152,5,Mobile,Organic,North,4,1,Thursday,12.666666666666666
+346,B,2024-01-26,0,287,5,Mobile,Paid Search,Midlands,26,1,Friday,23.916666666666664
+347,B,2024-01-25,0,302,4,Desktop,Social,South,25,1,Thursday,20.133333333333333
+348,A,2024-01-15,0,13,10,Mobile,Email,South,15,1,Monday,2.166666666666667
+349,A,2024-01-06,0,140,6,Tablet,Paid Search,North,6,1,Saturday,14.0
+350,B,2024-01-15,0,294,2,Mobile,Social,North,15,1,Monday,9.8
+351,B,2024-01-31,0,209,4,Desktop,Paid Search,London,31,1,Wednesday,13.933333333333334
+352,B,2024-01-21,0,582,3,Mobile,Social,Midlands,21,1,Sunday,29.099999999999998
+353,B,2024-01-03,0,322,2,Desktop,Organic,London,3,1,Wednesday,10.733333333333333
+354,A,2024-01-25,0,53,5,Desktop,Email,North,25,1,Thursday,4.416666666666666
+355,A,2024-01-21,0,21,6,Tablet,Paid Search,North,21,1,Sunday,2.0999999999999996
+356,B,2024-01-21,0,308,5,Mobile,Email,Scotland,21,1,Sunday,25.666666666666668
+357,A,2024-01-14,0,8,10,Tablet,Organic,London,14,1,Sunday,1.3333333333333333
+358,B,2024-01-20,0,264,5,Mobile,Social,North,20,1,Saturday,22.0
+359,B,2024-01-14,0,845,5,Mobile,Email,South,14,1,Sunday,70.41666666666667
+360,B,2024-01-04,0,257,4,Mobile,Social,Scotland,4,1,Thursday,17.133333333333333
+361,A,2024-01-12,0,147,4,Desktop,Organic,Midlands,12,1,Friday,9.8
+362,B,2024-01-17,0,309,3,Mobile,Paid Search,Scotland,17,1,Wednesday,15.450000000000001
+363,A,2024-01-07,0,183,6,Desktop,Organic,Midlands,7,1,Sunday,18.299999999999997
+364,B,2024-01-09,0,236,4,Desktop,Email,South,9,1,Tuesday,15.733333333333333
+365,B,2024-01-03,0,851,2,Mobile,Email,Midlands,3,1,Wednesday,28.366666666666667
+366,A,2024-01-28,0,146,9,Tablet,Email,London,28,1,Sunday,21.9
+367,B,2024-01-13,1,974,5,Mobile,Social,Midlands,13,1,Saturday,81.16666666666667
+368,B,2024-01-15,0,707,9,Desktop,Paid Search,Midlands,15,1,Monday,106.05
+369,A,2024-01-18,0,65,5,Mobile,Email,Scotland,18,1,Thursday,5.416666666666666
+370,A,2024-01-19,0,21,5,Mobile,Email,South,19,1,Friday,1.75
+371,A,2024-01-01,0,31,1,Mobile,Email,Midlands,1,1,Monday,0.5166666666666667
+372,A,2024-01-06,0,5,5,Mobile,Organic,London,6,1,Saturday,0.41666666666666663
+373,A,2024-01-27,0,29,8,Mobile,Email,Scotland,27,1,Saturday,3.8666666666666667
+374,B,2024-01-27,1,344,6,Mobile,Organic,South,27,1,Saturday,34.4
+375,A,2024-01-23,0,22,2,Mobile,Email,South,23,1,Tuesday,0.7333333333333333
+376,A,2024-01-27,0,115,5,Mobile,Organic,North,27,1,Saturday,9.583333333333334
+377,B,2024-01-27,0,559,5,Mobile,Social,London,27,1,Saturday,46.58333333333333
+378,A,2024-01-02,0,7,4,Desktop,Social,Scotland,2,1,Tuesday,0.4666666666666667
+379,B,2024-01-24,1,505,6,Mobile,Organic,Scotland,24,1,Wednesday,50.5
+380,A,2024-01-14,0,99,5,Desktop,Paid Search,London,14,1,Sunday,8.25
+381,A,2024-01-06,0,37,6,Desktop,Paid Search,South,6,1,Saturday,3.7
+382,B,2024-01-14,0,357,5,Desktop,Organic,Midlands,14,1,Sunday,29.75
+383,B,2024-01-04,0,297,4,Desktop,Social,London,4,1,Thursday,19.8
+384,B,2024-01-21,0,629,7,Mobile,Organic,Scotland,21,1,Sunday,73.38333333333333
+385,B,2024-01-08,0,398,5,Desktop,Paid Search,London,8,1,Monday,33.16666666666667
+386,B,2024-01-30,0,488,7,Mobile,Organic,South,30,1,Tuesday,56.93333333333333
+387,A,2024-01-03,0,99,6,Desktop,Social,North,3,1,Wednesday,9.899999999999999
+388,A,2024-01-19,0,58,4,Desktop,Paid Search,North,19,1,Friday,3.8666666666666667
+389,B,2024-01-30,0,416,8,Mobile,Paid Search,Midlands,30,1,Tuesday,55.46666666666667
+390,B,2024-01-31,0,493,4,Desktop,Email,Midlands,31,1,Wednesday,32.86666666666667
+391,B,2024-01-14,0,1397,3,Mobile,Email,South,14,1,Sunday,69.85000000000001
+392,A,2024-01-27,0,159,5,Mobile,Paid Search,Midlands,27,1,Saturday,13.25
+393,A,2024-01-20,0,139,10,Mobile,Paid Search,North,20,1,Saturday,23.166666666666668
+394,B,2024-01-17,0,449,6,Desktop,Organic,South,17,1,Wednesday,44.9
+395,A,2024-01-25,0,125,4,Desktop,Social,South,25,1,Thursday,8.333333333333334
+396,B,2024-01-08,0,801,3,Desktop,Paid Search,South,8,1,Monday,40.05
+397,B,2024-01-24,0,586,3,Mobile,Social,London,24,1,Wednesday,29.300000000000004
+398,A,2024-01-14,0,168,5,Mobile,Paid Search,Midlands,14,1,Sunday,14.0
+399,B,2024-01-26,0,416,2,Desktop,Social,Scotland,26,1,Friday,13.866666666666667
+400,B,2024-01-06,0,421,6,Mobile,Email,North,6,1,Saturday,42.1
+401,A,2024-01-23,0,32,2,Desktop,Paid Search,Midlands,23,1,Tuesday,1.0666666666666667
+402,B,2024-01-22,0,698,5,Mobile,Organic,North,22,1,Monday,58.166666666666664
+403,B,2024-01-16,1,211,2,Mobile,Social,Midlands,16,1,Tuesday,7.033333333333333
+404,B,2024-01-25,0,525,6,Mobile,Paid Search,Scotland,25,1,Thursday,52.5
+405,A,2024-01-19,0,115,3,Desktop,Email,North,19,1,Friday,5.75
+406,B,2024-01-14,0,677,5,Mobile,Email,Scotland,14,1,Sunday,56.416666666666664
+407,A,2024-01-19,0,147,2,Mobile,Email,North,19,1,Friday,4.9
+408,A,2024-01-03,0,3,6,Mobile,Email,London,3,1,Wednesday,0.30000000000000004
+409,B,2024-01-10,0,707,6,Mobile,Paid Search,London,10,1,Wednesday,70.7
+410,A,2024-01-19,1,28,7,Mobile,Organic,North,19,1,Friday,3.2666666666666666
+411,A,2024-01-09,1,115,6,Mobile,Social,North,9,1,Tuesday,11.5
+412,B,2024-01-28,0,899,6,Desktop,Organic,Scotland,28,1,Sunday,89.89999999999999
+413,B,2024-01-20,0,902,4,Mobile,Social,South,20,1,Saturday,60.13333333333333
+414,B,2024-01-13,0,255,4,Desktop,Organic,North,13,1,Saturday,17.0
+415,B,2024-01-07,1,299,7,Desktop,Paid Search,Midlands,7,1,Sunday,34.88333333333333
+416,A,2024-01-14,1,178,5,Mobile,Paid Search,Midlands,14,1,Sunday,14.833333333333334
+417,A,2024-01-31,0,104,5,Mobile,Social,Midlands,31,1,Wednesday,8.666666666666668
+418,A,2024-01-09,0,119,8,Desktop,Paid Search,London,9,1,Tuesday,15.866666666666667
+419,B,2024-01-27,0,334,4,Mobile,Social,Scotland,27,1,Saturday,22.266666666666666
+420,B,2024-01-28,0,418,2,Mobile,Organic,London,28,1,Sunday,13.933333333333334
+421,B,2024-01-23,0,470,3,Mobile,Paid Search,Midlands,23,1,Tuesday,23.5
+422,B,2024-01-25,0,467,4,Desktop,Paid Search,North,25,1,Thursday,31.133333333333333
+423,A,2024-01-28,0,28,6,Mobile,Social,Midlands,28,1,Sunday,2.8
+424,A,2024-01-19,0,204,9,Tablet,Social,North,19,1,Friday,30.599999999999998
+425,A,2024-01-15,0,17,3,Desktop,Social,Scotland,15,1,Monday,0.85
+426,B,2024-01-20,1,239,5,Mobile,Social,South,20,1,Saturday,19.916666666666668
+427,A,2024-01-14,0,174,3,Mobile,Email,North,14,1,Sunday,8.7
+428,B,2024-01-24,0,655,2,Mobile,Social,London,24,1,Wednesday,21.833333333333332
+429,A,2024-01-06,0,129,4,Mobile,Email,Midlands,6,1,Saturday,8.6
+430,A,2024-01-21,0,37,9,Mobile,Organic,Midlands,21,1,Sunday,5.550000000000001
+431,A,2024-01-29,0,46,4,Mobile,Social,Midlands,29,1,Monday,3.066666666666667
+432,B,2024-01-04,0,430,5,Mobile,Email,North,4,1,Thursday,35.833333333333336
+433,B,2024-01-08,0,288,8,Mobile,Email,Scotland,8,1,Monday,38.4
+434,A,2024-01-17,0,31,8,Mobile,Email,North,17,1,Wednesday,4.133333333333334
+435,A,2024-01-30,0,26,5,Tablet,Paid Search,London,30,1,Tuesday,2.166666666666667
+436,B,2024-01-09,0,362,3,Mobile,Email,Midlands,9,1,Tuesday,18.1
+437,A,2024-01-01,0,22,9,Tablet,Social,North,1,1,Monday,3.3
+438,B,2024-01-24,0,517,2,Mobile,Social,Midlands,24,1,Wednesday,17.233333333333334
+439,B,2024-01-20,0,367,8,Mobile,Social,London,20,1,Saturday,48.93333333333333
+440,A,2024-01-25,0,25,7,Mobile,Email,South,25,1,Thursday,2.916666666666667
+441,A,2024-01-14,0,26,6,Mobile,Email,South,14,1,Sunday,2.6
+442,B,2024-01-11,0,1294,9,Mobile,Paid Search,South,11,1,Thursday,194.1
+443,A,2024-01-21,0,140,3,Tablet,Organic,Midlands,21,1,Sunday,7.0
+444,A,2024-01-03,0,138,6,Tablet,Paid Search,North,3,1,Wednesday,13.799999999999999
+445,B,2024-01-09,0,502,7,Mobile,Social,Midlands,9,1,Tuesday,58.56666666666667
+446,B,2024-01-27,0,882,7,Mobile,Social,Scotland,27,1,Saturday,102.89999999999999
+447,B,2024-01-14,0,1280,5,Mobile,Social,North,14,1,Sunday,106.66666666666666
+448,B,2024-01-30,1,419,5,Mobile,Paid Search,London,30,1,Tuesday,34.916666666666664
+449,A,2024-01-09,0,141,1,Mobile,Social,South,9,1,Tuesday,2.35
+450,A,2024-01-04,0,26,7,Mobile,Social,North,4,1,Thursday,3.033333333333333
+451,B,2024-01-27,0,450,4,Mobile,Social,North,27,1,Saturday,30.0
+452,B,2024-01-04,0,245,7,Mobile,Email,South,4,1,Thursday,28.583333333333332
+453,A,2024-01-28,0,165,5,Mobile,Organic,London,28,1,Sunday,13.75
+454,B,2024-01-08,0,710,5,Mobile,Email,Midlands,8,1,Monday,59.16666666666667
+455,A,2024-01-02,1,35,3,Mobile,Email,Midlands,2,1,Tuesday,1.75
+456,A,2024-01-09,0,203,5,Tablet,Organic,North,9,1,Tuesday,16.916666666666668
+457,A,2024-01-29,0,3,5,Mobile,Organic,South,29,1,Monday,0.25
+458,A,2024-01-14,0,189,4,Desktop,Paid Search,Scotland,14,1,Sunday,12.6
+459,A,2024-01-22,0,17,3,Desktop,Organic,London,22,1,Monday,0.85
+460,A,2024-01-09,0,37,3,Tablet,Paid Search,Midlands,9,1,Tuesday,1.85
+461,A,2024-01-24,0,37,5,Desktop,Paid Search,London,24,1,Wednesday,3.0833333333333335
+462,B,2024-01-31,0,314,10,Desktop,Email,London,31,1,Wednesday,52.333333333333336
+463,B,2024-01-31,0,411,2,Desktop,Social,London,31,1,Wednesday,13.7
+464,B,2024-01-23,0,262,5,Mobile,Email,South,23,1,Tuesday,21.833333333333332
+465,B,2024-01-16,0,982,3,Mobile,Email,South,16,1,Tuesday,49.1
+466,A,2024-01-29,0,140,4,Tablet,Organic,South,29,1,Monday,9.333333333333334
+467,A,2024-01-30,0,100,6,Desktop,Organic,North,30,1,Tuesday,10.0
+468,B,2024-01-17,0,608,3,Tablet,Paid Search,South,17,1,Wednesday,30.4
+469,A,2024-01-16,0,75,4,Desktop,Paid Search,North,16,1,Tuesday,5.0
+470,B,2024-01-30,0,990,4,Desktop,Paid Search,Midlands,30,1,Tuesday,66.0
+471,A,2024-01-12,0,3,5,Desktop,Organic,Midlands,12,1,Friday,0.25
+472,B,2024-01-03,0,1050,8,Desktop,Paid Search,Midlands,3,1,Wednesday,140.0
+473,A,2024-01-11,0,13,5,Mobile,Paid Search,Midlands,11,1,Thursday,1.0833333333333335
+474,B,2024-01-14,1,665,6,Tablet,Organic,Midlands,14,1,Sunday,66.5
+475,B,2024-01-18,0,225,3,Desktop,Social,South,18,1,Thursday,11.25
+476,B,2024-01-21,0,1487,4,Desktop,Email,Scotland,21,1,Sunday,99.13333333333334
+477,A,2024-01-31,0,22,5,Desktop,Organic,South,31,1,Wednesday,1.8333333333333333
+478,B,2024-01-21,1,242,6,Mobile,Paid Search,Scotland,21,1,Sunday,24.2
+479,B,2024-01-05,0,1045,7,Mobile,Email,South,5,1,Friday,121.91666666666667
+480,B,2024-01-16,0,222,5,Tablet,Organic,Midlands,16,1,Tuesday,18.5
+481,B,2024-01-20,0,297,2,Mobile,Email,London,20,1,Saturday,9.9
+482,B,2024-01-05,0,356,6,Mobile,Email,Scotland,5,1,Friday,35.6
+483,A,2024-01-03,0,181,4,Mobile,Social,London,3,1,Wednesday,12.066666666666666
+484,B,2024-01-12,1,296,2,Desktop,Paid Search,Midlands,12,1,Friday,9.866666666666667
+485,B,2024-01-01,0,263,4,Desktop,Organic,Scotland,1,1,Monday,17.533333333333335
+486,B,2024-01-21,0,694,2,Desktop,Paid Search,London,21,1,Sunday,23.133333333333333
+487,A,2024-01-29,1,13,3,Desktop,Social,South,29,1,Monday,0.65
+488,A,2024-01-09,0,98,4,Mobile,Social,Midlands,9,1,Tuesday,6.533333333333333
+489,B,2024-01-29,0,901,7,Mobile,Organic,South,29,1,Monday,105.11666666666667
+490,B,2024-01-09,0,662,5,Mobile,Organic,South,9,1,Tuesday,55.166666666666664
+491,A,2024-01-04,0,182,5,Desktop,Social,Midlands,4,1,Thursday,15.166666666666666
+492,B,2024-01-03,0,290,7,Mobile,Organic,Scotland,3,1,Wednesday,33.83333333333333
+493,A,2024-01-17,0,97,9,Desktop,Email,North,17,1,Wednesday,14.55
+494,A,2024-01-02,0,62,7,Mobile,Email,North,2,1,Tuesday,7.233333333333334
+495,A,2024-01-24,0,186,6,Mobile,Social,Midlands,24,1,Wednesday,18.6
+496,A,2024-01-01,0,130,6,Tablet,Paid Search,North,1,1,Monday,13.0
+497,B,2024-01-08,0,262,9,Mobile,Organic,London,8,1,Monday,39.3
+498,A,2024-01-13,1,24,2,Desktop,Organic,Scotland,13,1,Saturday,0.8
+499,B,2024-01-23,0,1099,3,Mobile,Email,South,23,1,Tuesday,54.95
+500,B,2024-01-15,1,1285,9,Mobile,Organic,South,15,1,Monday,192.75
+501,B,2024-01-08,0,359,3,Mobile,Paid Search,Midlands,8,1,Monday,17.95
+502,B,2024-01-12,0,230,8,Mobile,Organic,South,12,1,Friday,30.666666666666668
+503,A,2024-01-22,0,111,5,Desktop,Organic,London,22,1,Monday,9.25
+504,B,2024-01-12,0,504,4,Mobile,Email,London,12,1,Friday,33.6
+505,B,2024-01-14,0,346,9,Mobile,Organic,Midlands,14,1,Sunday,51.9
+506,A,2024-01-15,0,53,2,Mobile,Social,South,15,1,Monday,1.7666666666666666
+507,B,2024-01-15,0,725,5,Desktop,Social,North,15,1,Monday,60.41666666666667
+508,B,2024-01-09,0,518,10,Desktop,Paid Search,North,9,1,Tuesday,86.33333333333333
+509,B,2024-01-19,0,897,5,Mobile,Paid Search,Scotland,19,1,Friday,74.75
+510,B,2024-01-26,0,388,4,Mobile,Paid Search,Midlands,26,1,Friday,25.866666666666667
+511,B,2024-01-20,0,285,7,Desktop,Paid Search,Scotland,20,1,Saturday,33.25
+512,A,2024-01-29,0,162,3,Desktop,Email,North,29,1,Monday,8.100000000000001
+513,B,2024-01-22,0,809,6,Mobile,Organic,North,22,1,Monday,80.89999999999999
+514,B,2024-01-08,0,603,3,Desktop,Email,North,8,1,Monday,30.150000000000002
+515,A,2024-01-21,0,13,3,Desktop,Paid Search,Scotland,21,1,Sunday,0.65
+516,A,2024-01-19,0,8,4,Desktop,Organic,Midlands,19,1,Friday,0.5333333333333333
+517,A,2024-01-06,0,141,1,Desktop,Social,London,6,1,Saturday,2.35
+518,B,2024-01-20,0,499,2,Tablet,Email,London,20,1,Saturday,16.633333333333333
+519,B,2024-01-25,0,1309,4,Mobile,Organic,North,25,1,Thursday,87.26666666666667
+520,A,2024-01-29,0,48,5,Tablet,Social,Midlands,29,1,Monday,4.0
+521,B,2024-01-19,0,270,8,Mobile,Social,Midlands,19,1,Friday,36.0
+522,A,2024-01-04,0,143,7,Desktop,Paid Search,South,4,1,Thursday,16.683333333333334
+523,B,2024-01-23,0,1051,7,Mobile,Social,South,23,1,Tuesday,122.61666666666666
+524,B,2024-01-07,0,553,2,Mobile,Social,Scotland,7,1,Sunday,18.433333333333334
+525,B,2024-01-28,0,546,6,Desktop,Paid Search,South,28,1,Sunday,54.599999999999994
+526,A,2024-01-28,0,189,8,Desktop,Organic,Scotland,28,1,Sunday,25.2
+527,A,2024-01-04,0,160,6,Mobile,Organic,London,4,1,Thursday,16.0
+528,A,2024-01-22,0,95,4,Mobile,Paid Search,North,22,1,Monday,6.333333333333333
+529,A,2024-01-12,0,17,4,Mobile,Email,Midlands,12,1,Friday,1.1333333333333333
+530,B,2024-01-13,0,600,4,Tablet,Paid Search,London,13,1,Saturday,40.0
+531,B,2024-01-03,0,502,1,Desktop,Organic,London,3,1,Wednesday,8.366666666666667
+532,B,2024-01-22,0,2451,6,Mobile,Email,Scotland,22,1,Monday,245.10000000000002
+533,B,2024-01-12,0,1708,8,Desktop,Paid Search,North,12,1,Friday,227.73333333333332
+534,B,2024-01-02,0,243,7,Tablet,Organic,Scotland,2,1,Tuesday,28.349999999999998
+535,B,2024-01-24,0,439,7,Mobile,Organic,London,24,1,Wednesday,51.21666666666667
+536,B,2024-01-02,0,868,6,Desktop,Organic,Midlands,2,1,Tuesday,86.8
+537,B,2024-01-27,0,568,6,Mobile,Social,South,27,1,Saturday,56.8
+538,A,2024-01-23,0,85,4,Desktop,Social,Scotland,23,1,Tuesday,5.666666666666667
+539,A,2024-01-09,0,179,3,Mobile,Email,London,9,1,Tuesday,8.95
+540,A,2024-01-01,0,41,6,Mobile,Email,South,1,1,Monday,4.1
+541,B,2024-01-08,0,924,3,Mobile,Email,South,8,1,Monday,46.2
+542,B,2024-01-23,0,279,10,Mobile,Social,London,23,1,Tuesday,46.5
+543,A,2024-01-06,0,77,5,Desktop,Email,North,6,1,Saturday,6.416666666666667
+544,B,2024-01-06,0,334,6,Mobile,Organic,London,6,1,Saturday,33.4
+545,B,2024-01-22,1,288,6,Mobile,Organic,Midlands,22,1,Monday,28.799999999999997
+546,A,2024-01-25,0,133,4,Desktop,Email,South,25,1,Thursday,8.866666666666667
+547,A,2024-01-18,0,36,6,Mobile,Email,Midlands,18,1,Thursday,3.5999999999999996
+548,B,2024-01-17,0,334,5,Mobile,Social,Scotland,17,1,Wednesday,27.833333333333332
+549,B,2024-01-29,0,220,3,Tablet,Organic,South,29,1,Monday,11.0
+550,B,2024-01-12,0,443,2,Desktop,Paid Search,North,12,1,Friday,14.766666666666667
+551,B,2024-01-06,0,220,3,Mobile,Paid Search,London,6,1,Saturday,11.0
+552,B,2024-01-26,0,573,2,Mobile,Social,Scotland,26,1,Friday,19.1
+553,B,2024-01-27,0,240,8,Tablet,Social,Midlands,27,1,Saturday,32.0
+554,B,2024-01-08,0,246,7,Mobile,Social,Scotland,8,1,Monday,28.699999999999996
+555,B,2024-01-19,0,627,4,Mobile,Organic,North,19,1,Friday,41.8
+556,A,2024-01-28,0,154,3,Mobile,Email,London,28,1,Sunday,7.700000000000001
+557,A,2024-01-10,0,43,3,Mobile,Email,Scotland,10,1,Wednesday,2.15
+558,A,2024-01-01,0,8,6,Desktop,Social,Midlands,1,1,Monday,0.8
+559,B,2024-01-25,0,422,5,Desktop,Organic,Scotland,25,1,Thursday,35.166666666666664
+560,B,2024-01-29,0,290,1,Tablet,Paid Search,London,29,1,Monday,4.833333333333333
+561,B,2024-01-13,0,365,8,Desktop,Social,Scotland,13,1,Saturday,48.666666666666664
+562,A,2024-01-17,1,71,9,Mobile,Organic,Midlands,17,1,Wednesday,10.65
+563,A,2024-01-03,0,43,4,Mobile,Social,London,3,1,Wednesday,2.8666666666666667
+564,A,2024-01-08,0,4,7,Tablet,Organic,North,8,1,Monday,0.4666666666666667
+565,A,2024-01-14,0,129,3,Mobile,Organic,North,14,1,Sunday,6.449999999999999
+566,B,2024-01-03,0,267,7,Mobile,Social,South,3,1,Wednesday,31.150000000000002
+567,A,2024-01-16,0,149,5,Tablet,Email,Scotland,16,1,Tuesday,12.416666666666668
+568,A,2024-01-13,0,172,6,Mobile,Social,Midlands,13,1,Saturday,17.2
+569,B,2024-01-20,0,703,8,Mobile,Email,Scotland,20,1,Saturday,93.73333333333333
+570,A,2024-01-24,0,128,2,Desktop,Email,London,24,1,Wednesday,4.266666666666667
+571,B,2024-01-17,0,216,4,Tablet,Paid Search,South,17,1,Wednesday,14.4
+572,B,2024-01-13,0,459,9,Mobile,Organic,Midlands,13,1,Saturday,68.85000000000001
+573,A,2024-01-29,0,151,4,Desktop,Social,Scotland,29,1,Monday,10.066666666666666
+574,B,2024-01-06,0,291,4,Mobile,Organic,Midlands,6,1,Saturday,19.4
+575,B,2024-01-17,0,594,3,Mobile,Paid Search,London,17,1,Wednesday,29.700000000000003
+576,B,2024-01-14,0,895,4,Tablet,Email,South,14,1,Sunday,59.666666666666664
+577,A,2024-01-17,0,47,4,Tablet,Social,Midlands,17,1,Wednesday,3.1333333333333333
+578,B,2024-01-30,0,783,6,Mobile,Organic,London,30,1,Tuesday,78.30000000000001
+579,A,2024-01-08,0,203,7,Mobile,Paid Search,North,8,1,Monday,23.683333333333334
+580,A,2024-01-11,1,89,3,Mobile,Email,Midlands,11,1,Thursday,4.45
+581,A,2024-01-20,1,184,6,Mobile,Email,South,20,1,Saturday,18.400000000000002
+582,B,2024-01-28,0,1174,8,Mobile,Organic,Midlands,28,1,Sunday,156.53333333333333
+583,A,2024-01-01,0,203,7,Mobile,Email,Midlands,1,1,Monday,23.683333333333334
+584,A,2024-01-26,0,119,3,Mobile,Paid Search,London,26,1,Friday,5.95
+585,B,2024-01-07,0,301,4,Mobile,Email,Scotland,7,1,Sunday,20.066666666666666
+586,A,2024-01-21,0,82,6,Mobile,Social,Scotland,21,1,Sunday,8.2
+587,A,2024-01-21,0,23,8,Desktop,Social,Midlands,21,1,Sunday,3.066666666666667
+588,A,2024-01-17,0,41,3,Mobile,Organic,South,17,1,Wednesday,2.05
+589,A,2024-01-30,0,41,4,Mobile,Paid Search,South,30,1,Tuesday,2.7333333333333334
+590,A,2024-01-10,0,49,3,Desktop,Email,London,10,1,Wednesday,2.45
+591,A,2024-01-11,0,44,8,Desktop,Email,Midlands,11,1,Thursday,5.866666666666666
+592,B,2024-01-22,0,307,1,Mobile,Email,Midlands,22,1,Monday,5.116666666666666
+593,A,2024-01-30,0,60,3,Mobile,Social,Scotland,30,1,Tuesday,3.0
+594,A,2024-01-09,0,127,7,Desktop,Paid Search,London,9,1,Tuesday,14.816666666666666
+595,B,2024-01-09,0,681,5,Mobile,Email,North,9,1,Tuesday,56.75
+596,A,2024-01-24,0,192,9,Desktop,Organic,South,24,1,Wednesday,28.8
+597,B,2024-01-05,0,330,5,Mobile,Paid Search,South,5,1,Friday,27.5
+598,A,2024-01-17,0,56,4,Mobile,Paid Search,Midlands,17,1,Wednesday,3.7333333333333334
+599,A,2024-01-09,0,64,5,Mobile,Email,London,9,1,Tuesday,5.333333333333333
+600,A,2024-01-17,0,12,7,Desktop,Social,North,17,1,Wednesday,1.4000000000000001
+601,A,2024-01-24,0,55,3,Tablet,Paid Search,South,24,1,Wednesday,2.75
+602,A,2024-01-21,0,97,6,Mobile,Organic,London,21,1,Sunday,9.7
+603,A,2024-01-19,0,58,7,Mobile,Paid Search,North,19,1,Friday,6.766666666666667
+604,A,2024-01-27,0,27,4,Mobile,Social,Midlands,27,1,Saturday,1.8
+605,A,2024-01-07,0,38,4,Mobile,Organic,Scotland,7,1,Sunday,2.533333333333333
+606,A,2024-01-23,0,185,4,Desktop,Social,South,23,1,Tuesday,12.333333333333334
+607,A,2024-01-09,0,69,3,Mobile,Email,South,9,1,Tuesday,3.4499999999999997
+608,A,2024-01-07,1,135,4,Tablet,Paid Search,North,7,1,Sunday,9.0
+609,B,2024-01-13,0,210,2,Desktop,Organic,Scotland,13,1,Saturday,7.0
+610,B,2024-01-11,0,351,7,Tablet,Social,London,11,1,Thursday,40.949999999999996
+611,A,2024-01-14,0,12,6,Desktop,Email,Midlands,14,1,Sunday,1.2000000000000002
+612,B,2024-01-19,0,481,7,Mobile,Organic,London,19,1,Friday,56.116666666666674
+613,B,2024-01-11,1,296,5,Mobile,Paid Search,North,11,1,Thursday,24.666666666666668
+614,A,2024-01-13,0,25,4,Mobile,Paid Search,South,13,1,Saturday,1.6666666666666667
+615,B,2024-01-31,0,620,5,Mobile,Social,South,31,1,Wednesday,51.66666666666667
+616,B,2024-01-14,0,761,4,Mobile,Organic,London,14,1,Sunday,50.733333333333334
+617,A,2024-01-13,0,18,7,Mobile,Email,Midlands,13,1,Saturday,2.1
+618,A,2024-01-01,0,97,5,Tablet,Email,North,1,1,Monday,8.083333333333334
+619,B,2024-01-08,0,492,6,Mobile,Email,Midlands,8,1,Monday,49.199999999999996
+620,B,2024-01-12,0,413,5,Desktop,Social,North,12,1,Friday,34.41666666666667
+621,A,2024-01-19,1,61,2,Tablet,Email,Midlands,19,1,Friday,2.033333333333333
+622,A,2024-01-12,0,70,4,Desktop,Organic,London,12,1,Friday,4.666666666666667
+623,A,2024-01-08,0,138,4,Mobile,Social,Scotland,8,1,Monday,9.2
+624,A,2024-01-08,0,198,6,Mobile,Paid Search,North,8,1,Monday,19.799999999999997
+625,B,2024-01-29,0,288,11,Mobile,Social,London,29,1,Monday,52.8
+626,A,2024-01-21,0,138,6,Mobile,Social,South,21,1,Sunday,13.799999999999999
+627,A,2024-01-13,0,186,8,Mobile,Social,South,13,1,Saturday,24.8
+628,B,2024-01-12,0,412,5,Desktop,Organic,Midlands,12,1,Friday,34.33333333333333
+629,A,2024-01-29,0,11,3,Mobile,Paid Search,South,29,1,Monday,0.5499999999999999
+630,A,2024-01-16,0,87,5,Mobile,Paid Search,Scotland,16,1,Tuesday,7.25
+631,B,2024-01-01,1,374,1,Tablet,Social,North,1,1,Monday,6.233333333333333
+632,B,2024-01-13,0,676,8,Mobile,Social,Midlands,13,1,Saturday,90.13333333333334
+633,B,2024-01-26,0,215,6,Mobile,Social,North,26,1,Friday,21.5
+634,B,2024-01-07,0,227,4,Desktop,Organic,North,7,1,Sunday,15.133333333333333
+635,A,2024-01-28,0,34,7,Mobile,Organic,London,28,1,Sunday,3.966666666666667
+636,A,2024-01-26,0,177,1,Desktop,Email,South,26,1,Friday,2.95
+637,B,2024-01-05,0,228,7,Mobile,Paid Search,North,5,1,Friday,26.599999999999998
+638,A,2024-01-08,0,83,3,Desktop,Email,Scotland,8,1,Monday,4.15
+639,A,2024-01-25,0,94,9,Mobile,Email,Scotland,25,1,Thursday,14.1
+640,A,2024-01-27,0,142,4,Mobile,Social,South,27,1,Saturday,9.466666666666667
+641,A,2024-01-14,0,6,2,Mobile,Organic,South,14,1,Sunday,0.2
+642,A,2024-01-23,0,116,4,Mobile,Email,Midlands,23,1,Tuesday,7.733333333333333
+643,A,2024-01-30,0,71,6,Mobile,Email,Midlands,30,1,Tuesday,7.1
+644,A,2024-01-13,0,119,2,Mobile,Email,Midlands,13,1,Saturday,3.966666666666667
+645,A,2024-01-15,0,38,1,Mobile,Social,South,15,1,Monday,0.6333333333333333
+646,B,2024-01-23,0,663,7,Mobile,Social,North,23,1,Tuesday,77.35000000000001
+647,B,2024-01-17,0,270,7,Mobile,Organic,London,17,1,Wednesday,31.5
+648,B,2024-01-15,0,340,6,Mobile,Email,Midlands,15,1,Monday,34.0
+649,B,2024-01-20,0,467,8,Desktop,Email,London,20,1,Saturday,62.266666666666666
+650,A,2024-01-18,0,207,7,Mobile,Organic,Scotland,18,1,Thursday,24.150000000000002
+651,A,2024-01-18,0,27,5,Mobile,Organic,South,18,1,Thursday,2.25
+652,B,2024-01-02,0,231,6,Desktop,Organic,Scotland,2,1,Tuesday,23.1
+653,B,2024-01-04,0,265,6,Desktop,Paid Search,Midlands,4,1,Thursday,26.5
+654,B,2024-01-30,0,410,7,Mobile,Organic,North,30,1,Tuesday,47.83333333333333
+655,A,2024-01-01,0,169,6,Mobile,Social,Midlands,1,1,Monday,16.900000000000002
+656,A,2024-01-31,0,40,3,Mobile,Paid Search,London,31,1,Wednesday,2.0
+657,A,2024-01-04,0,100,3,Mobile,Organic,Midlands,4,1,Thursday,5.0
+658,A,2024-01-18,1,135,1,Desktop,Social,North,18,1,Thursday,2.25
+659,B,2024-01-05,0,311,5,Mobile,Organic,North,5,1,Friday,25.916666666666668
+660,B,2024-01-19,0,253,3,Desktop,Organic,South,19,1,Friday,12.65
+661,A,2024-01-15,0,132,9,Mobile,Paid Search,South,15,1,Monday,19.8
+662,B,2024-01-28,0,1291,8,Mobile,Social,North,28,1,Sunday,172.13333333333333
+663,B,2024-01-08,0,279,4,Desktop,Email,North,8,1,Monday,18.6
+664,A,2024-01-20,0,81,2,Mobile,Organic,London,20,1,Saturday,2.7
+665,A,2024-01-17,0,32,3,Mobile,Paid Search,Midlands,17,1,Wednesday,1.6
+666,A,2024-01-01,0,49,2,Tablet,Social,South,1,1,Monday,1.6333333333333333
+667,A,2024-01-12,0,84,4,Desktop,Organic,London,12,1,Friday,5.6
+668,A,2024-01-26,1,52,4,Desktop,Email,Midlands,26,1,Friday,3.466666666666667
+669,A,2024-01-19,0,61,5,Mobile,Social,South,19,1,Friday,5.083333333333333
+670,A,2024-01-15,1,100,8,Mobile,Social,London,15,1,Monday,13.333333333333334
+671,A,2024-01-09,0,57,6,Tablet,Paid Search,Scotland,9,1,Tuesday,5.699999999999999
+672,B,2024-01-07,0,681,3,Mobile,Organic,Scotland,7,1,Sunday,34.05
+673,A,2024-01-02,0,25,5,Desktop,Organic,South,2,1,Tuesday,2.0833333333333335
+674,B,2024-01-31,0,223,6,Mobile,Social,London,31,1,Wednesday,22.3
+675,A,2024-01-29,0,158,3,Mobile,Organic,Midlands,29,1,Monday,7.9
+676,B,2024-01-09,1,1211,8,Tablet,Social,Midlands,9,1,Tuesday,161.46666666666667
+677,A,2024-01-10,0,35,8,Mobile,Email,London,10,1,Wednesday,4.666666666666667
+678,A,2024-01-02,0,152,5,Mobile,Paid Search,Scotland,2,1,Tuesday,12.666666666666666
+679,B,2024-01-19,0,1046,4,Mobile,Organic,London,19,1,Friday,69.73333333333333
+680,B,2024-01-11,0,601,2,Mobile,Organic,Scotland,11,1,Thursday,20.033333333333335
+681,B,2024-01-13,1,509,6,Mobile,Paid Search,Scotland,13,1,Saturday,50.89999999999999
+682,A,2024-01-10,0,89,5,Mobile,Email,Midlands,10,1,Wednesday,7.416666666666667
+683,A,2024-01-14,0,56,6,Mobile,Email,South,14,1,Sunday,5.6
+684,B,2024-01-18,0,331,7,Desktop,Email,North,18,1,Thursday,38.61666666666667
+685,B,2024-01-19,0,795,3,Mobile,Email,London,19,1,Friday,39.75
+686,B,2024-01-22,1,244,9,Tablet,Email,Scotland,22,1,Monday,36.599999999999994
+687,B,2024-01-09,0,254,2,Mobile,Social,London,9,1,Tuesday,8.466666666666667
+688,A,2024-01-25,0,98,0,Mobile,Organic,South,25,1,Thursday,0.0
+689,B,2024-01-07,0,440,6,Mobile,Organic,South,7,1,Sunday,44.0
+690,A,2024-01-28,0,62,4,Desktop,Organic,North,28,1,Sunday,4.133333333333334
+691,A,2024-01-03,0,117,6,Tablet,Social,North,3,1,Wednesday,11.7
+692,A,2024-01-20,0,166,4,Desktop,Paid Search,Scotland,20,1,Saturday,11.066666666666666
+693,B,2024-01-06,0,212,5,Mobile,Email,North,6,1,Saturday,17.666666666666664
+694,A,2024-01-27,1,83,2,Mobile,Paid Search,Scotland,27,1,Saturday,2.7666666666666666
+695,A,2024-01-21,0,36,5,Desktop,Email,Midlands,21,1,Sunday,3.0
+696,B,2024-01-02,0,282,4,Tablet,Email,Scotland,2,1,Tuesday,18.8
+697,A,2024-01-29,1,102,3,Tablet,Paid Search,North,29,1,Monday,5.1
+698,B,2024-01-06,0,261,5,Mobile,Organic,London,6,1,Saturday,21.75
+699,A,2024-01-03,0,50,3,Tablet,Social,North,3,1,Wednesday,2.5
+700,A,2024-01-16,0,196,3,Mobile,Paid Search,South,16,1,Tuesday,9.8
+701,B,2024-01-30,0,228,4,Mobile,Organic,North,30,1,Tuesday,15.2
+702,A,2024-01-08,0,15,8,Mobile,Email,Midlands,8,1,Monday,2.0
+703,A,2024-01-02,1,123,5,Mobile,Organic,Scotland,2,1,Tuesday,10.25
+704,A,2024-01-17,0,43,4,Desktop,Email,South,17,1,Wednesday,2.8666666666666667
+705,A,2024-01-09,0,19,4,Desktop,Email,Scotland,9,1,Tuesday,1.2666666666666666
+706,B,2024-01-30,0,1380,4,Desktop,Organic,Scotland,30,1,Tuesday,92.0
+707,A,2024-01-12,0,116,4,Desktop,Email,North,12,1,Friday,7.733333333333333
+708,B,2024-01-03,0,498,7,Mobile,Social,London,3,1,Wednesday,58.10000000000001
+709,A,2024-01-11,0,88,8,Desktop,Organic,South,11,1,Thursday,11.733333333333333
+710,B,2024-01-01,0,343,7,Mobile,Paid Search,Midlands,1,1,Monday,40.016666666666666
+711,B,2024-01-23,0,428,3,Desktop,Email,Midlands,23,1,Tuesday,21.400000000000002
+712,B,2024-01-13,1,271,6,Desktop,Email,London,13,1,Saturday,27.1
+713,A,2024-01-15,0,191,6,Desktop,Social,London,15,1,Monday,19.099999999999998
+714,A,2024-01-26,0,159,4,Mobile,Social,North,26,1,Friday,10.6
+715,A,2024-01-05,0,128,6,Desktop,Paid Search,Midlands,5,1,Friday,12.8
+716,B,2024-01-21,0,795,9,Mobile,Email,South,21,1,Sunday,119.25
+717,B,2024-01-30,0,532,6,Mobile,Paid Search,London,30,1,Tuesday,53.2
+718,B,2024-01-17,0,1005,4,Desktop,Paid Search,London,17,1,Wednesday,67.0
+719,A,2024-01-31,0,39,6,Mobile,Email,London,31,1,Wednesday,3.9000000000000004
+720,B,2024-01-31,0,393,7,Desktop,Paid Search,South,31,1,Wednesday,45.85
+721,B,2024-01-25,0,835,4,Mobile,Paid Search,Midlands,25,1,Thursday,55.666666666666664
+722,A,2024-01-23,0,59,3,Mobile,Social,South,23,1,Tuesday,2.9499999999999997
+723,A,2024-01-24,0,20,4,Desktop,Social,South,24,1,Wednesday,1.3333333333333333
+724,B,2024-01-25,0,405,5,Mobile,Paid Search,North,25,1,Thursday,33.75
+725,B,2024-01-06,0,256,3,Mobile,Email,London,6,1,Saturday,12.8
+726,B,2024-01-28,0,553,5,Mobile,Social,Midlands,28,1,Sunday,46.083333333333336
+727,A,2024-01-21,0,45,3,Mobile,Paid Search,North,21,1,Sunday,2.25
+728,B,2024-01-22,0,475,5,Desktop,Organic,North,22,1,Monday,39.583333333333336
+729,A,2024-01-11,0,67,5,Mobile,Organic,Scotland,11,1,Thursday,5.583333333333334
+730,A,2024-01-18,0,53,5,Desktop,Paid Search,London,18,1,Thursday,4.416666666666666
+731,A,2024-01-04,0,53,6,Desktop,Organic,Midlands,4,1,Thursday,5.3
+732,B,2024-01-03,0,505,6,Mobile,Social,Midlands,3,1,Wednesday,50.5
+733,B,2024-01-13,0,328,6,Desktop,Email,Midlands,13,1,Saturday,32.8
+734,B,2024-01-23,0,222,5,Desktop,Paid Search,London,23,1,Tuesday,18.5
+735,A,2024-01-09,0,133,7,Mobile,Social,Midlands,9,1,Tuesday,15.516666666666667
+736,B,2024-01-21,0,629,3,Mobile,Email,South,21,1,Sunday,31.449999999999996
+737,A,2024-01-06,0,149,5,Mobile,Organic,South,6,1,Saturday,12.416666666666668
+738,B,2024-01-26,0,508,7,Desktop,Organic,London,26,1,Friday,59.266666666666666
+739,A,2024-01-30,0,173,2,Desktop,Organic,Midlands,30,1,Tuesday,5.766666666666667
+740,A,2024-01-28,0,141,8,Mobile,Organic,Scotland,28,1,Sunday,18.8
+741,A,2024-01-12,0,186,4,Desktop,Social,Scotland,12,1,Friday,12.4
+742,A,2024-01-02,0,107,2,Desktop,Social,Scotland,2,1,Tuesday,3.566666666666667
+743,B,2024-01-03,1,413,5,Desktop,Email,South,3,1,Wednesday,34.41666666666667
+744,B,2024-01-03,0,209,5,Desktop,Paid Search,Scotland,3,1,Wednesday,17.416666666666668
+745,A,2024-01-28,0,79,4,Mobile,Email,Midlands,28,1,Sunday,5.266666666666667
+746,B,2024-01-12,0,689,6,Desktop,Paid Search,Midlands,12,1,Friday,68.89999999999999
+747,A,2024-01-15,1,145,8,Desktop,Organic,Scotland,15,1,Monday,19.333333333333332
+748,B,2024-01-09,0,235,4,Desktop,Organic,North,9,1,Tuesday,15.666666666666666
+749,B,2024-01-31,0,710,3,Mobile,Organic,Scotland,31,1,Wednesday,35.5
+750,B,2024-01-23,0,293,6,Mobile,Organic,North,23,1,Tuesday,29.300000000000004
+751,A,2024-01-08,0,37,4,Mobile,Social,London,8,1,Monday,2.466666666666667
+752,B,2024-01-11,0,843,2,Mobile,Email,London,11,1,Thursday,28.1
+753,B,2024-01-16,0,296,3,Desktop,Paid Search,Midlands,16,1,Tuesday,14.8
+754,A,2024-01-26,0,122,1,Mobile,Paid Search,South,26,1,Friday,2.033333333333333
+755,A,2024-01-27,0,44,9,Desktop,Social,Midlands,27,1,Saturday,6.6
+756,B,2024-01-25,0,474,5,Desktop,Organic,Midlands,25,1,Thursday,39.5
+757,B,2024-01-22,0,290,3,Desktop,Email,South,22,1,Monday,14.5
+758,B,2024-01-04,0,228,4,Mobile,Organic,Midlands,4,1,Thursday,15.2
+759,B,2024-01-28,0,672,3,Tablet,Social,South,28,1,Sunday,33.599999999999994
+760,B,2024-01-01,0,466,4,Desktop,Paid Search,Midlands,1,1,Monday,31.066666666666666
+761,A,2024-01-24,1,49,6,Desktop,Social,London,24,1,Wednesday,4.9
+762,A,2024-01-07,0,112,4,Mobile,Paid Search,North,7,1,Sunday,7.466666666666667
+763,A,2024-01-02,0,85,2,Mobile,Email,Midlands,2,1,Tuesday,2.8333333333333335
+764,B,2024-01-24,0,408,6,Mobile,Paid Search,North,24,1,Wednesday,40.8
+765,A,2024-01-28,0,10,3,Mobile,Email,Scotland,28,1,Sunday,0.5
+766,B,2024-01-05,0,253,6,Mobile,Organic,Midlands,5,1,Friday,25.3
+767,B,2024-01-07,0,431,2,Mobile,Organic,London,7,1,Sunday,14.366666666666667
+768,B,2024-01-04,0,628,8,Desktop,Social,South,4,1,Thursday,83.73333333333333
+769,A,2024-01-05,0,125,3,Mobile,Email,London,5,1,Friday,6.25
+770,B,2024-01-24,0,516,6,Mobile,Organic,North,24,1,Wednesday,51.599999999999994
+771,A,2024-01-01,0,35,4,Desktop,Email,South,1,1,Monday,2.3333333333333335
+772,B,2024-01-01,0,562,5,Mobile,Organic,London,1,1,Monday,46.833333333333336
+773,A,2024-01-15,1,40,6,Desktop,Organic,London,15,1,Monday,4.0
+774,A,2024-01-20,0,151,1,Mobile,Paid Search,London,20,1,Saturday,2.5166666666666666
+775,B,2024-01-19,1,478,5,Mobile,Social,South,19,1,Friday,39.833333333333336
+776,A,2024-01-29,0,48,7,Mobile,Paid Search,London,29,1,Monday,5.6000000000000005
+777,A,2024-01-10,1,78,6,Desktop,Email,London,10,1,Wednesday,7.800000000000001
+778,B,2024-01-28,0,384,6,Mobile,Organic,North,28,1,Sunday,38.400000000000006
+779,B,2024-01-18,0,381,7,Desktop,Social,London,18,1,Thursday,44.449999999999996
+780,B,2024-01-28,0,307,4,Mobile,Organic,London,28,1,Sunday,20.466666666666665
+781,B,2024-01-03,0,355,3,Mobile,Organic,Scotland,3,1,Wednesday,17.75
+782,B,2024-01-11,0,234,8,Desktop,Paid Search,South,11,1,Thursday,31.2
+783,A,2024-01-15,0,87,4,Mobile,Email,Scotland,15,1,Monday,5.8
+784,A,2024-01-31,0,127,5,Desktop,Social,North,31,1,Wednesday,10.583333333333334
+785,A,2024-01-27,0,60,5,Mobile,Social,Scotland,27,1,Saturday,5.0
+786,B,2024-01-30,0,717,3,Mobile,Social,Midlands,30,1,Tuesday,35.849999999999994
+787,B,2024-01-11,0,262,9,Desktop,Email,South,11,1,Thursday,39.3
+788,A,2024-01-17,0,153,8,Tablet,Social,London,17,1,Wednesday,20.4
+789,A,2024-01-17,0,185,6,Mobile,Email,Scotland,17,1,Wednesday,18.5
+790,B,2024-01-06,0,882,3,Desktop,Social,Scotland,6,1,Saturday,44.099999999999994
+791,A,2024-01-05,0,49,5,Mobile,Organic,London,5,1,Friday,4.083333333333333
+792,B,2024-01-08,0,264,5,Desktop,Email,London,8,1,Monday,22.0
+793,B,2024-01-02,0,211,5,Desktop,Paid Search,North,2,1,Tuesday,17.583333333333332
+794,B,2024-01-16,0,283,3,Mobile,Social,Scotland,16,1,Tuesday,14.15
+795,A,2024-01-20,0,5,7,Mobile,Paid Search,Scotland,20,1,Saturday,0.5833333333333333
+796,B,2024-01-24,0,617,3,Mobile,Email,Midlands,24,1,Wednesday,30.85
+797,B,2024-01-12,0,806,0,Mobile,Organic,Midlands,12,1,Friday,0.0
+798,B,2024-01-06,0,249,6,Mobile,Paid Search,Scotland,6,1,Saturday,24.900000000000002
+799,B,2024-01-01,0,357,6,Desktop,Paid Search,Midlands,1,1,Monday,35.7
+800,B,2024-01-31,0,767,4,Tablet,Organic,Scotland,31,1,Wednesday,51.13333333333333
+801,B,2024-01-04,0,368,5,Mobile,Organic,South,4,1,Thursday,30.666666666666668
+802,A,2024-01-17,0,49,9,Mobile,Email,North,17,1,Wednesday,7.35
+803,B,2024-01-13,0,257,5,Mobile,Social,Midlands,13,1,Saturday,21.416666666666664
+804,B,2024-01-18,0,279,4,Tablet,Paid Search,Scotland,18,1,Thursday,18.6
+805,A,2024-01-05,0,165,3,Mobile,Paid Search,Midlands,5,1,Friday,8.25
+806,B,2024-01-30,0,400,6,Mobile,Email,North,30,1,Tuesday,40.0
+807,B,2024-01-24,0,817,2,Mobile,Social,South,24,1,Wednesday,27.233333333333334
+808,B,2024-01-24,1,779,6,Mobile,Email,London,24,1,Wednesday,77.89999999999999
+809,A,2024-01-27,0,179,6,Mobile,Paid Search,London,27,1,Saturday,17.9
+810,A,2024-01-03,1,36,6,Mobile,Paid Search,Midlands,3,1,Wednesday,3.5999999999999996
+811,B,2024-01-11,0,1256,5,Mobile,Organic,Scotland,11,1,Thursday,104.66666666666667
+812,B,2024-01-13,0,547,3,Mobile,Organic,North,13,1,Saturday,27.35
+813,A,2024-01-04,0,39,4,Mobile,Social,South,4,1,Thursday,2.6
+814,B,2024-01-26,0,760,4,Mobile,Paid Search,South,26,1,Friday,50.666666666666664
+815,B,2024-01-27,0,611,5,Mobile,Paid Search,South,27,1,Saturday,50.91666666666667
+816,B,2024-01-14,0,219,4,Tablet,Organic,London,14,1,Sunday,14.6
+817,B,2024-01-22,0,268,4,Desktop,Email,North,22,1,Monday,17.866666666666667
+818,A,2024-01-11,1,152,5,Mobile,Email,London,11,1,Thursday,12.666666666666666
+819,A,2024-01-27,0,16,5,Mobile,Paid Search,Midlands,27,1,Saturday,1.3333333333333333
+820,A,2024-01-10,0,122,5,Desktop,Paid Search,South,10,1,Wednesday,10.166666666666666
+821,B,2024-01-19,0,487,7,Mobile,Social,North,19,1,Friday,56.81666666666667
+822,A,2024-01-18,0,1,3,Mobile,Social,South,18,1,Thursday,0.05
+823,A,2024-01-06,0,121,2,Mobile,Organic,London,6,1,Saturday,4.033333333333333
+824,A,2024-01-27,0,152,4,Tablet,Paid Search,London,27,1,Saturday,10.133333333333333
+825,B,2024-01-29,1,231,4,Desktop,Email,London,29,1,Monday,15.4
+826,B,2024-01-15,0,757,6,Mobile,Social,South,15,1,Monday,75.7
+827,A,2024-01-21,0,127,3,Mobile,Organic,North,21,1,Sunday,6.35
+828,A,2024-01-30,0,127,5,Tablet,Organic,North,30,1,Tuesday,10.583333333333334
+829,B,2024-01-10,0,401,5,Tablet,Email,Midlands,10,1,Wednesday,33.41666666666667
+830,A,2024-01-05,0,180,5,Tablet,Social,South,5,1,Friday,15.0
+831,A,2024-01-26,0,76,5,Mobile,Email,Midlands,26,1,Friday,6.333333333333333
+832,A,2024-01-29,0,180,3,Mobile,Organic,Midlands,29,1,Monday,9.0
+833,A,2024-01-05,0,45,10,Desktop,Paid Search,Midlands,5,1,Friday,7.5
+834,A,2024-01-10,0,58,5,Mobile,Email,Midlands,10,1,Wednesday,4.833333333333333
+835,A,2024-01-28,0,206,4,Mobile,Organic,London,28,1,Sunday,13.733333333333333
+836,A,2024-01-05,0,162,4,Mobile,Paid Search,Midlands,5,1,Friday,10.8
+837,B,2024-01-03,0,738,7,Desktop,Paid Search,North,3,1,Wednesday,86.10000000000001
+838,A,2024-01-23,0,135,3,Desktop,Social,Midlands,23,1,Tuesday,6.75
+839,B,2024-01-06,0,260,6,Mobile,Social,London,6,1,Saturday,26.0
+840,B,2024-01-04,0,300,2,Desktop,Organic,Scotland,4,1,Thursday,10.0
+841,A,2024-01-18,0,3,4,Mobile,Email,Scotland,18,1,Thursday,0.2
+842,B,2024-01-28,0,326,4,Desktop,Paid Search,Scotland,28,1,Sunday,21.733333333333334
+843,A,2024-01-09,0,58,4,Mobile,Social,South,9,1,Tuesday,3.8666666666666667
+844,B,2024-01-17,0,973,8,Mobile,Social,North,17,1,Wednesday,129.73333333333332
+845,A,2024-01-29,0,48,5,Mobile,Email,London,29,1,Monday,4.0
+846,A,2024-01-13,0,160,8,Mobile,Social,Scotland,13,1,Saturday,21.333333333333332
+847,A,2024-01-27,0,26,5,Mobile,Organic,London,27,1,Saturday,2.166666666666667
+848,B,2024-01-15,0,1730,7,Mobile,Email,London,15,1,Monday,201.83333333333331
+849,B,2024-01-30,0,209,8,Tablet,Paid Search,South,30,1,Tuesday,27.866666666666667
+850,B,2024-01-20,0,271,3,Mobile,Organic,Scotland,20,1,Saturday,13.55
+851,A,2024-01-17,0,20,4,Mobile,Paid Search,Midlands,17,1,Wednesday,1.3333333333333333
+852,B,2024-01-13,0,415,6,Mobile,Paid Search,London,13,1,Saturday,41.5
+853,A,2024-01-16,0,70,4,Mobile,Social,Scotland,16,1,Tuesday,4.666666666666667
+854,B,2024-01-22,1,684,4,Mobile,Organic,London,22,1,Monday,45.6
+855,A,2024-01-04,0,68,6,Desktop,Organic,South,4,1,Thursday,6.8
+856,A,2024-01-05,0,63,2,Mobile,Email,South,5,1,Friday,2.1
+857,A,2024-01-05,1,11,4,Desktop,Organic,Midlands,5,1,Friday,0.7333333333333333
+858,A,2024-01-09,0,191,2,Desktop,Email,South,9,1,Tuesday,6.366666666666666
+859,B,2024-01-17,0,249,8,Mobile,Organic,Scotland,17,1,Wednesday,33.2
+860,A,2024-01-13,0,20,7,Mobile,Paid Search,South,13,1,Saturday,2.333333333333333
+861,B,2024-01-02,0,448,2,Desktop,Email,Midlands,2,1,Tuesday,14.933333333333334
+862,A,2024-01-13,0,181,5,Mobile,Organic,North,13,1,Saturday,15.083333333333332
+863,B,2024-01-22,0,222,6,Mobile,Email,London,22,1,Monday,22.200000000000003
+864,A,2024-01-21,0,174,7,Tablet,Social,London,21,1,Sunday,20.3
+865,A,2024-01-27,0,153,7,Mobile,Social,Scotland,27,1,Saturday,17.849999999999998
+866,B,2024-01-23,0,246,7,Mobile,Email,Midlands,23,1,Tuesday,28.699999999999996
+867,A,2024-01-19,0,50,6,Tablet,Email,Midlands,19,1,Friday,5.0
+868,A,2024-01-03,0,60,5,Mobile,Paid Search,Midlands,3,1,Wednesday,5.0
+869,B,2024-01-10,0,593,5,Mobile,Organic,London,10,1,Wednesday,49.416666666666664
+870,B,2024-01-02,0,876,8,Desktop,Social,South,2,1,Tuesday,116.8
+871,A,2024-01-13,0,140,7,Desktop,Social,London,13,1,Saturday,16.333333333333336
+872,A,2024-01-19,0,94,4,Mobile,Organic,London,19,1,Friday,6.266666666666667
+873,B,2024-01-26,0,309,5,Mobile,Social,London,26,1,Friday,25.75
+874,A,2024-01-17,0,157,8,Desktop,Social,South,17,1,Wednesday,20.933333333333334
+875,A,2024-01-21,0,7,5,Desktop,Email,North,21,1,Sunday,0.5833333333333334
+876,A,2024-01-14,0,50,2,Mobile,Social,Scotland,14,1,Sunday,1.6666666666666667
+877,B,2024-01-31,0,377,3,Mobile,Social,North,31,1,Wednesday,18.85
+878,B,2024-01-12,0,322,7,Mobile,Social,North,12,1,Friday,37.56666666666666
+879,A,2024-01-21,0,8,3,Desktop,Organic,London,21,1,Sunday,0.4
+880,A,2024-01-12,0,75,8,Desktop,Paid Search,North,12,1,Friday,10.0
+881,A,2024-01-11,0,78,1,Tablet,Email,London,11,1,Thursday,1.3
+882,B,2024-01-07,0,334,5,Desktop,Paid Search,London,7,1,Sunday,27.833333333333332
+883,A,2024-01-04,0,5,3,Mobile,Social,Scotland,4,1,Thursday,0.25
+884,A,2024-01-19,0,32,5,Mobile,Social,Midlands,19,1,Friday,2.6666666666666665
+885,B,2024-01-01,1,482,5,Desktop,Social,London,1,1,Monday,40.166666666666664
+886,A,2024-01-28,1,59,2,Desktop,Paid Search,North,28,1,Sunday,1.9666666666666666
+887,B,2024-01-31,0,317,7,Mobile,Organic,Scotland,31,1,Wednesday,36.983333333333334
+888,A,2024-01-24,0,81,2,Mobile,Organic,North,24,1,Wednesday,2.7
+889,A,2024-01-29,0,31,4,Tablet,Email,Midlands,29,1,Monday,2.066666666666667
+890,A,2024-01-03,0,83,5,Mobile,Paid Search,South,3,1,Wednesday,6.916666666666666
+891,B,2024-01-13,0,384,4,Mobile,Organic,Midlands,13,1,Saturday,25.6
+892,B,2024-01-15,1,580,4,Desktop,Email,Scotland,15,1,Monday,38.666666666666664
+893,B,2024-01-02,0,531,5,Desktop,Social,Midlands,2,1,Tuesday,44.25
+894,A,2024-01-11,0,151,4,Mobile,Social,Midlands,11,1,Thursday,10.066666666666666
+895,B,2024-01-04,0,330,4,Desktop,Email,Scotland,4,1,Thursday,22.0
+896,A,2024-01-19,1,68,5,Mobile,Organic,Scotland,19,1,Friday,5.666666666666666
+897,A,2024-01-29,0,104,7,Mobile,Paid Search,North,29,1,Monday,12.133333333333333
+898,B,2024-01-17,0,679,6,Mobile,Email,London,17,1,Wednesday,67.9
+899,A,2024-01-03,0,3,6,Desktop,Organic,South,3,1,Wednesday,0.30000000000000004
+900,A,2024-01-28,0,26,8,Tablet,Email,South,28,1,Sunday,3.466666666666667
+901,A,2024-01-18,0,69,5,Desktop,Organic,South,18,1,Thursday,5.75
+902,A,2024-01-08,1,8,2,Tablet,Social,Midlands,8,1,Monday,0.26666666666666666
+903,A,2024-01-22,0,60,4,Mobile,Email,Scotland,22,1,Monday,4.0
+904,B,2024-01-25,0,262,6,Mobile,Paid Search,Scotland,25,1,Thursday,26.199999999999996
+905,A,2024-01-24,0,164,3,Mobile,Email,Scotland,24,1,Wednesday,8.2
+906,B,2024-01-26,0,669,3,Mobile,Social,London,26,1,Friday,33.45
+907,B,2024-01-19,0,510,5,Desktop,Social,Scotland,19,1,Friday,42.5
+908,A,2024-01-05,0,125,5,Desktop,Organic,Scotland,5,1,Friday,10.416666666666668
+909,A,2024-01-07,0,90,6,Tablet,Social,Midlands,7,1,Sunday,9.0
+910,A,2024-01-21,0,143,2,Mobile,Organic,North,21,1,Sunday,4.766666666666667
+911,B,2024-01-08,0,267,6,Mobile,Social,South,8,1,Monday,26.700000000000003
+912,A,2024-01-28,0,93,4,Mobile,Organic,Midlands,28,1,Sunday,6.2
+913,B,2024-01-05,0,293,3,Mobile,Paid Search,Midlands,5,1,Friday,14.650000000000002
+914,A,2024-01-17,0,157,4,Mobile,Organic,Midlands,17,1,Wednesday,10.466666666666667
+915,B,2024-01-05,0,240,2,Mobile,Organic,South,5,1,Friday,8.0
+916,A,2024-01-04,0,171,6,Mobile,Paid Search,Midlands,4,1,Thursday,17.1
+917,A,2024-01-22,0,104,8,Mobile,Organic,North,22,1,Monday,13.866666666666667
+918,B,2024-01-19,0,889,5,Mobile,Organic,Scotland,19,1,Friday,74.08333333333333
+919,B,2024-01-31,0,432,6,Mobile,Paid Search,North,31,1,Wednesday,43.2
+920,A,2024-01-27,0,45,5,Mobile,Social,Scotland,27,1,Saturday,3.75
+921,B,2024-01-21,0,608,5,Mobile,Email,Scotland,21,1,Sunday,50.666666666666664
+922,A,2024-01-02,0,200,6,Mobile,Organic,Midlands,2,1,Tuesday,20.0
+923,B,2024-01-11,0,674,4,Mobile,Social,Midlands,11,1,Thursday,44.93333333333333
+924,B,2024-01-22,1,482,4,Mobile,Email,South,22,1,Monday,32.13333333333333
+925,A,2024-01-13,0,166,5,Mobile,Paid Search,London,13,1,Saturday,13.833333333333332
+926,A,2024-01-15,0,6,5,Mobile,Organic,North,15,1,Monday,0.5
+927,A,2024-01-12,0,93,4,Desktop,Organic,South,12,1,Friday,6.2
+928,B,2024-01-22,1,234,4,Desktop,Paid Search,South,22,1,Monday,15.6
+929,B,2024-01-21,0,301,7,Desktop,Organic,North,21,1,Sunday,35.11666666666667
+930,A,2024-01-22,0,89,5,Mobile,Email,North,22,1,Monday,7.416666666666667
+931,A,2024-01-11,0,45,4,Mobile,Email,Scotland,11,1,Thursday,3.0
+932,B,2024-01-07,0,540,3,Desktop,Paid Search,London,7,1,Sunday,27.0
+933,B,2024-01-28,0,1248,9,Mobile,Organic,Midlands,28,1,Sunday,187.20000000000002
+934,B,2024-01-05,0,223,6,Desktop,Social,London,5,1,Friday,22.3
+935,A,2024-01-17,0,56,6,Mobile,Organic,London,17,1,Wednesday,5.6
+936,A,2024-01-24,0,95,4,Mobile,Paid Search,Midlands,24,1,Wednesday,6.333333333333333
+937,A,2024-01-20,0,5,7,Desktop,Social,London,20,1,Saturday,0.5833333333333333
+938,B,2024-01-09,0,737,6,Mobile,Email,South,9,1,Tuesday,73.7
+939,A,2024-01-14,0,37,6,Mobile,Email,South,14,1,Sunday,3.7
+940,B,2024-01-26,0,257,2,Mobile,Social,Midlands,26,1,Friday,8.566666666666666
+941,A,2024-01-12,0,96,6,Mobile,Social,Midlands,12,1,Friday,9.600000000000001
+942,B,2024-01-06,1,242,4,Mobile,Paid Search,North,6,1,Saturday,16.133333333333333
+943,B,2024-01-17,0,316,7,Mobile,Organic,North,17,1,Wednesday,36.86666666666667
+944,B,2024-01-19,0,531,8,Desktop,Email,London,19,1,Friday,70.8
+945,A,2024-01-19,0,69,6,Desktop,Organic,London,19,1,Friday,6.8999999999999995
+946,A,2024-01-26,0,3,3,Mobile,Email,Midlands,26,1,Friday,0.15000000000000002
+947,A,2024-01-16,0,44,4,Tablet,Organic,London,16,1,Tuesday,2.933333333333333
+948,B,2024-01-12,0,690,5,Mobile,Email,Scotland,12,1,Friday,57.5
+949,B,2024-01-12,0,621,3,Mobile,Organic,South,12,1,Friday,31.049999999999997
+950,B,2024-01-20,0,272,5,Desktop,Paid Search,London,20,1,Saturday,22.666666666666664
+951,B,2024-01-06,0,275,8,Desktop,Email,London,6,1,Saturday,36.666666666666664
+952,B,2024-01-31,0,328,8,Desktop,Paid Search,North,31,1,Wednesday,43.733333333333334
+953,A,2024-01-23,0,57,5,Mobile,Email,Scotland,23,1,Tuesday,4.75
+954,B,2024-01-26,0,737,5,Mobile,Email,London,26,1,Friday,61.416666666666664
+955,A,2024-01-04,0,162,8,Desktop,Email,South,4,1,Thursday,21.6
+956,A,2024-01-06,0,144,5,Mobile,Organic,London,6,1,Saturday,12.0
+957,B,2024-01-11,1,219,4,Desktop,Email,Midlands,11,1,Thursday,14.6
+958,A,2024-01-01,0,14,3,Mobile,Paid Search,Scotland,1,1,Monday,0.7
+959,A,2024-01-30,0,54,7,Desktop,Organic,London,30,1,Tuesday,6.3
+960,B,2024-01-24,0,401,4,Mobile,Organic,Scotland,24,1,Wednesday,26.733333333333334
+961,A,2024-01-23,0,25,4,Mobile,Email,London,23,1,Tuesday,1.6666666666666667
+962,B,2024-01-15,0,277,5,Mobile,Social,South,15,1,Monday,23.083333333333332
+963,A,2024-01-27,0,84,3,Desktop,Organic,South,27,1,Saturday,4.199999999999999
+964,A,2024-01-11,0,147,5,Desktop,Email,Scotland,11,1,Thursday,12.25
+965,A,2024-01-25,0,102,4,Mobile,Paid Search,North,25,1,Thursday,6.8
+966,A,2024-01-19,0,131,6,Desktop,Social,North,19,1,Friday,13.099999999999998
+967,B,2024-01-18,0,380,5,Mobile,Organic,Midlands,18,1,Thursday,31.666666666666664
+968,A,2024-01-17,0,105,5,Mobile,Social,North,17,1,Wednesday,8.75
+969,B,2024-01-19,0,250,2,Mobile,Organic,Scotland,19,1,Friday,8.333333333333334
+970,A,2024-01-21,0,193,5,Mobile,Social,North,21,1,Sunday,16.083333333333336
+971,B,2024-01-14,0,326,3,Mobile,Social,Midlands,14,1,Sunday,16.3
+972,B,2024-01-27,0,828,3,Mobile,Paid Search,London,27,1,Saturday,41.400000000000006
+973,B,2024-01-18,0,395,5,Desktop,Social,North,18,1,Thursday,32.916666666666664
+974,A,2024-01-28,0,72,4,Desktop,Paid Search,Scotland,28,1,Sunday,4.8
+975,A,2024-01-19,0,9,3,Desktop,Email,Scotland,19,1,Friday,0.44999999999999996
+976,A,2024-01-15,0,91,4,Mobile,Organic,Midlands,15,1,Monday,6.066666666666666
+977,B,2024-01-31,0,271,2,Tablet,Paid Search,Midlands,31,1,Wednesday,9.033333333333333
+978,A,2024-01-15,0,15,6,Desktop,Organic,South,15,1,Monday,1.5
+979,A,2024-01-04,0,205,7,Mobile,Paid Search,South,4,1,Thursday,23.916666666666664
+980,B,2024-01-07,0,272,3,Desktop,Organic,South,7,1,Sunday,13.6
+981,A,2024-01-13,0,122,5,Mobile,Paid Search,London,13,1,Saturday,10.166666666666666
+982,B,2024-01-03,0,442,4,Mobile,Organic,Scotland,3,1,Wednesday,29.466666666666665
+983,A,2024-01-16,0,33,6,Mobile,Email,South,16,1,Tuesday,3.3000000000000003
+984,A,2024-01-31,0,23,6,Mobile,Organic,Scotland,31,1,Wednesday,2.3000000000000003
+985,B,2024-01-09,0,390,2,Desktop,Email,Midlands,9,1,Tuesday,13.0
+986,A,2024-01-08,0,205,2,Mobile,Email,London,8,1,Monday,6.833333333333333
+987,B,2024-01-20,0,349,5,Mobile,Email,Midlands,20,1,Saturday,29.083333333333332
+988,A,2024-01-13,0,171,2,Tablet,Social,Scotland,13,1,Saturday,5.7
+989,A,2024-01-17,0,84,7,Tablet,Organic,South,17,1,Wednesday,9.799999999999999
+990,B,2024-01-17,0,512,4,Desktop,Social,Midlands,17,1,Wednesday,34.13333333333333
+991,B,2024-01-17,0,481,5,Mobile,Social,North,17,1,Wednesday,40.083333333333336
+992,B,2024-01-01,0,355,7,Mobile,Organic,London,1,1,Monday,41.41666666666667
+993,A,2024-01-08,0,95,5,Desktop,Email,Scotland,8,1,Monday,7.916666666666666
+994,B,2024-01-19,0,267,7,Mobile,Social,South,19,1,Friday,31.150000000000002
+995,A,2024-01-31,0,134,1,Mobile,Social,Midlands,31,1,Wednesday,2.2333333333333334
+996,A,2024-01-06,0,28,3,Mobile,Paid Search,London,6,1,Saturday,1.4
+997,B,2024-01-03,0,747,4,Mobile,Organic,South,3,1,Wednesday,49.8
+998,A,2024-01-27,0,44,9,Mobile,Social,Midlands,27,1,Saturday,6.6
+999,B,2024-01-05,0,900,4,Mobile,Organic,Scotland,5,1,Friday,60.0
+1000,A,2024-01-13,0,177,5,Mobile,Organic,North,13,1,Saturday,14.75
+1001,A,2024-01-15,0,61,6,Mobile,Social,North,15,1,Monday,6.1
+1002,B,2024-01-14,0,234,6,Mobile,Organic,Scotland,14,1,Sunday,23.4
+1003,B,2024-01-29,0,618,3,Mobile,Email,London,29,1,Monday,30.900000000000002
+1004,B,2024-01-31,0,395,3,Desktop,Social,Scotland,31,1,Wednesday,19.75
+1005,B,2024-01-23,1,492,5,Desktop,Social,Midlands,23,1,Tuesday,41.0
+1006,B,2024-01-16,0,322,7,Mobile,Social,London,16,1,Tuesday,37.56666666666666
+1007,B,2024-01-18,1,353,6,Mobile,Paid Search,North,18,1,Thursday,35.300000000000004
+1008,B,2024-01-22,1,567,6,Mobile,Paid Search,Midlands,22,1,Monday,56.699999999999996
+1009,A,2024-01-29,0,86,4,Mobile,Paid Search,South,29,1,Monday,5.733333333333333
+1010,A,2024-01-22,0,201,7,Mobile,Paid Search,South,22,1,Monday,23.45
+1011,A,2024-01-11,0,75,4,Mobile,Social,South,11,1,Thursday,5.0
+1012,B,2024-01-03,0,1318,8,Desktop,Email,North,3,1,Wednesday,175.73333333333332
+1013,B,2024-01-22,0,865,5,Desktop,Organic,Scotland,22,1,Monday,72.08333333333333
+1014,A,2024-01-10,0,12,5,Mobile,Organic,London,10,1,Wednesday,1.0
+1015,B,2024-01-10,0,366,4,Mobile,Social,North,10,1,Wednesday,24.4
+1016,B,2024-01-30,0,778,5,Desktop,Email,Midlands,30,1,Tuesday,64.83333333333333
+1017,A,2024-01-21,0,59,2,Mobile,Organic,Midlands,21,1,Sunday,1.9666666666666666
+1018,B,2024-01-16,0,251,3,Desktop,Email,South,16,1,Tuesday,12.55
+1019,B,2024-01-12,0,741,7,Mobile,Social,London,12,1,Friday,86.45
+1020,A,2024-01-02,0,10,5,Desktop,Paid Search,South,2,1,Tuesday,0.8333333333333333
+1021,B,2024-01-09,0,358,6,Tablet,Email,Midlands,9,1,Tuesday,35.8
+1022,A,2024-01-24,1,105,7,Tablet,Organic,Midlands,24,1,Wednesday,12.25
+1023,B,2024-01-03,0,774,2,Mobile,Organic,Scotland,3,1,Wednesday,25.8
+1024,B,2024-01-24,0,1062,7,Mobile,Organic,Scotland,24,1,Wednesday,123.89999999999999
+1025,B,2024-01-30,0,866,5,Mobile,Paid Search,Scotland,30,1,Tuesday,72.16666666666667
+1026,A,2024-01-25,0,192,5,Tablet,Email,South,25,1,Thursday,16.0
+1027,B,2024-01-30,0,594,7,Mobile,Email,London,30,1,Tuesday,69.3
+1028,B,2024-01-15,0,558,6,Mobile,Organic,Scotland,15,1,Monday,55.800000000000004
+1029,A,2024-01-03,0,115,5,Mobile,Email,North,3,1,Wednesday,9.583333333333334
+1030,B,2024-01-19,0,529,0,Mobile,Organic,Scotland,19,1,Friday,0.0
+1031,A,2024-01-18,1,11,7,Mobile,Email,South,18,1,Thursday,1.2833333333333332
+1032,B,2024-01-08,0,272,5,Mobile,Paid Search,London,8,1,Monday,22.666666666666664
+1033,A,2024-01-26,0,78,5,Mobile,Paid Search,Scotland,26,1,Friday,6.5
+1034,A,2024-01-17,0,38,6,Mobile,Social,London,17,1,Wednesday,3.8
+1035,A,2024-01-08,0,24,8,Tablet,Social,North,8,1,Monday,3.2
+1036,B,2024-01-07,0,357,4,Desktop,Social,Midlands,7,1,Sunday,23.8
+1037,A,2024-01-30,0,124,6,Desktop,Email,London,30,1,Tuesday,12.400000000000002
+1038,B,2024-01-07,0,387,4,Mobile,Paid Search,Scotland,7,1,Sunday,25.8
+1039,A,2024-01-03,1,20,1,Desktop,Paid Search,South,3,1,Wednesday,0.3333333333333333
+1040,A,2024-01-01,0,113,3,Mobile,Paid Search,South,1,1,Monday,5.65
+1041,B,2024-01-04,0,232,4,Mobile,Organic,South,4,1,Thursday,15.466666666666667
+1042,B,2024-01-25,0,469,5,Mobile,Email,South,25,1,Thursday,39.08333333333333
+1043,A,2024-01-05,0,115,4,Mobile,Email,London,5,1,Friday,7.666666666666667
+1044,B,2024-01-01,0,294,5,Mobile,Social,South,1,1,Monday,24.5
+1045,B,2024-01-15,0,651,2,Tablet,Organic,Midlands,15,1,Monday,21.7
+1046,B,2024-01-05,0,287,2,Mobile,Organic,North,5,1,Friday,9.566666666666666
+1047,A,2024-01-13,0,79,5,Mobile,Paid Search,London,13,1,Saturday,6.583333333333333
+1048,A,2024-01-08,0,7,5,Mobile,Social,London,8,1,Monday,0.5833333333333334
+1049,B,2024-01-08,0,612,5,Mobile,Email,South,8,1,Monday,51.0
+1050,A,2024-01-05,0,6,6,Mobile,Organic,South,5,1,Friday,0.6000000000000001
+1051,B,2024-01-28,0,623,4,Mobile,Paid Search,London,28,1,Sunday,41.53333333333333
+1052,B,2024-01-09,0,225,9,Desktop,Email,South,9,1,Tuesday,33.75
+1053,B,2024-01-31,0,839,7,Mobile,Paid Search,South,31,1,Wednesday,97.88333333333333
+1054,B,2024-01-01,0,481,2,Mobile,Email,South,1,1,Monday,16.033333333333335
+1055,B,2024-01-04,0,1854,3,Desktop,Paid Search,South,4,1,Thursday,92.69999999999999
+1056,A,2024-01-03,0,129,4,Desktop,Email,South,3,1,Wednesday,8.6
+1057,B,2024-01-02,0,437,6,Desktop,Social,Scotland,2,1,Tuesday,43.7
+1058,A,2024-01-31,0,154,7,Desktop,Email,Scotland,31,1,Wednesday,17.96666666666667
+1059,A,2024-01-08,0,196,4,Mobile,Email,Scotland,8,1,Monday,13.066666666666666
+1060,B,2024-01-23,0,296,5,Mobile,Email,London,23,1,Tuesday,24.666666666666668
+1061,B,2024-01-09,0,620,5,Desktop,Paid Search,North,9,1,Tuesday,51.66666666666667
+1062,B,2024-01-02,0,1242,3,Desktop,Organic,London,2,1,Tuesday,62.099999999999994
+1063,B,2024-01-14,0,438,3,Mobile,Email,Scotland,14,1,Sunday,21.9
+1064,A,2024-01-14,0,162,7,Mobile,Email,London,14,1,Sunday,18.900000000000002
+1065,A,2024-01-04,1,164,3,Desktop,Social,North,4,1,Thursday,8.2
+1066,B,2024-01-30,0,401,8,Mobile,Email,South,30,1,Tuesday,53.46666666666667
+1067,A,2024-01-31,0,81,8,Mobile,Social,Midlands,31,1,Wednesday,10.8
+1068,A,2024-01-06,0,35,5,Mobile,Email,Scotland,6,1,Saturday,2.916666666666667
+1069,A,2024-01-11,0,131,5,Desktop,Paid Search,Scotland,11,1,Thursday,10.916666666666666
+1070,A,2024-01-03,0,101,3,Tablet,Organic,North,3,1,Wednesday,5.05
+1071,A,2024-01-08,0,105,3,Mobile,Organic,South,8,1,Monday,5.25
+1072,A,2024-01-03,0,79,6,Mobile,Organic,South,3,1,Wednesday,7.9
+1073,A,2024-01-14,0,12,5,Mobile,Paid Search,Midlands,14,1,Sunday,1.0
+1074,A,2024-01-28,0,5,4,Mobile,Social,South,28,1,Sunday,0.3333333333333333
+1075,B,2024-01-13,0,1319,6,Mobile,Organic,North,13,1,Saturday,131.9
+1076,A,2024-01-13,0,167,3,Mobile,Paid Search,South,13,1,Saturday,8.35
+1077,A,2024-01-02,0,145,12,Mobile,Paid Search,North,2,1,Tuesday,29.0
+1078,B,2024-01-13,1,341,1,Desktop,Email,Scotland,13,1,Saturday,5.683333333333334
+1079,A,2024-01-29,0,73,6,Desktop,Social,Scotland,29,1,Monday,7.299999999999999
+1080,B,2024-01-19,0,898,1,Mobile,Paid Search,Scotland,19,1,Friday,14.966666666666667
+1081,B,2024-01-27,0,463,6,Mobile,Social,London,27,1,Saturday,46.3
+1082,A,2024-01-06,0,28,1,Tablet,Organic,Scotland,6,1,Saturday,0.4666666666666667
+1083,A,2024-01-16,0,162,4,Mobile,Organic,North,16,1,Tuesday,10.8
+1084,B,2024-01-02,0,633,3,Desktop,Organic,Midlands,2,1,Tuesday,31.650000000000002
+1085,B,2024-01-08,0,868,3,Mobile,Email,South,8,1,Monday,43.4
+1086,A,2024-01-17,0,188,5,Desktop,Email,Scotland,17,1,Wednesday,15.666666666666666
+1087,B,2024-01-23,0,285,5,Desktop,Social,London,23,1,Tuesday,23.75
+1088,A,2024-01-02,0,54,5,Desktop,Social,London,2,1,Tuesday,4.5
+1089,B,2024-01-10,0,1418,9,Desktop,Email,North,10,1,Wednesday,212.7
+1090,A,2024-01-28,0,79,3,Tablet,Paid Search,Midlands,28,1,Sunday,3.95
+1091,B,2024-01-16,0,858,3,Mobile,Social,Scotland,16,1,Tuesday,42.900000000000006
+1092,B,2024-01-06,0,314,6,Mobile,Social,Scotland,6,1,Saturday,31.4
+1093,B,2024-01-28,0,280,6,Mobile,Organic,London,28,1,Sunday,28.0
+1094,B,2024-01-02,0,215,3,Desktop,Social,North,2,1,Tuesday,10.75
+1095,A,2024-01-02,0,78,7,Desktop,Social,London,2,1,Tuesday,9.1
+1096,A,2024-01-26,0,58,4,Mobile,Paid Search,London,26,1,Friday,3.8666666666666667
+1097,A,2024-01-13,0,74,1,Mobile,Social,Midlands,13,1,Saturday,1.2333333333333334
+1098,A,2024-01-24,0,61,7,Desktop,Paid Search,North,24,1,Wednesday,7.116666666666666
+1099,B,2024-01-15,1,453,7,Mobile,Organic,Midlands,15,1,Monday,52.85
+1100,A,2024-01-31,0,129,2,Mobile,Email,North,31,1,Wednesday,4.3
+1101,A,2024-01-28,0,17,5,Desktop,Organic,Scotland,28,1,Sunday,1.4166666666666665
+1102,B,2024-01-02,0,1043,6,Mobile,Paid Search,South,2,1,Tuesday,104.3
+1103,B,2024-01-07,0,645,9,Mobile,Paid Search,South,7,1,Sunday,96.75
+1104,B,2024-01-03,0,788,3,Mobile,Social,North,3,1,Wednesday,39.4
+1105,B,2024-01-08,0,1584,4,Mobile,Social,South,8,1,Monday,105.6
+1106,A,2024-01-23,0,57,10,Mobile,Email,London,23,1,Tuesday,9.5
+1107,A,2024-01-14,0,151,4,Mobile,Paid Search,Scotland,14,1,Sunday,10.066666666666666
+1108,B,2024-01-24,0,425,4,Mobile,Paid Search,Scotland,24,1,Wednesday,28.333333333333332
+1109,B,2024-01-30,0,357,4,Mobile,Organic,South,30,1,Tuesday,23.8
+1110,A,2024-01-23,0,50,7,Mobile,Email,North,23,1,Tuesday,5.833333333333334
+1111,B,2024-01-27,0,507,8,Mobile,Organic,London,27,1,Saturday,67.6
+1112,A,2024-01-22,0,76,6,Tablet,Social,North,22,1,Monday,7.6
+1113,A,2024-01-29,0,76,6,Mobile,Social,South,29,1,Monday,7.6
+1114,B,2024-01-07,0,230,3,Desktop,Organic,Scotland,7,1,Sunday,11.5
+1115,B,2024-01-21,0,269,5,Desktop,Social,Scotland,21,1,Sunday,22.416666666666668
+1116,B,2024-01-07,1,260,6,Mobile,Organic,North,7,1,Sunday,26.0
+1117,A,2024-01-01,0,28,2,Desktop,Paid Search,Midlands,1,1,Monday,0.9333333333333333
+1118,B,2024-01-17,0,629,8,Mobile,Paid Search,North,17,1,Wednesday,83.86666666666666
+1119,A,2024-01-09,0,92,5,Desktop,Social,Midlands,9,1,Tuesday,7.666666666666667
+1120,A,2024-01-30,0,41,4,Mobile,Email,North,30,1,Tuesday,2.7333333333333334
+1121,B,2024-01-21,0,658,4,Desktop,Paid Search,Midlands,21,1,Sunday,43.86666666666667
+1122,B,2024-01-13,0,934,2,Mobile,Social,Midlands,13,1,Saturday,31.133333333333333
+1123,B,2024-01-21,0,594,5,Desktop,Email,Midlands,21,1,Sunday,49.5
+1124,B,2024-01-19,0,497,5,Mobile,Social,Midlands,19,1,Friday,41.416666666666664
+1125,B,2024-01-21,0,319,4,Desktop,Organic,London,21,1,Sunday,21.266666666666666
+1126,B,2024-01-19,0,240,2,Mobile,Social,Midlands,19,1,Friday,8.0
+1127,A,2024-01-25,0,27,4,Desktop,Organic,Midlands,25,1,Thursday,1.8
+1128,A,2024-01-25,0,157,4,Mobile,Paid Search,Scotland,25,1,Thursday,10.466666666666667
+1129,A,2024-01-22,0,139,1,Mobile,Paid Search,London,22,1,Monday,2.316666666666667
+1130,A,2024-01-31,1,90,8,Desktop,Social,Midlands,31,1,Wednesday,12.0
+1131,B,2024-01-17,0,385,4,Tablet,Email,South,17,1,Wednesday,25.666666666666668
+1132,A,2024-01-23,0,205,10,Mobile,Social,London,23,1,Tuesday,34.166666666666664
+1133,A,2024-01-23,0,25,6,Tablet,Social,Scotland,23,1,Tuesday,2.5
+1134,A,2024-01-30,0,74,3,Desktop,Paid Search,North,30,1,Tuesday,3.7
+1135,B,2024-01-10,0,344,6,Desktop,Paid Search,Scotland,10,1,Wednesday,34.4
+1136,A,2024-01-10,0,23,4,Mobile,Social,Scotland,10,1,Wednesday,1.5333333333333334
+1137,B,2024-01-04,0,571,3,Mobile,Paid Search,London,4,1,Thursday,28.550000000000004
+1138,A,2024-01-08,0,205,2,Desktop,Organic,London,8,1,Monday,6.833333333333333
+1139,A,2024-01-22,0,196,3,Mobile,Social,South,22,1,Monday,9.8
+1140,B,2024-01-20,0,269,5,Mobile,Paid Search,South,20,1,Saturday,22.416666666666668
+1141,B,2024-01-20,0,522,3,Mobile,Social,London,20,1,Saturday,26.099999999999998
+1142,A,2024-01-18,0,128,4,Mobile,Paid Search,London,18,1,Thursday,8.533333333333333
+1143,B,2024-01-14,1,339,3,Desktop,Organic,London,14,1,Sunday,16.950000000000003
+1144,B,2024-01-18,0,250,6,Desktop,Organic,North,18,1,Thursday,25.0
+1145,A,2024-01-28,0,93,5,Mobile,Social,Scotland,28,1,Sunday,7.75
+1146,B,2024-01-14,0,632,5,Mobile,Organic,South,14,1,Sunday,52.666666666666664
+1147,B,2024-01-20,1,478,4,Mobile,Organic,South,20,1,Saturday,31.866666666666667
+1148,B,2024-01-21,0,322,4,Mobile,Paid Search,Midlands,21,1,Sunday,21.466666666666665
+1149,B,2024-01-24,0,570,6,Mobile,Social,North,24,1,Wednesday,57.0
+1150,B,2024-01-15,0,605,4,Desktop,Paid Search,London,15,1,Monday,40.333333333333336
+1151,B,2024-01-22,0,369,6,Desktop,Paid Search,London,22,1,Monday,36.900000000000006
+1152,B,2024-01-30,0,544,4,Mobile,Email,North,30,1,Tuesday,36.266666666666666
+1153,B,2024-01-31,0,358,5,Desktop,Organic,South,31,1,Wednesday,29.833333333333336
+1154,B,2024-01-04,0,341,5,Mobile,Paid Search,London,4,1,Thursday,28.416666666666668
+1155,B,2024-01-13,0,289,4,Desktop,Paid Search,Midlands,13,1,Saturday,19.266666666666666
+1156,B,2024-01-27,0,419,5,Mobile,Paid Search,South,27,1,Saturday,34.916666666666664
+1157,A,2024-01-23,0,51,3,Desktop,Organic,Scotland,23,1,Tuesday,2.55
+1158,B,2024-01-08,0,638,4,Mobile,Organic,North,8,1,Monday,42.53333333333333
+1159,B,2024-01-18,0,616,6,Mobile,Organic,South,18,1,Thursday,61.60000000000001
+1160,A,2024-01-12,0,8,6,Mobile,Social,Scotland,12,1,Friday,0.8
+1161,B,2024-01-23,0,524,1,Mobile,Paid Search,Midlands,23,1,Tuesday,8.733333333333333
+1162,A,2024-01-31,0,41,3,Mobile,Organic,North,31,1,Wednesday,2.05
+1163,A,2024-01-14,0,122,4,Mobile,Paid Search,London,14,1,Sunday,8.133333333333333
+1164,B,2024-01-02,0,408,6,Mobile,Social,London,2,1,Tuesday,40.8
+1165,A,2024-01-18,0,52,4,Desktop,Email,Scotland,18,1,Thursday,3.466666666666667
+1166,B,2024-01-24,0,511,3,Mobile,Social,South,24,1,Wednesday,25.550000000000004
+1167,B,2024-01-02,0,535,14,Desktop,Organic,Midlands,2,1,Tuesday,124.83333333333333
+1168,B,2024-01-31,0,212,5,Mobile,Organic,Scotland,31,1,Wednesday,17.666666666666664
+1169,A,2024-01-11,0,1,4,Tablet,Social,Midlands,11,1,Thursday,0.06666666666666667
+1170,A,2024-01-09,0,101,5,Tablet,Paid Search,Midlands,9,1,Tuesday,8.416666666666666
+1171,B,2024-01-12,0,287,5,Mobile,Organic,Midlands,12,1,Friday,23.916666666666664
+1172,B,2024-01-17,0,1191,7,Desktop,Organic,North,17,1,Wednesday,138.95000000000002
+1173,B,2024-01-15,0,299,7,Mobile,Social,Scotland,15,1,Monday,34.88333333333333
+1174,A,2024-01-25,0,90,7,Tablet,Paid Search,North,25,1,Thursday,10.5
+1175,B,2024-01-31,1,301,2,Mobile,Social,South,31,1,Wednesday,10.033333333333333
+1176,B,2024-01-17,0,232,5,Mobile,Social,South,17,1,Wednesday,19.333333333333332
+1177,B,2024-01-26,0,454,3,Mobile,Paid Search,London,26,1,Friday,22.7
+1178,A,2024-01-29,0,33,7,Mobile,Paid Search,London,29,1,Monday,3.8500000000000005
+1179,B,2024-01-26,0,429,2,Mobile,Email,London,26,1,Friday,14.3
+1180,B,2024-01-18,0,233,6,Desktop,Social,South,18,1,Thursday,23.3
+1181,B,2024-01-22,0,988,4,Mobile,Paid Search,Midlands,22,1,Monday,65.86666666666666
+1182,A,2024-01-06,0,125,8,Mobile,Organic,Midlands,6,1,Saturday,16.666666666666668
+1183,B,2024-01-17,0,300,5,Mobile,Email,Scotland,17,1,Wednesday,25.0
+1184,B,2024-01-23,0,806,1,Mobile,Social,South,23,1,Tuesday,13.433333333333334
+1185,A,2024-01-24,0,32,2,Mobile,Paid Search,London,24,1,Wednesday,1.0666666666666667
+1186,B,2024-01-18,0,830,3,Desktop,Email,South,18,1,Thursday,41.5
+1187,B,2024-01-08,0,349,6,Mobile,Email,Midlands,8,1,Monday,34.9
+1188,A,2024-01-09,0,21,8,Mobile,Organic,Midlands,9,1,Tuesday,2.8
+1189,A,2024-01-06,0,107,4,Mobile,Email,North,6,1,Saturday,7.133333333333334
+1190,B,2024-01-05,0,369,3,Mobile,Social,North,5,1,Friday,18.450000000000003
+1191,A,2024-01-12,0,20,6,Desktop,Paid Search,Scotland,12,1,Friday,2.0
+1192,B,2024-01-25,0,261,6,Mobile,Email,South,25,1,Thursday,26.099999999999998
+1193,A,2024-01-29,0,127,8,Mobile,Email,North,29,1,Monday,16.933333333333334
+1194,B,2024-01-28,0,290,6,Mobile,Social,North,28,1,Sunday,29.0
+1195,A,2024-01-11,0,14,6,Mobile,Organic,South,11,1,Thursday,1.4
+1196,B,2024-01-25,0,615,5,Mobile,Organic,Midlands,25,1,Thursday,51.25
+1197,B,2024-01-01,0,1089,4,Mobile,Paid Search,Scotland,1,1,Monday,72.6
+1198,B,2024-01-11,0,1040,5,Desktop,Social,Scotland,11,1,Thursday,86.66666666666666
+1199,B,2024-01-19,0,415,5,Mobile,Organic,Scotland,19,1,Friday,34.583333333333336
+1200,A,2024-01-09,0,41,6,Mobile,Paid Search,North,9,1,Tuesday,4.1
+1201,B,2024-01-27,0,425,11,Mobile,Paid Search,Midlands,27,1,Saturday,77.91666666666666
+1202,A,2024-01-02,0,7,8,Mobile,Organic,Scotland,2,1,Tuesday,0.9333333333333333
+1203,A,2024-01-12,0,6,7,Mobile,Social,South,12,1,Friday,0.7000000000000001
+1204,A,2024-01-04,0,117,7,Desktop,Email,Scotland,4,1,Thursday,13.65
+1205,A,2024-01-04,0,201,4,Desktop,Organic,London,4,1,Thursday,13.4
+1206,B,2024-01-18,0,441,8,Mobile,Email,Midlands,18,1,Thursday,58.8
+1207,B,2024-01-15,0,344,6,Mobile,Email,London,15,1,Monday,34.4
+1208,A,2024-01-19,0,177,2,Mobile,Social,Midlands,19,1,Friday,5.9
+1209,A,2024-01-13,0,95,4,Mobile,Social,South,13,1,Saturday,6.333333333333333
+1210,B,2024-01-19,0,1755,0,Desktop,Paid Search,North,19,1,Friday,0.0
+1211,A,2024-01-17,0,166,6,Desktop,Social,North,17,1,Wednesday,16.6
+1212,A,2024-01-06,0,180,0,Tablet,Paid Search,Midlands,6,1,Saturday,0.0
+1213,A,2024-01-16,0,53,7,Mobile,Organic,Scotland,16,1,Tuesday,6.183333333333334
+1214,B,2024-01-24,0,475,9,Mobile,Email,London,24,1,Wednesday,71.25
+1215,B,2024-01-12,0,354,7,Desktop,Social,South,12,1,Friday,41.300000000000004
+1216,A,2024-01-19,0,74,2,Desktop,Organic,Scotland,19,1,Friday,2.466666666666667
+1217,A,2024-01-05,1,25,4,Desktop,Paid Search,North,5,1,Friday,1.6666666666666667
+1218,B,2024-01-17,0,342,8,Mobile,Social,Scotland,17,1,Wednesday,45.6
+1219,B,2024-01-26,0,318,5,Mobile,Email,London,26,1,Friday,26.5
+1220,A,2024-01-23,0,95,5,Mobile,Organic,North,23,1,Tuesday,7.916666666666666
+1221,B,2024-01-26,1,903,6,Mobile,Social,Midlands,26,1,Friday,90.30000000000001
+1222,A,2024-01-29,0,49,2,Mobile,Social,South,29,1,Monday,1.6333333333333333
+1223,A,2024-01-01,0,169,4,Desktop,Organic,South,1,1,Monday,11.266666666666667
+1224,B,2024-01-28,0,862,7,Mobile,Paid Search,North,28,1,Sunday,100.56666666666666
+1225,A,2024-01-27,0,163,3,Mobile,Paid Search,Midlands,27,1,Saturday,8.15
+1226,B,2024-01-25,0,305,6,Desktop,Social,London,25,1,Thursday,30.5
+1227,A,2024-01-24,0,152,2,Mobile,Paid Search,South,24,1,Wednesday,5.066666666666666
+1228,A,2024-01-23,1,96,8,Desktop,Paid Search,North,23,1,Tuesday,12.8
+1229,B,2024-01-10,0,1240,10,Mobile,Organic,South,10,1,Wednesday,206.66666666666669
+1230,A,2024-01-15,0,157,5,Mobile,Paid Search,Midlands,15,1,Monday,13.083333333333334
+1231,B,2024-01-23,0,673,4,Tablet,Paid Search,London,23,1,Tuesday,44.86666666666667
+1232,A,2024-01-21,0,78,4,Tablet,Organic,Midlands,21,1,Sunday,5.2
+1233,A,2024-01-21,0,71,8,Mobile,Social,Scotland,21,1,Sunday,9.466666666666667
+1234,A,2024-01-11,0,9,9,Desktop,Social,Midlands,11,1,Thursday,1.3499999999999999
+1235,B,2024-01-13,0,316,7,Mobile,Organic,Midlands,13,1,Saturday,36.86666666666667
+1236,A,2024-01-05,0,137,7,Mobile,Email,South,5,1,Friday,15.983333333333333
+1237,B,2024-01-01,0,599,3,Mobile,Organic,Midlands,1,1,Monday,29.949999999999996
+1238,A,2024-01-24,0,192,8,Mobile,Email,North,24,1,Wednesday,25.6
+1239,B,2024-01-12,0,1034,7,Desktop,Paid Search,South,12,1,Friday,120.63333333333334
+1240,A,2024-01-11,0,61,2,Desktop,Social,South,11,1,Thursday,2.033333333333333
+1241,B,2024-01-17,1,608,5,Tablet,Email,Scotland,17,1,Wednesday,50.666666666666664
+1242,B,2024-01-04,0,449,7,Desktop,Email,North,4,1,Thursday,52.38333333333333
+1243,B,2024-01-15,1,442,6,Mobile,Paid Search,Midlands,15,1,Monday,44.199999999999996
+1244,B,2024-01-25,0,558,1,Desktop,Social,Scotland,25,1,Thursday,9.3
+1245,B,2024-01-30,0,429,3,Tablet,Paid Search,North,30,1,Tuesday,21.450000000000003
+1246,B,2024-01-09,0,295,4,Desktop,Social,Scotland,9,1,Tuesday,19.666666666666668
+1247,A,2024-01-21,0,42,4,Desktop,Social,London,21,1,Sunday,2.8
+1248,A,2024-01-20,0,9,3,Tablet,Paid Search,Midlands,20,1,Saturday,0.44999999999999996
+1249,B,2024-01-19,0,760,7,Mobile,Email,Scotland,19,1,Friday,88.66666666666666
+1250,B,2024-01-19,0,287,9,Desktop,Organic,London,19,1,Friday,43.05
+1251,B,2024-01-12,0,477,4,Desktop,Social,Midlands,12,1,Friday,31.8
+1252,A,2024-01-05,0,197,3,Tablet,Social,Scotland,5,1,Friday,9.85
+1253,A,2024-01-10,0,37,4,Mobile,Organic,Scotland,10,1,Wednesday,2.466666666666667
+1254,A,2024-01-17,0,40,4,Mobile,Organic,Scotland,17,1,Wednesday,2.6666666666666665
+1255,B,2024-01-05,0,347,6,Desktop,Paid Search,Scotland,5,1,Friday,34.7
+1256,A,2024-01-22,0,168,3,Mobile,Social,South,22,1,Monday,8.399999999999999
+1257,A,2024-01-16,0,67,10,Desktop,Paid Search,Scotland,16,1,Tuesday,11.166666666666668
+1258,A,2024-01-07,0,202,5,Mobile,Organic,South,7,1,Sunday,16.833333333333332
+1259,A,2024-01-28,0,19,5,Mobile,Paid Search,South,28,1,Sunday,1.5833333333333333
+1260,B,2024-01-09,0,261,3,Mobile,Social,London,9,1,Tuesday,13.049999999999999
+1261,A,2024-01-03,0,93,2,Mobile,Email,Midlands,3,1,Wednesday,3.1
+1262,B,2024-01-15,0,479,7,Mobile,Email,South,15,1,Monday,55.88333333333333
+1263,A,2024-01-16,0,111,5,Mobile,Social,North,16,1,Tuesday,9.25
+1264,A,2024-01-18,0,182,4,Mobile,Paid Search,South,18,1,Thursday,12.133333333333333
+1265,A,2024-01-14,0,3,6,Mobile,Organic,North,14,1,Sunday,0.30000000000000004
+1266,A,2024-01-03,0,22,5,Mobile,Organic,London,3,1,Wednesday,1.8333333333333333
+1267,A,2024-01-12,0,149,4,Mobile,Email,North,12,1,Friday,9.933333333333334
+1268,A,2024-01-09,0,196,7,Mobile,Paid Search,London,9,1,Tuesday,22.866666666666667
+1269,B,2024-01-28,0,274,4,Desktop,Organic,London,28,1,Sunday,18.266666666666666
+1270,A,2024-01-07,0,103,2,Mobile,Organic,London,7,1,Sunday,3.433333333333333
+1271,B,2024-01-09,0,356,3,Mobile,Social,North,9,1,Tuesday,17.8
+1272,B,2024-01-13,0,590,8,Desktop,Paid Search,North,13,1,Saturday,78.66666666666667
+1273,B,2024-01-18,1,454,5,Mobile,Paid Search,London,18,1,Thursday,37.83333333333333
+1274,A,2024-01-05,0,12,6,Tablet,Organic,London,5,1,Friday,1.2000000000000002
+1275,A,2024-01-13,0,196,2,Desktop,Paid Search,Midlands,13,1,Saturday,6.533333333333333
+1276,A,2024-01-04,0,33,3,Mobile,Paid Search,London,4,1,Thursday,1.6500000000000001
+1277,A,2024-01-31,0,83,3,Mobile,Paid Search,Scotland,31,1,Wednesday,4.15
+1278,B,2024-01-02,0,1295,7,Mobile,Social,Midlands,2,1,Tuesday,151.08333333333331
+1279,A,2024-01-16,0,46,5,Mobile,Organic,Midlands,16,1,Tuesday,3.8333333333333335
+1280,A,2024-01-09,0,207,2,Mobile,Email,Midlands,9,1,Tuesday,6.9
+1281,B,2024-01-09,0,288,2,Mobile,Paid Search,Scotland,9,1,Tuesday,9.6
+1282,B,2024-01-06,0,363,7,Desktop,Organic,Midlands,6,1,Saturday,42.35
+1283,B,2024-01-11,1,246,8,Mobile,Email,Midlands,11,1,Thursday,32.8
+1284,A,2024-01-22,0,2,4,Mobile,Social,North,22,1,Monday,0.13333333333333333
+1285,A,2024-01-24,0,118,4,Desktop,Organic,North,24,1,Wednesday,7.866666666666666
+1286,B,2024-01-22,1,218,4,Mobile,Social,London,22,1,Monday,14.533333333333333
+1287,A,2024-01-01,0,27,3,Mobile,Organic,London,1,1,Monday,1.35
+1288,A,2024-01-04,0,129,4,Mobile,Social,South,4,1,Thursday,8.6
+1289,A,2024-01-13,0,10,6,Mobile,Organic,Scotland,13,1,Saturday,1.0
+1290,A,2024-01-23,0,24,5,Tablet,Social,North,23,1,Tuesday,2.0
+1291,A,2024-01-13,0,151,5,Mobile,Email,London,13,1,Saturday,12.583333333333332
+1292,A,2024-01-13,0,42,3,Mobile,Organic,Scotland,13,1,Saturday,2.0999999999999996
+1293,B,2024-01-02,1,251,6,Mobile,Email,Midlands,2,1,Tuesday,25.1
+1294,B,2024-01-09,0,350,4,Mobile,Paid Search,Scotland,9,1,Tuesday,23.333333333333332
+1295,B,2024-01-24,0,483,2,Mobile,Email,North,24,1,Wednesday,16.1
+1296,A,2024-01-08,0,66,5,Desktop,Organic,South,8,1,Monday,5.5
+1297,A,2024-01-07,1,54,7,Tablet,Email,North,7,1,Sunday,6.3
+1298,A,2024-01-04,0,33,8,Mobile,Organic,London,4,1,Thursday,4.4
+1299,B,2024-01-18,1,303,0,Mobile,Social,London,18,1,Thursday,0.0
+1300,B,2024-01-03,0,367,5,Desktop,Paid Search,Scotland,3,1,Wednesday,30.583333333333332
+1301,A,2024-01-28,0,9,4,Mobile,Email,North,28,1,Sunday,0.6
+1302,B,2024-01-06,0,825,6,Mobile,Paid Search,London,6,1,Saturday,82.5
+1303,A,2024-01-12,0,16,4,Mobile,Email,Midlands,12,1,Friday,1.0666666666666667
+1304,B,2024-01-12,0,233,7,Mobile,Organic,Midlands,12,1,Friday,27.183333333333334
+1305,B,2024-01-21,0,370,2,Mobile,Email,South,21,1,Sunday,12.333333333333334
+1306,B,2024-01-28,0,614,3,Desktop,Paid Search,Scotland,28,1,Sunday,30.699999999999996
+1307,B,2024-01-08,0,375,3,Desktop,Email,London,8,1,Monday,18.75
+1308,B,2024-01-22,0,485,5,Mobile,Paid Search,South,22,1,Monday,40.41666666666667
+1309,A,2024-01-22,0,124,6,Mobile,Paid Search,Midlands,22,1,Monday,12.400000000000002
+1310,B,2024-01-01,0,505,9,Tablet,Organic,South,1,1,Monday,75.75
+1311,A,2024-01-04,0,25,6,Mobile,Social,South,4,1,Thursday,2.5
+1312,B,2024-01-21,0,675,7,Desktop,Social,London,21,1,Sunday,78.75
+1313,B,2024-01-28,0,237,2,Mobile,Email,London,28,1,Sunday,7.9
+1314,B,2024-01-11,0,509,2,Mobile,Paid Search,London,11,1,Thursday,16.966666666666665
+1315,A,2024-01-03,0,180,8,Mobile,Organic,Scotland,3,1,Wednesday,24.0
+1316,B,2024-01-13,0,309,8,Desktop,Social,South,13,1,Saturday,41.2
+1317,B,2024-01-25,0,224,8,Mobile,Organic,South,25,1,Thursday,29.866666666666667
+1318,B,2024-01-17,0,394,7,Mobile,Organic,Scotland,17,1,Wednesday,45.96666666666667
+1319,A,2024-01-22,0,25,6,Mobile,Paid Search,Midlands,22,1,Monday,2.5
+1320,A,2024-01-22,0,18,2,Desktop,Email,North,22,1,Monday,0.6
+1321,A,2024-01-10,0,85,7,Tablet,Paid Search,Midlands,10,1,Wednesday,9.916666666666668
+1322,A,2024-01-21,0,52,6,Tablet,Social,Scotland,21,1,Sunday,5.2
+1323,B,2024-01-12,0,616,5,Tablet,Social,South,12,1,Friday,51.333333333333336
+1324,A,2024-01-15,0,74,6,Mobile,Organic,South,15,1,Monday,7.4
+1325,B,2024-01-21,1,1117,4,Mobile,Paid Search,London,21,1,Sunday,74.46666666666667
+1326,A,2024-01-10,0,123,4,Mobile,Paid Search,London,10,1,Wednesday,8.2
+1327,A,2024-01-14,0,60,4,Mobile,Organic,South,14,1,Sunday,4.0
+1328,B,2024-01-13,0,467,5,Desktop,Email,South,13,1,Saturday,38.916666666666664
+1329,B,2024-01-05,0,322,4,Desktop,Organic,London,5,1,Friday,21.466666666666665
+1330,A,2024-01-06,0,206,7,Mobile,Organic,London,6,1,Saturday,24.03333333333333
+1331,B,2024-01-24,0,243,2,Desktop,Social,Midlands,24,1,Wednesday,8.1
+1332,B,2024-01-02,0,381,4,Tablet,Paid Search,South,2,1,Tuesday,25.4
+1333,A,2024-01-22,0,77,1,Mobile,Social,South,22,1,Monday,1.2833333333333334
+1334,B,2024-01-17,0,1682,6,Mobile,Organic,Scotland,17,1,Wednesday,168.20000000000002
+1335,B,2024-01-04,0,1104,1,Mobile,Paid Search,Midlands,4,1,Thursday,18.4
+1336,B,2024-01-14,0,315,6,Mobile,Organic,North,14,1,Sunday,31.5
+1337,A,2024-01-10,0,66,6,Mobile,Organic,North,10,1,Wednesday,6.6000000000000005
+1338,B,2024-01-03,0,342,0,Mobile,Email,North,3,1,Wednesday,0.0
+1339,A,2024-01-25,0,22,6,Mobile,Social,London,25,1,Thursday,2.1999999999999997
+1340,A,2024-01-03,0,9,1,Tablet,Social,North,3,1,Wednesday,0.15
+1341,A,2024-01-15,0,89,4,Mobile,Organic,Scotland,15,1,Monday,5.933333333333334
+1342,A,2024-01-06,0,186,6,Mobile,Email,London,6,1,Saturday,18.6
+1343,B,2024-01-17,0,608,7,Tablet,Organic,London,17,1,Wednesday,70.93333333333334
+1344,B,2024-01-12,0,389,6,Mobile,Organic,North,12,1,Friday,38.9
+1345,B,2024-01-22,0,407,3,Mobile,Organic,London,22,1,Monday,20.35
+1346,A,2024-01-20,0,166,7,Desktop,Email,Midlands,20,1,Saturday,19.366666666666667
+1347,A,2024-01-24,0,127,6,Mobile,Paid Search,Midlands,24,1,Wednesday,12.7
+1348,A,2024-01-29,0,139,5,Desktop,Email,North,29,1,Monday,11.583333333333334
+1349,B,2024-01-11,0,1318,7,Mobile,Organic,Scotland,11,1,Thursday,153.76666666666665
+1350,A,2024-01-25,0,12,4,Mobile,Paid Search,London,25,1,Thursday,0.8
+1351,B,2024-01-04,0,605,7,Mobile,Organic,South,4,1,Thursday,70.58333333333334
+1352,B,2024-01-26,0,259,1,Mobile,Email,North,26,1,Friday,4.316666666666666
+1353,A,2024-01-28,0,173,2,Desktop,Email,London,28,1,Sunday,5.766666666666667
+1354,B,2024-01-26,0,387,2,Desktop,Paid Search,North,26,1,Friday,12.9
+1355,A,2024-01-06,0,200,6,Tablet,Email,North,6,1,Saturday,20.0
+1356,B,2024-01-01,0,620,8,Desktop,Organic,Scotland,1,1,Monday,82.66666666666667
+1357,B,2024-01-20,0,692,6,Mobile,Paid Search,South,20,1,Saturday,69.2
+1358,A,2024-01-23,1,164,0,Desktop,Social,London,23,1,Tuesday,0.0
+1359,A,2024-01-28,0,97,10,Desktop,Organic,North,28,1,Sunday,16.166666666666668
+1360,B,2024-01-16,0,269,2,Desktop,Social,North,16,1,Tuesday,8.966666666666667
+1361,B,2024-01-15,0,730,5,Desktop,Paid Search,London,15,1,Monday,60.83333333333333
+1362,A,2024-01-17,0,70,8,Mobile,Paid Search,North,17,1,Wednesday,9.333333333333334
+1363,B,2024-01-08,0,292,5,Mobile,Organic,North,8,1,Monday,24.333333333333332
+1364,B,2024-01-28,0,299,4,Desktop,Email,North,28,1,Sunday,19.933333333333334
+1365,B,2024-01-26,0,396,3,Mobile,Organic,Midlands,26,1,Friday,19.799999999999997
+1366,A,2024-01-12,1,42,7,Mobile,Email,Midlands,12,1,Friday,4.8999999999999995
+1367,B,2024-01-27,0,377,7,Desktop,Email,South,27,1,Saturday,43.983333333333334
+1368,B,2024-01-22,0,719,3,Mobile,Organic,Scotland,22,1,Monday,35.949999999999996
+1369,A,2024-01-21,0,59,3,Mobile,Paid Search,London,21,1,Sunday,2.9499999999999997
+1370,A,2024-01-10,0,81,2,Mobile,Organic,Scotland,10,1,Wednesday,2.7
+1371,B,2024-01-27,0,1066,2,Desktop,Social,Scotland,27,1,Saturday,35.53333333333333
+1372,A,2024-01-15,0,59,7,Mobile,Paid Search,Midlands,15,1,Monday,6.883333333333333
+1373,B,2024-01-30,0,578,4,Desktop,Email,South,30,1,Tuesday,38.53333333333333
+1374,A,2024-01-09,0,203,1,Mobile,Paid Search,Scotland,9,1,Tuesday,3.3833333333333333
+1375,A,2024-01-02,0,85,3,Mobile,Organic,Scotland,2,1,Tuesday,4.25
+1376,B,2024-01-05,1,613,10,Mobile,Paid Search,North,5,1,Friday,102.16666666666667
+1377,A,2024-01-06,0,176,3,Desktop,Email,London,6,1,Saturday,8.799999999999999
+1378,B,2024-01-07,1,216,6,Mobile,Email,South,7,1,Sunday,21.6
+1379,A,2024-01-21,0,133,4,Tablet,Paid Search,London,21,1,Sunday,8.866666666666667
+1380,B,2024-01-25,0,269,5,Tablet,Social,Midlands,25,1,Thursday,22.416666666666668
+1381,A,2024-01-01,0,53,3,Desktop,Email,Scotland,1,1,Monday,2.65
+1382,A,2024-01-23,0,148,7,Tablet,Social,Scotland,23,1,Tuesday,17.266666666666666
+1383,B,2024-01-26,0,1046,5,Mobile,Email,London,26,1,Friday,87.16666666666667
+1384,A,2024-01-07,0,89,2,Mobile,Paid Search,Midlands,7,1,Sunday,2.966666666666667
+1385,B,2024-01-20,0,320,6,Desktop,Email,North,20,1,Saturday,32.0
+1386,A,2024-01-25,0,117,3,Desktop,Social,North,25,1,Thursday,5.85
+1387,B,2024-01-30,0,445,2,Desktop,Social,Scotland,30,1,Tuesday,14.833333333333334
+1388,A,2024-01-12,0,42,7,Desktop,Paid Search,Scotland,12,1,Friday,4.8999999999999995
+1389,B,2024-01-16,0,1050,6,Tablet,Social,South,16,1,Tuesday,105.0
+1390,A,2024-01-16,0,181,3,Mobile,Social,London,16,1,Tuesday,9.05
+1391,A,2024-01-11,0,80,5,Desktop,Paid Search,Scotland,11,1,Thursday,6.666666666666666
+1392,A,2024-01-21,0,22,7,Desktop,Email,Midlands,21,1,Sunday,2.5666666666666664
+1393,A,2024-01-04,1,55,4,Desktop,Paid Search,London,4,1,Thursday,3.6666666666666665
+1394,B,2024-01-13,0,220,4,Mobile,Email,South,13,1,Saturday,14.666666666666666
+1395,A,2024-01-07,0,123,3,Desktop,Email,North,7,1,Sunday,6.1499999999999995
+1396,B,2024-01-04,0,529,6,Tablet,Email,South,4,1,Thursday,52.9
+1397,A,2024-01-15,0,169,4,Mobile,Organic,London,15,1,Monday,11.266666666666667
+1398,A,2024-01-19,0,85,5,Desktop,Email,North,19,1,Friday,7.083333333333334
+1399,B,2024-01-09,0,288,7,Mobile,Paid Search,Midlands,9,1,Tuesday,33.6
+1400,B,2024-01-11,0,368,4,Tablet,Paid Search,North,11,1,Thursday,24.533333333333335
+1401,A,2024-01-08,0,54,3,Mobile,Paid Search,North,8,1,Monday,2.7
+1402,A,2024-01-01,0,55,1,Mobile,Organic,Midlands,1,1,Monday,0.9166666666666666
+1403,A,2024-01-23,0,11,5,Mobile,Social,Scotland,23,1,Tuesday,0.9166666666666666
+1404,B,2024-01-25,0,399,8,Desktop,Organic,Scotland,25,1,Thursday,53.2
+1405,B,2024-01-24,1,327,5,Mobile,Paid Search,North,24,1,Wednesday,27.25
+1406,A,2024-01-08,0,193,5,Desktop,Paid Search,North,8,1,Monday,16.083333333333336
+1407,B,2024-01-13,0,557,3,Tablet,Social,South,13,1,Saturday,27.85
+1408,B,2024-01-22,0,491,3,Desktop,Organic,Scotland,22,1,Monday,24.55
+1409,B,2024-01-27,0,264,6,Mobile,Paid Search,Midlands,27,1,Saturday,26.400000000000002
+1410,B,2024-01-04,1,608,5,Tablet,Email,North,4,1,Thursday,50.666666666666664
+1411,A,2024-01-08,0,69,7,Desktop,Email,North,8,1,Monday,8.049999999999999
+1412,A,2024-01-03,0,35,6,Mobile,Paid Search,South,3,1,Wednesday,3.5
+1413,A,2024-01-29,0,94,8,Mobile,Email,South,29,1,Monday,12.533333333333333
+1414,A,2024-01-09,0,17,8,Mobile,Social,South,9,1,Tuesday,2.2666666666666666
+1415,B,2024-01-29,0,227,8,Desktop,Paid Search,London,29,1,Monday,30.266666666666666
+1416,B,2024-01-02,0,827,9,Mobile,Organic,Midlands,2,1,Tuesday,124.05
+1417,A,2024-01-02,1,12,5,Mobile,Paid Search,London,2,1,Tuesday,1.0
+1418,A,2024-01-28,0,39,3,Desktop,Social,North,28,1,Sunday,1.9500000000000002
+1419,A,2024-01-13,0,180,4,Mobile,Organic,South,13,1,Saturday,12.0
+1420,B,2024-01-15,0,814,5,Desktop,Social,South,15,1,Monday,67.83333333333333
+1421,A,2024-01-28,0,114,6,Desktop,Email,South,28,1,Sunday,11.399999999999999
+1422,B,2024-01-23,0,212,7,Mobile,Email,Scotland,23,1,Tuesday,24.733333333333334
+1423,A,2024-01-12,0,12,4,Desktop,Email,Midlands,12,1,Friday,0.8
+1424,A,2024-01-26,0,48,6,Mobile,Social,London,26,1,Friday,4.800000000000001
+1425,B,2024-01-04,0,1294,13,Mobile,Social,Midlands,4,1,Thursday,280.3666666666667
+1426,B,2024-01-26,0,1006,3,Desktop,Paid Search,South,26,1,Friday,50.3
+1427,A,2024-01-08,0,1,7,Mobile,Organic,North,8,1,Monday,0.11666666666666667
+1428,B,2024-01-09,0,909,7,Tablet,Organic,Scotland,9,1,Tuesday,106.05
+1429,B,2024-01-23,0,305,2,Mobile,Social,Midlands,23,1,Tuesday,10.166666666666666
+1430,B,2024-01-05,0,607,5,Mobile,Social,North,5,1,Friday,50.583333333333336
+1431,A,2024-01-24,0,181,2,Tablet,Email,South,24,1,Wednesday,6.033333333333333
+1432,B,2024-01-20,0,217,4,Mobile,Social,South,20,1,Saturday,14.466666666666667
+1433,A,2024-01-18,0,201,3,Desktop,Email,South,18,1,Thursday,10.05
+1434,B,2024-01-11,1,329,3,Mobile,Social,South,11,1,Thursday,16.45
+1435,A,2024-01-15,0,45,1,Desktop,Organic,Scotland,15,1,Monday,0.75
+1436,A,2024-01-28,0,9,7,Mobile,Paid Search,Scotland,28,1,Sunday,1.05
+1437,A,2024-01-22,0,110,4,Mobile,Social,Midlands,22,1,Monday,7.333333333333333
+1438,B,2024-01-09,0,365,9,Mobile,Email,South,9,1,Tuesday,54.75
+1439,A,2024-01-17,0,67,4,Mobile,Paid Search,Scotland,17,1,Wednesday,4.466666666666667
+1440,B,2024-01-27,1,335,6,Desktop,Email,North,27,1,Saturday,33.5
+1441,B,2024-01-26,0,1051,3,Mobile,Email,Scotland,26,1,Friday,52.55
+1442,A,2024-01-12,0,29,8,Mobile,Paid Search,Scotland,12,1,Friday,3.8666666666666667
+1443,B,2024-01-07,1,334,6,Mobile,Paid Search,Midlands,7,1,Sunday,33.4
+1444,A,2024-01-10,0,175,5,Desktop,Paid Search,Scotland,10,1,Wednesday,14.583333333333332
+1445,B,2024-01-25,0,607,3,Desktop,Social,North,25,1,Thursday,30.35
+1446,A,2024-01-26,0,58,11,Mobile,Paid Search,South,26,1,Friday,10.633333333333333
+1447,B,2024-01-25,0,353,7,Mobile,Social,London,25,1,Thursday,41.18333333333334
+1448,B,2024-01-10,0,546,6,Mobile,Organic,Midlands,10,1,Wednesday,54.599999999999994
+1449,B,2024-01-27,0,868,6,Desktop,Organic,North,27,1,Saturday,86.8
+1450,B,2024-01-13,0,344,6,Mobile,Email,Midlands,13,1,Saturday,34.4
+1451,A,2024-01-19,0,206,6,Mobile,Email,South,19,1,Friday,20.599999999999998
+1452,B,2024-01-11,0,288,5,Desktop,Social,Scotland,11,1,Thursday,24.0
+1453,B,2024-01-13,0,609,8,Tablet,Email,Scotland,13,1,Saturday,81.2
+1454,B,2024-01-21,0,253,6,Mobile,Organic,North,21,1,Sunday,25.3
+1455,A,2024-01-08,0,9,8,Desktop,Social,South,8,1,Monday,1.2
+1456,B,2024-01-08,0,801,13,Mobile,Social,London,8,1,Monday,173.54999999999998
+1457,B,2024-01-04,0,350,4,Tablet,Paid Search,London,4,1,Thursday,23.333333333333332
+1458,B,2024-01-15,0,338,1,Mobile,Social,Scotland,15,1,Monday,5.633333333333334
+1459,A,2024-01-31,0,72,4,Mobile,Email,South,31,1,Wednesday,4.8
+1460,B,2024-01-28,0,322,2,Desktop,Organic,South,28,1,Sunday,10.733333333333333
+1461,A,2024-01-11,0,150,7,Mobile,Email,North,11,1,Thursday,17.5
+1462,B,2024-01-11,0,316,4,Mobile,Organic,London,11,1,Thursday,21.066666666666666
+1463,A,2024-01-01,0,33,5,Mobile,Paid Search,North,1,1,Monday,2.75
+1464,B,2024-01-17,0,321,8,Desktop,Organic,Midlands,17,1,Wednesday,42.8
+1465,B,2024-01-15,0,2232,6,Mobile,Paid Search,South,15,1,Monday,223.20000000000002
+1466,A,2024-01-20,0,14,5,Desktop,Email,London,20,1,Saturday,1.1666666666666667
+1467,B,2024-01-06,0,1133,2,Mobile,Paid Search,North,6,1,Saturday,37.766666666666666
+1468,A,2024-01-24,0,156,6,Mobile,Social,Scotland,24,1,Wednesday,15.600000000000001
+1469,B,2024-01-22,0,613,5,Mobile,Social,Midlands,22,1,Monday,51.083333333333336
+1470,B,2024-01-28,0,457,6,Mobile,Organic,North,28,1,Sunday,45.699999999999996
+1471,B,2024-01-25,0,251,3,Desktop,Email,Scotland,25,1,Thursday,12.55
+1472,B,2024-01-15,0,402,6,Desktop,Email,London,15,1,Monday,40.2
+1473,B,2024-01-31,0,632,6,Mobile,Organic,London,31,1,Wednesday,63.2
+1474,A,2024-01-09,0,155,4,Mobile,Social,Midlands,9,1,Tuesday,10.333333333333334
+1475,A,2024-01-14,0,118,7,Desktop,Paid Search,Scotland,14,1,Sunday,13.766666666666666
+1476,B,2024-01-18,0,330,4,Desktop,Organic,South,18,1,Thursday,22.0
+1477,B,2024-01-26,0,494,0,Desktop,Paid Search,London,26,1,Friday,0.0
+1478,B,2024-01-17,0,431,9,Desktop,Paid Search,South,17,1,Wednesday,64.65
+1479,B,2024-01-18,0,479,1,Mobile,Email,South,18,1,Thursday,7.983333333333333
+1480,A,2024-01-05,0,171,6,Desktop,Social,North,5,1,Friday,17.1
+1481,B,2024-01-20,1,510,4,Mobile,Paid Search,North,20,1,Saturday,34.0
+1482,A,2024-01-20,0,38,5,Mobile,Social,London,20,1,Saturday,3.1666666666666665
+1483,B,2024-01-09,0,235,6,Desktop,Email,South,9,1,Tuesday,23.5
+1484,A,2024-01-11,0,1,8,Tablet,Organic,North,11,1,Thursday,0.13333333333333333
+1485,A,2024-01-24,0,117,4,Desktop,Organic,Scotland,24,1,Wednesday,7.8
+1486,A,2024-01-22,0,136,5,Mobile,Email,Scotland,22,1,Monday,11.333333333333332
+1487,A,2024-01-01,0,151,10,Mobile,Email,Scotland,1,1,Monday,25.166666666666664
+1488,B,2024-01-18,0,356,5,Mobile,Paid Search,Scotland,18,1,Thursday,29.666666666666668
+1489,A,2024-01-06,0,147,7,Desktop,Email,South,6,1,Saturday,17.150000000000002
+1490,A,2024-01-27,0,178,6,Mobile,Organic,Scotland,27,1,Saturday,17.8
+1491,A,2024-01-02,0,81,4,Desktop,Social,South,2,1,Tuesday,5.4
+1492,A,2024-01-15,0,140,3,Mobile,Social,London,15,1,Monday,7.0
+1493,A,2024-01-29,0,77,5,Desktop,Social,London,29,1,Monday,6.416666666666667
+1494,A,2024-01-26,0,22,4,Tablet,Social,Scotland,26,1,Friday,1.4666666666666666
+1495,B,2024-01-21,0,277,4,Mobile,Email,Scotland,21,1,Sunday,18.466666666666665
+1496,B,2024-01-14,0,330,5,Mobile,Email,Scotland,14,1,Sunday,27.5
+1497,B,2024-01-05,0,289,2,Desktop,Social,London,5,1,Friday,9.633333333333333
+1498,A,2024-01-06,0,186,7,Mobile,Email,North,6,1,Saturday,21.7
+1499,A,2024-01-06,0,143,3,Desktop,Paid Search,London,6,1,Saturday,7.15
+1500,B,2024-01-30,0,597,5,Desktop,Email,Scotland,30,1,Tuesday,49.75
+1501,B,2024-01-22,0,219,6,Mobile,Paid Search,North,22,1,Monday,21.9
+1502,A,2024-01-30,0,195,8,Desktop,Paid Search,North,30,1,Tuesday,26.0
+1503,A,2024-01-18,0,7,5,Mobile,Email,Midlands,18,1,Thursday,0.5833333333333334
+1504,A,2024-01-14,0,125,3,Tablet,Social,South,14,1,Sunday,6.25
+1505,A,2024-01-10,0,143,3,Mobile,Paid Search,Scotland,10,1,Wednesday,7.15
+1506,A,2024-01-14,0,152,5,Desktop,Email,South,14,1,Sunday,12.666666666666666
+1507,B,2024-01-13,0,260,7,Mobile,Organic,Midlands,13,1,Saturday,30.333333333333332
+1508,B,2024-01-31,0,228,5,Mobile,Social,South,31,1,Wednesday,19.0
+1509,B,2024-01-30,0,280,5,Mobile,Organic,Scotland,30,1,Tuesday,23.333333333333336
+1510,B,2024-01-03,0,434,10,Desktop,Paid Search,Midlands,3,1,Wednesday,72.33333333333333
+1511,B,2024-01-30,0,502,2,Mobile,Organic,South,30,1,Tuesday,16.733333333333334
+1512,B,2024-01-06,0,379,6,Desktop,Email,London,6,1,Saturday,37.9
+1513,B,2024-01-29,0,933,7,Mobile,Social,North,29,1,Monday,108.85000000000001
+1514,A,2024-01-08,0,5,4,Desktop,Paid Search,Midlands,8,1,Monday,0.3333333333333333
+1515,A,2024-01-12,0,65,11,Desktop,Email,London,12,1,Friday,11.916666666666666
+1516,A,2024-01-13,0,2,5,Mobile,Social,Scotland,13,1,Saturday,0.16666666666666666
+1517,B,2024-01-11,0,312,4,Mobile,Paid Search,North,11,1,Thursday,20.8
+1518,B,2024-01-12,0,684,1,Mobile,Paid Search,Midlands,12,1,Friday,11.4
+1519,A,2024-01-01,0,83,11,Mobile,Paid Search,North,1,1,Monday,15.216666666666667
+1520,B,2024-01-17,0,785,3,Mobile,Paid Search,Midlands,17,1,Wednesday,39.25
+1521,A,2024-01-16,0,18,2,Desktop,Organic,Midlands,16,1,Tuesday,0.6
+1522,B,2024-01-11,1,817,7,Mobile,Organic,South,11,1,Thursday,95.31666666666666
+1523,A,2024-01-13,0,129,5,Desktop,Organic,North,13,1,Saturday,10.75
+1524,A,2024-01-18,0,32,1,Tablet,Paid Search,North,18,1,Thursday,0.5333333333333333
+1525,A,2024-01-11,0,199,6,Mobile,Organic,London,11,1,Thursday,19.900000000000002
+1526,A,2024-01-31,0,89,4,Desktop,Social,Scotland,31,1,Wednesday,5.933333333333334
+1527,A,2024-01-28,0,100,9,Mobile,Paid Search,London,28,1,Sunday,15.0
+1528,A,2024-01-12,0,110,4,Desktop,Social,South,12,1,Friday,7.333333333333333
+1529,B,2024-01-06,0,487,9,Mobile,Social,Midlands,6,1,Saturday,73.05000000000001
+1530,B,2024-01-09,1,232,5,Desktop,Organic,South,9,1,Tuesday,19.333333333333332
+1531,A,2024-01-16,1,111,2,Tablet,Paid Search,South,16,1,Tuesday,3.7
+1532,B,2024-01-04,0,282,8,Mobile,Organic,London,4,1,Thursday,37.6
+1533,B,2024-01-03,0,377,2,Desktop,Organic,Midlands,3,1,Wednesday,12.566666666666666
+1534,A,2024-01-28,0,95,7,Mobile,Organic,Scotland,28,1,Sunday,11.083333333333332
+1535,A,2024-01-16,0,160,9,Mobile,Paid Search,South,16,1,Tuesday,24.0
+1536,A,2024-01-24,0,38,3,Desktop,Paid Search,Scotland,24,1,Wednesday,1.9
+1537,A,2024-01-27,0,59,3,Mobile,Organic,Midlands,27,1,Saturday,2.9499999999999997
+1538,B,2024-01-26,0,342,6,Desktop,Social,Midlands,26,1,Friday,34.2
+1539,A,2024-01-30,0,60,7,Mobile,Social,London,30,1,Tuesday,7.0
+1540,B,2024-01-25,0,223,2,Desktop,Paid Search,North,25,1,Thursday,7.433333333333334
+1541,B,2024-01-12,0,370,9,Mobile,Email,London,12,1,Friday,55.5
+1542,A,2024-01-11,0,33,5,Mobile,Organic,Scotland,11,1,Thursday,2.75
+1543,B,2024-01-05,0,251,5,Mobile,Organic,London,5,1,Friday,20.916666666666668
+1544,A,2024-01-25,0,88,3,Mobile,Email,Midlands,25,1,Thursday,4.3999999999999995
+1545,B,2024-01-18,0,988,6,Mobile,Paid Search,South,18,1,Thursday,98.79999999999998
+1546,A,2024-01-19,0,198,6,Mobile,Social,North,19,1,Friday,19.799999999999997
+1547,B,2024-01-23,0,491,4,Mobile,Paid Search,Midlands,23,1,Tuesday,32.733333333333334
+1548,B,2024-01-23,0,239,6,Mobile,Social,South,23,1,Tuesday,23.9
+1549,A,2024-01-06,0,13,8,Mobile,Social,Scotland,6,1,Saturday,1.7333333333333334
+1550,B,2024-01-22,1,300,4,Mobile,Paid Search,Scotland,22,1,Monday,20.0
+1551,B,2024-01-18,0,907,6,Mobile,Organic,Scotland,18,1,Thursday,90.7
+1552,B,2024-01-26,1,276,4,Tablet,Organic,London,26,1,Friday,18.4
+1553,B,2024-01-06,0,513,9,Mobile,Organic,Scotland,6,1,Saturday,76.95
+1554,B,2024-01-04,0,646,5,Mobile,Social,Scotland,4,1,Thursday,53.833333333333336
+1555,A,2024-01-12,0,77,7,Mobile,Organic,London,12,1,Friday,8.983333333333334
+1556,A,2024-01-19,0,71,2,Desktop,Social,South,19,1,Friday,2.3666666666666667
+1557,B,2024-01-29,1,283,4,Mobile,Organic,Midlands,29,1,Monday,18.866666666666667
+1558,A,2024-01-27,0,158,4,Desktop,Paid Search,North,27,1,Saturday,10.533333333333333
+1559,B,2024-01-29,0,549,7,Mobile,Email,Scotland,29,1,Monday,64.05
+1560,B,2024-01-02,0,690,3,Mobile,Social,Scotland,2,1,Tuesday,34.5
+1561,A,2024-01-17,0,130,4,Desktop,Paid Search,Scotland,17,1,Wednesday,8.666666666666666
+1562,A,2024-01-11,0,81,3,Mobile,Social,London,11,1,Thursday,4.050000000000001
+1563,B,2024-01-11,0,454,3,Mobile,Social,London,11,1,Thursday,22.7
+1564,A,2024-01-21,0,96,2,Desktop,Paid Search,London,21,1,Sunday,3.2
+1565,B,2024-01-16,0,518,10,Desktop,Organic,North,16,1,Tuesday,86.33333333333333
+1566,A,2024-01-02,0,165,3,Desktop,Social,Midlands,2,1,Tuesday,8.25
+1567,B,2024-01-02,0,330,2,Desktop,Email,Scotland,2,1,Tuesday,11.0
+1568,A,2024-01-23,0,30,6,Desktop,Email,South,23,1,Tuesday,3.0
+1569,B,2024-01-08,0,293,4,Desktop,Paid Search,Scotland,8,1,Monday,19.533333333333335
+1570,A,2024-01-13,0,180,6,Mobile,Email,Scotland,13,1,Saturday,18.0
+1571,B,2024-01-10,0,265,2,Desktop,Paid Search,Scotland,10,1,Wednesday,8.833333333333334
+1572,A,2024-01-08,0,55,4,Desktop,Paid Search,Scotland,8,1,Monday,3.6666666666666665
+1573,B,2024-01-30,0,400,9,Mobile,Social,Midlands,30,1,Tuesday,60.0
+1574,B,2024-01-04,1,595,10,Mobile,Paid Search,South,4,1,Thursday,99.16666666666666
+1575,A,2024-01-15,0,73,5,Mobile,Paid Search,London,15,1,Monday,6.083333333333333
+1576,A,2024-01-30,0,30,2,Desktop,Organic,South,30,1,Tuesday,1.0
+1577,A,2024-01-01,0,7,3,Mobile,Social,Scotland,1,1,Monday,0.35
+1578,B,2024-01-11,0,308,7,Tablet,Email,South,11,1,Thursday,35.93333333333334
+1579,B,2024-01-07,0,280,6,Mobile,Organic,Scotland,7,1,Sunday,28.0
+1580,B,2024-01-17,1,237,4,Desktop,Organic,South,17,1,Wednesday,15.8
+1581,A,2024-01-27,0,79,2,Mobile,Social,North,27,1,Saturday,2.6333333333333333
+1582,A,2024-01-20,0,148,7,Desktop,Social,South,20,1,Saturday,17.266666666666666
+1583,B,2024-01-24,0,270,6,Desktop,Organic,London,24,1,Wednesday,27.0
+1584,A,2024-01-18,0,206,7,Desktop,Social,London,18,1,Thursday,24.03333333333333
+1585,B,2024-01-22,0,1321,7,Desktop,Social,South,22,1,Monday,154.11666666666667
+1586,A,2024-01-29,0,44,3,Desktop,Paid Search,South,29,1,Monday,2.1999999999999997
+1587,B,2024-01-22,0,356,3,Mobile,Social,Midlands,22,1,Monday,17.8
+1588,A,2024-01-12,0,155,4,Mobile,Paid Search,South,12,1,Friday,10.333333333333334
+1589,A,2024-01-09,0,167,5,Desktop,Organic,London,9,1,Tuesday,13.916666666666666
+1590,B,2024-01-05,0,379,2,Mobile,Organic,North,5,1,Friday,12.633333333333333
+1591,B,2024-01-10,0,353,4,Mobile,Email,London,10,1,Wednesday,23.533333333333335
+1592,B,2024-01-04,0,1421,7,Mobile,Social,Midlands,4,1,Thursday,165.78333333333333
+1593,A,2024-01-05,0,41,5,Mobile,Organic,South,5,1,Friday,3.416666666666667
+1594,A,2024-01-28,0,32,6,Mobile,Paid Search,North,28,1,Sunday,3.2
+1595,B,2024-01-28,0,386,4,Desktop,Organic,London,28,1,Sunday,25.733333333333334
+1596,B,2024-01-10,1,259,9,Mobile,Social,North,10,1,Wednesday,38.849999999999994
+1597,A,2024-01-31,0,96,2,Mobile,Email,Scotland,31,1,Wednesday,3.2
+1598,A,2024-01-11,0,24,6,Mobile,Email,London,11,1,Thursday,2.4000000000000004
+1599,A,2024-01-21,0,26,4,Desktop,Organic,Scotland,21,1,Sunday,1.7333333333333334
+1600,B,2024-01-24,0,673,3,Tablet,Email,North,24,1,Wednesday,33.65
+1601,A,2024-01-10,0,63,6,Desktop,Social,South,10,1,Wednesday,6.300000000000001
+1602,A,2024-01-28,0,117,7,Mobile,Social,South,28,1,Sunday,13.65
+1603,A,2024-01-08,0,77,8,Tablet,Email,South,8,1,Monday,10.266666666666667
+1604,A,2024-01-02,0,131,9,Desktop,Paid Search,Scotland,2,1,Tuesday,19.65
+1605,A,2024-01-23,0,21,5,Desktop,Email,South,23,1,Tuesday,1.75
+1606,B,2024-01-08,0,219,4,Desktop,Email,Midlands,8,1,Monday,14.6
+1607,A,2024-01-16,1,21,3,Mobile,Organic,London,16,1,Tuesday,1.0499999999999998
+1608,B,2024-01-27,0,483,7,Mobile,Paid Search,London,27,1,Saturday,56.35000000000001
+1609,A,2024-01-22,0,79,4,Mobile,Email,North,22,1,Monday,5.266666666666667
+1610,B,2024-01-05,0,232,8,Mobile,Organic,Scotland,5,1,Friday,30.933333333333334
+1611,B,2024-01-27,0,636,8,Desktop,Organic,London,27,1,Saturday,84.8
+1612,B,2024-01-25,1,315,1,Desktop,Organic,Scotland,25,1,Thursday,5.25
+1613,B,2024-01-29,0,228,5,Desktop,Social,North,29,1,Monday,19.0
+1614,A,2024-01-03,0,117,4,Mobile,Organic,South,3,1,Wednesday,7.8
+1615,A,2024-01-12,0,121,3,Mobile,Organic,North,12,1,Friday,6.05
+1616,B,2024-01-13,0,332,2,Mobile,Social,Midlands,13,1,Saturday,11.066666666666666
+1617,B,2024-01-13,0,1541,8,Mobile,Social,South,13,1,Saturday,205.46666666666667
+1618,B,2024-01-10,0,325,8,Mobile,Organic,South,10,1,Wednesday,43.333333333333336
+1619,B,2024-01-04,0,244,3,Desktop,Email,South,4,1,Thursday,12.2
+1620,B,2024-01-09,0,393,4,Mobile,Paid Search,North,9,1,Tuesday,26.2
+1621,A,2024-01-22,0,187,12,Tablet,Social,Midlands,22,1,Monday,37.4
+1622,A,2024-01-24,0,18,3,Mobile,Paid Search,Scotland,24,1,Wednesday,0.8999999999999999
+1623,B,2024-01-23,0,247,3,Desktop,Social,North,23,1,Tuesday,12.349999999999998
+1624,B,2024-01-27,0,948,4,Mobile,Organic,London,27,1,Saturday,63.2
+1625,A,2024-01-02,0,57,3,Mobile,Social,London,2,1,Tuesday,2.8499999999999996
+1626,B,2024-01-19,0,351,4,Desktop,Organic,North,19,1,Friday,23.4
+1627,A,2024-01-01,0,67,6,Desktop,Paid Search,Scotland,1,1,Monday,6.7
+1628,B,2024-01-25,0,230,4,Mobile,Email,London,25,1,Thursday,15.333333333333334
+1629,A,2024-01-29,0,30,3,Mobile,Organic,Scotland,29,1,Monday,1.5
+1630,A,2024-01-07,0,179,8,Mobile,Paid Search,South,7,1,Sunday,23.866666666666667
+1631,B,2024-01-17,0,423,2,Desktop,Paid Search,North,17,1,Wednesday,14.1
+1632,A,2024-01-03,0,128,3,Tablet,Social,South,3,1,Wednesday,6.4
+1633,B,2024-01-20,0,328,7,Mobile,Organic,London,20,1,Saturday,38.266666666666666
+1634,B,2024-01-20,0,476,3,Mobile,Paid Search,Scotland,20,1,Saturday,23.8
+1635,B,2024-01-21,0,785,7,Tablet,Email,South,21,1,Sunday,91.58333333333334
+1636,A,2024-01-30,0,80,5,Mobile,Social,London,30,1,Tuesday,6.666666666666666
+1637,A,2024-01-03,0,152,2,Desktop,Social,Midlands,3,1,Wednesday,5.066666666666666
+1638,A,2024-01-03,0,49,9,Mobile,Paid Search,South,3,1,Wednesday,7.35
+1639,B,2024-01-17,0,1467,4,Mobile,Organic,Midlands,17,1,Wednesday,97.8
+1640,B,2024-01-07,0,785,3,Mobile,Social,Midlands,7,1,Sunday,39.25
+1641,B,2024-01-27,0,232,1,Mobile,Organic,London,27,1,Saturday,3.8666666666666667
+1642,B,2024-01-26,0,553,2,Mobile,Paid Search,North,26,1,Friday,18.433333333333334
+1643,B,2024-01-14,0,220,6,Desktop,Paid Search,Scotland,14,1,Sunday,22.0
+1644,B,2024-01-17,0,293,10,Desktop,Organic,London,17,1,Wednesday,48.833333333333336
+1645,A,2024-01-18,0,28,6,Desktop,Email,South,18,1,Thursday,2.8
+1646,B,2024-01-13,0,422,6,Desktop,Social,Scotland,13,1,Saturday,42.2
+1647,A,2024-01-20,0,40,2,Mobile,Paid Search,North,20,1,Saturday,1.3333333333333333
+1648,B,2024-01-29,0,524,4,Mobile,Email,London,29,1,Monday,34.93333333333333
+1649,B,2024-01-20,1,457,5,Desktop,Email,North,20,1,Saturday,38.08333333333333
+1650,B,2024-01-21,0,370,8,Mobile,Organic,South,21,1,Sunday,49.333333333333336
+1651,A,2024-01-27,0,11,5,Mobile,Organic,London,27,1,Saturday,0.9166666666666666
+1652,A,2024-01-18,0,108,3,Mobile,Organic,South,18,1,Thursday,5.4
+1653,A,2024-01-04,0,91,1,Mobile,Email,Scotland,4,1,Thursday,1.5166666666666666
+1654,A,2024-01-01,1,133,7,Mobile,Social,Scotland,1,1,Monday,15.516666666666667
+1655,A,2024-01-18,0,27,7,Desktop,Organic,North,18,1,Thursday,3.15
+1656,B,2024-01-01,0,829,4,Tablet,Social,North,1,1,Monday,55.266666666666666
+1657,B,2024-01-26,0,242,4,Desktop,Organic,Scotland,26,1,Friday,16.133333333333333
+1658,A,2024-01-26,0,109,4,Tablet,Email,Midlands,26,1,Friday,7.266666666666667
+1659,A,2024-01-13,0,151,9,Tablet,Social,Scotland,13,1,Saturday,22.65
+1660,A,2024-01-20,0,177,1,Mobile,Social,London,20,1,Saturday,2.95
+1661,B,2024-01-20,1,275,3,Mobile,Email,South,20,1,Saturday,13.75
+1662,B,2024-01-23,0,217,4,Desktop,Social,Scotland,23,1,Tuesday,14.466666666666667
+1663,B,2024-01-10,0,755,3,Mobile,Email,Scotland,10,1,Wednesday,37.75
+1664,A,2024-01-27,0,206,3,Mobile,Email,South,27,1,Saturday,10.299999999999999
+1665,B,2024-01-11,0,1454,8,Mobile,Paid Search,South,11,1,Thursday,193.86666666666667
+1666,B,2024-01-09,0,571,11,Mobile,Organic,London,9,1,Tuesday,104.68333333333334
+1667,A,2024-01-09,0,70,4,Mobile,Paid Search,South,9,1,Tuesday,4.666666666666667
+1668,B,2024-01-05,0,800,2,Mobile,Email,North,5,1,Friday,26.666666666666668
+1669,A,2024-01-26,0,37,3,Mobile,Email,Scotland,26,1,Friday,1.85
+1670,B,2024-01-01,0,510,4,Desktop,Social,South,1,1,Monday,34.0
+1671,A,2024-01-17,1,143,2,Mobile,Email,London,17,1,Wednesday,4.766666666666667
+1672,B,2024-01-22,0,631,7,Desktop,Email,South,22,1,Monday,73.61666666666667
+1673,B,2024-01-02,0,607,2,Mobile,Email,Scotland,2,1,Tuesday,20.233333333333334
+1674,B,2024-01-24,0,491,11,Mobile,Organic,Midlands,24,1,Wednesday,90.01666666666667
+1675,B,2024-01-13,0,468,5,Mobile,Paid Search,South,13,1,Saturday,39.0
+1676,A,2024-01-09,0,109,5,Mobile,Paid Search,North,9,1,Tuesday,9.083333333333334
+1677,A,2024-01-29,0,25,4,Desktop,Organic,Scotland,29,1,Monday,1.6666666666666667
+1678,A,2024-01-04,0,154,4,Desktop,Organic,London,4,1,Thursday,10.266666666666667
+1679,A,2024-01-05,0,57,4,Desktop,Organic,Scotland,5,1,Friday,3.8
+1680,B,2024-01-11,0,356,3,Tablet,Paid Search,Midlands,11,1,Thursday,17.8
+1681,A,2024-01-24,0,127,5,Mobile,Paid Search,London,24,1,Wednesday,10.583333333333334
+1682,B,2024-01-19,0,1114,9,Mobile,Email,Midlands,19,1,Friday,167.1
+1683,B,2024-01-21,0,307,5,Mobile,Paid Search,Midlands,21,1,Sunday,25.583333333333332
+1684,B,2024-01-03,0,518,2,Mobile,Social,North,3,1,Wednesday,17.266666666666666
+1685,A,2024-01-12,0,42,6,Mobile,Paid Search,South,12,1,Friday,4.199999999999999
+1686,B,2024-01-26,0,594,7,Mobile,Organic,North,26,1,Friday,69.3
+1687,B,2024-01-19,0,768,5,Mobile,Paid Search,North,19,1,Friday,64.0
+1688,A,2024-01-19,0,200,7,Mobile,Email,North,19,1,Friday,23.333333333333336
+1689,B,2024-01-13,1,279,7,Mobile,Paid Search,London,13,1,Saturday,32.550000000000004
+1690,B,2024-01-28,0,434,8,Desktop,Organic,South,28,1,Sunday,57.86666666666667
+1691,A,2024-01-07,1,57,7,Desktop,Social,South,7,1,Sunday,6.6499999999999995
+1692,B,2024-01-15,0,209,3,Desktop,Organic,London,15,1,Monday,10.45
+1693,A,2024-01-23,0,152,4,Desktop,Social,North,23,1,Tuesday,10.133333333333333
+1694,A,2024-01-07,0,47,4,Mobile,Email,North,7,1,Sunday,3.1333333333333333
+1695,A,2024-01-26,0,137,3,Mobile,Email,Midlands,26,1,Friday,6.85
+1696,A,2024-01-08,0,21,7,Mobile,Paid Search,Midlands,8,1,Monday,2.4499999999999997
+1697,A,2024-01-05,0,7,7,Desktop,Email,Scotland,5,1,Friday,0.8166666666666667
+1698,A,2024-01-21,0,43,3,Desktop,Email,Midlands,21,1,Sunday,2.15
+1699,B,2024-01-14,0,989,7,Mobile,Organic,South,14,1,Sunday,115.38333333333334
+1700,B,2024-01-04,0,239,8,Mobile,Organic,London,4,1,Thursday,31.866666666666667
+1701,B,2024-01-23,0,1012,3,Tablet,Paid Search,North,23,1,Tuesday,50.6
+1702,A,2024-01-10,0,169,4,Mobile,Paid Search,Scotland,10,1,Wednesday,11.266666666666667
+1703,A,2024-01-20,0,112,7,Desktop,Paid Search,Midlands,20,1,Saturday,13.066666666666666
+1704,B,2024-01-15,0,211,1,Mobile,Paid Search,Scotland,15,1,Monday,3.5166666666666666
+1705,A,2024-01-18,1,173,4,Mobile,Organic,London,18,1,Thursday,11.533333333333333
+1706,A,2024-01-20,0,33,2,Desktop,Paid Search,London,20,1,Saturday,1.1
+1707,B,2024-01-13,0,307,2,Desktop,Paid Search,Scotland,13,1,Saturday,10.233333333333333
+1708,A,2024-01-29,0,73,5,Desktop,Email,Scotland,29,1,Monday,6.083333333333333
+1709,B,2024-01-08,0,289,6,Mobile,Paid Search,Scotland,8,1,Monday,28.9
+1710,B,2024-01-09,0,315,5,Mobile,Social,North,9,1,Tuesday,26.25
+1711,A,2024-01-16,0,49,4,Desktop,Email,South,16,1,Tuesday,3.2666666666666666
+1712,A,2024-01-19,0,18,5,Mobile,Organic,Midlands,19,1,Friday,1.5
+1713,B,2024-01-16,0,455,7,Mobile,Social,Midlands,16,1,Tuesday,53.08333333333333
+1714,A,2024-01-07,0,184,4,Desktop,Paid Search,Midlands,7,1,Sunday,12.266666666666667
+1715,A,2024-01-14,1,17,2,Mobile,Email,Scotland,14,1,Sunday,0.5666666666666667
+1716,B,2024-01-28,0,1581,9,Mobile,Paid Search,Scotland,28,1,Sunday,237.15
+1717,A,2024-01-14,0,17,4,Desktop,Email,Scotland,14,1,Sunday,1.1333333333333333
+1718,B,2024-01-25,0,356,3,Tablet,Paid Search,North,25,1,Thursday,17.8
+1719,B,2024-01-27,0,1234,4,Mobile,Social,North,27,1,Saturday,82.26666666666667
+1720,A,2024-01-04,0,82,4,Mobile,Organic,North,4,1,Thursday,5.466666666666667
+1721,A,2024-01-26,0,46,6,Desktop,Social,North,26,1,Friday,4.6000000000000005
+1722,A,2024-01-15,0,38,4,Desktop,Social,London,15,1,Monday,2.533333333333333
+1723,A,2024-01-03,0,108,6,Desktop,Organic,North,3,1,Wednesday,10.8
+1724,A,2024-01-05,0,31,9,Mobile,Email,North,5,1,Friday,4.65
+1725,B,2024-01-01,0,353,3,Mobile,Email,North,1,1,Monday,17.650000000000002
+1726,A,2024-01-03,0,19,3,Desktop,Organic,Midlands,3,1,Wednesday,0.95
+1727,B,2024-01-15,0,213,8,Desktop,Paid Search,Midlands,15,1,Monday,28.4
+1728,B,2024-01-24,0,1713,6,Desktop,Email,Midlands,24,1,Wednesday,171.3
+1729,B,2024-01-27,0,504,1,Mobile,Social,South,27,1,Saturday,8.4
+1730,B,2024-01-08,0,286,7,Mobile,Organic,London,8,1,Monday,33.36666666666667
+1731,A,2024-01-31,1,109,5,Mobile,Social,Scotland,31,1,Wednesday,9.083333333333334
+1732,B,2024-01-29,0,293,7,Tablet,Email,North,29,1,Monday,34.18333333333334
+1733,B,2024-01-04,1,224,5,Desktop,Organic,Midlands,4,1,Thursday,18.666666666666668
+1734,A,2024-01-02,0,166,2,Mobile,Organic,London,2,1,Tuesday,5.533333333333333
+1735,A,2024-01-29,0,42,6,Mobile,Email,North,29,1,Monday,4.199999999999999
+1736,B,2024-01-24,0,653,7,Mobile,Email,South,24,1,Wednesday,76.18333333333334
+1737,A,2024-01-24,1,179,5,Mobile,Organic,Scotland,24,1,Wednesday,14.916666666666668
+1738,A,2024-01-10,0,64,6,Desktop,Paid Search,North,10,1,Wednesday,6.4
+1739,A,2024-01-04,0,137,5,Desktop,Organic,Scotland,4,1,Thursday,11.416666666666666
+1740,A,2024-01-03,0,160,6,Mobile,Paid Search,North,3,1,Wednesday,16.0
+1741,B,2024-01-02,0,527,3,Mobile,Social,South,2,1,Tuesday,26.35
+1742,B,2024-01-25,0,396,4,Desktop,Paid Search,London,25,1,Thursday,26.4
+1743,B,2024-01-17,0,439,5,Mobile,Paid Search,Scotland,17,1,Wednesday,36.58333333333333
+1744,A,2024-01-23,0,3,8,Mobile,Email,Scotland,23,1,Tuesday,0.4
+1745,A,2024-01-21,0,161,10,Tablet,Organic,London,21,1,Sunday,26.833333333333332
+1746,A,2024-01-24,0,196,5,Desktop,Social,Scotland,24,1,Wednesday,16.333333333333332
+1747,A,2024-01-20,0,5,3,Desktop,Organic,Midlands,20,1,Saturday,0.25
+1748,A,2024-01-23,0,90,7,Mobile,Paid Search,London,23,1,Tuesday,10.5
+1749,B,2024-01-13,0,428,2,Mobile,Paid Search,South,13,1,Saturday,14.266666666666667
+1750,A,2024-01-05,0,44,6,Mobile,Paid Search,North,5,1,Friday,4.3999999999999995
+1751,B,2024-01-31,0,229,6,Mobile,Organic,North,31,1,Wednesday,22.900000000000002
+1752,A,2024-01-30,0,72,6,Desktop,Paid Search,London,30,1,Tuesday,7.199999999999999
+1753,A,2024-01-21,0,3,5,Mobile,Organic,Midlands,21,1,Sunday,0.25
+1754,A,2024-01-30,0,82,0,Desktop,Social,South,30,1,Tuesday,0.0
+1755,B,2024-01-09,0,1117,6,Mobile,Social,North,9,1,Tuesday,111.7
+1756,B,2024-01-25,0,485,4,Mobile,Organic,North,25,1,Thursday,32.333333333333336
+1757,B,2024-01-29,0,962,6,Tablet,Social,Midlands,29,1,Monday,96.20000000000002
+1758,A,2024-01-25,0,200,3,Mobile,Email,Scotland,25,1,Thursday,10.0
+1759,A,2024-01-28,0,34,6,Mobile,Paid Search,London,28,1,Sunday,3.4
+1760,B,2024-01-22,0,238,3,Mobile,Paid Search,Midlands,22,1,Monday,11.9
+1761,A,2024-01-06,0,181,5,Mobile,Paid Search,Midlands,6,1,Saturday,15.083333333333332
+1762,B,2024-01-05,0,558,2,Mobile,Email,Midlands,5,1,Friday,18.6
+1763,A,2024-01-25,1,30,4,Mobile,Paid Search,Midlands,25,1,Thursday,2.0
+1764,A,2024-01-10,0,200,7,Desktop,Organic,Scotland,10,1,Wednesday,23.333333333333336
+1765,A,2024-01-08,0,48,6,Desktop,Paid Search,South,8,1,Monday,4.800000000000001
+1766,A,2024-01-07,0,117,7,Mobile,Organic,Midlands,7,1,Sunday,13.65
+1767,B,2024-01-07,0,401,6,Mobile,Social,Midlands,7,1,Sunday,40.1
+1768,A,2024-01-06,0,193,2,Desktop,Organic,London,6,1,Saturday,6.433333333333334
+1769,A,2024-01-21,0,141,0,Mobile,Organic,North,21,1,Sunday,0.0
+1770,A,2024-01-29,0,150,4,Desktop,Organic,Scotland,29,1,Monday,10.0
+1771,A,2024-01-20,0,184,5,Desktop,Paid Search,Midlands,20,1,Saturday,15.333333333333334
+1772,B,2024-01-03,0,461,2,Mobile,Email,South,3,1,Wednesday,15.366666666666667
+1773,B,2024-01-19,0,667,3,Desktop,Email,South,19,1,Friday,33.35
+1774,B,2024-01-22,1,932,6,Tablet,Organic,South,22,1,Monday,93.2
+1775,B,2024-01-15,0,463,9,Desktop,Paid Search,London,15,1,Monday,69.45
+1776,A,2024-01-04,0,113,6,Mobile,Email,South,4,1,Thursday,11.3
+1777,B,2024-01-28,0,349,4,Mobile,Social,London,28,1,Sunday,23.266666666666666
+1778,A,2024-01-12,0,172,2,Tablet,Social,Scotland,12,1,Friday,5.733333333333333
+1779,A,2024-01-06,1,88,6,Mobile,Paid Search,South,6,1,Saturday,8.799999999999999
+1780,B,2024-01-19,0,551,7,Desktop,Social,North,19,1,Friday,64.28333333333333
+1781,A,2024-01-31,0,11,2,Mobile,Social,Midlands,31,1,Wednesday,0.36666666666666664
+1782,B,2024-01-04,0,696,6,Mobile,Social,Scotland,4,1,Thursday,69.6
+1783,A,2024-01-15,0,185,8,Desktop,Email,North,15,1,Monday,24.666666666666668
+1784,B,2024-01-09,0,304,4,Desktop,Social,Scotland,9,1,Tuesday,20.266666666666666
+1785,B,2024-01-05,0,323,6,Desktop,Organic,South,5,1,Friday,32.300000000000004
+1786,B,2024-01-13,0,676,6,Tablet,Organic,Scotland,13,1,Saturday,67.60000000000001
+1787,B,2024-01-23,1,303,1,Mobile,Social,Scotland,23,1,Tuesday,5.05
+1788,B,2024-01-26,1,285,7,Mobile,Organic,Scotland,26,1,Friday,33.25
+1789,A,2024-01-18,0,20,6,Tablet,Email,London,18,1,Thursday,2.0
+1790,B,2024-01-30,0,219,5,Mobile,Paid Search,North,30,1,Tuesday,18.25
+1791,A,2024-01-30,0,48,3,Desktop,Organic,South,30,1,Tuesday,2.4000000000000004
+1792,B,2024-01-05,0,401,7,Mobile,Social,Midlands,5,1,Friday,46.78333333333333
+1793,B,2024-01-25,0,215,4,Mobile,Paid Search,South,25,1,Thursday,14.333333333333334
+1794,B,2024-01-16,0,342,2,Mobile,Paid Search,South,16,1,Tuesday,11.4
+1795,A,2024-01-27,0,12,7,Mobile,Social,London,27,1,Saturday,1.4000000000000001
+1796,A,2024-01-19,0,26,5,Desktop,Organic,London,19,1,Friday,2.166666666666667
+1797,B,2024-01-14,0,377,8,Desktop,Email,Scotland,14,1,Sunday,50.266666666666666
+1798,A,2024-01-25,0,22,7,Desktop,Organic,South,25,1,Thursday,2.5666666666666664
+1799,A,2024-01-30,0,22,5,Mobile,Organic,North,30,1,Tuesday,1.8333333333333333
+1800,A,2024-01-16,0,3,4,Mobile,Email,London,16,1,Tuesday,0.2
+1801,B,2024-01-27,0,940,3,Mobile,Paid Search,London,27,1,Saturday,47.0
+1802,B,2024-01-15,0,401,9,Mobile,Email,North,15,1,Monday,60.150000000000006
+1803,A,2024-01-22,0,130,4,Mobile,Email,London,22,1,Monday,8.666666666666666
+1804,A,2024-01-04,0,105,8,Mobile,Social,North,4,1,Thursday,14.0
+1805,A,2024-01-07,0,129,4,Mobile,Social,Midlands,7,1,Sunday,8.6
+1806,B,2024-01-16,0,447,2,Mobile,Organic,North,16,1,Tuesday,14.9
+1807,B,2024-01-24,0,324,2,Mobile,Social,Midlands,24,1,Wednesday,10.8
+1808,A,2024-01-22,0,61,5,Mobile,Email,Scotland,22,1,Monday,5.083333333333333
+1809,A,2024-01-21,0,57,8,Mobile,Email,Scotland,21,1,Sunday,7.6
+1810,A,2024-01-22,0,31,5,Mobile,Social,London,22,1,Monday,2.5833333333333335
+1811,B,2024-01-21,0,323,6,Tablet,Social,North,21,1,Sunday,32.300000000000004
+1812,B,2024-01-08,1,433,3,Mobile,Social,London,8,1,Monday,21.65
+1813,A,2024-01-17,1,92,5,Desktop,Email,North,17,1,Wednesday,7.666666666666667
+1814,A,2024-01-16,0,6,8,Mobile,Paid Search,London,16,1,Tuesday,0.8
+1815,A,2024-01-27,0,25,4,Desktop,Paid Search,Scotland,27,1,Saturday,1.6666666666666667
+1816,B,2024-01-23,0,1031,5,Mobile,Social,Scotland,23,1,Tuesday,85.91666666666667
+1817,A,2024-01-31,0,105,1,Desktop,Organic,London,31,1,Wednesday,1.75
+1818,B,2024-01-10,1,439,5,Mobile,Organic,North,10,1,Wednesday,36.58333333333333
+1819,B,2024-01-10,0,293,6,Desktop,Paid Search,South,10,1,Wednesday,29.300000000000004
+1820,A,2024-01-27,0,144,3,Mobile,Social,North,27,1,Saturday,7.199999999999999
+1821,A,2024-01-02,0,69,6,Mobile,Email,London,2,1,Tuesday,6.8999999999999995
+1822,A,2024-01-31,1,38,5,Desktop,Organic,North,31,1,Wednesday,3.1666666666666665
+1823,B,2024-01-30,0,286,5,Mobile,Organic,Midlands,30,1,Tuesday,23.833333333333332
+1824,B,2024-01-09,0,447,6,Tablet,Email,North,9,1,Tuesday,44.7
+1825,B,2024-01-17,0,309,6,Mobile,Email,Scotland,17,1,Wednesday,30.900000000000002
+1826,B,2024-01-11,0,226,7,Mobile,Social,Scotland,11,1,Thursday,26.366666666666667
+1827,A,2024-01-10,0,12,6,Desktop,Email,Midlands,10,1,Wednesday,1.2000000000000002
+1828,B,2024-01-22,0,1037,5,Mobile,Email,North,22,1,Monday,86.41666666666667
+1829,B,2024-01-25,1,480,6,Mobile,Email,South,25,1,Thursday,48.0
+1830,A,2024-01-17,0,103,6,Desktop,Paid Search,North,17,1,Wednesday,10.299999999999999
+1831,B,2024-01-04,0,1173,5,Desktop,Email,Scotland,4,1,Thursday,97.75
+1832,B,2024-01-16,0,276,10,Tablet,Organic,Scotland,16,1,Tuesday,46.0
+1833,B,2024-01-20,0,261,4,Mobile,Social,London,20,1,Saturday,17.4
+1834,B,2024-01-15,0,413,8,Mobile,Social,Scotland,15,1,Monday,55.06666666666667
+1835,B,2024-01-25,0,501,6,Mobile,Social,London,25,1,Thursday,50.099999999999994
+1836,B,2024-01-27,0,320,4,Mobile,Paid Search,Scotland,27,1,Saturday,21.333333333333332
+1837,A,2024-01-21,0,41,5,Desktop,Organic,Scotland,21,1,Sunday,3.416666666666667
+1838,A,2024-01-05,0,123,4,Mobile,Email,South,5,1,Friday,8.2
+1839,B,2024-01-06,0,789,6,Mobile,Organic,London,6,1,Saturday,78.9
+1840,A,2024-01-17,0,76,2,Mobile,Social,London,17,1,Wednesday,2.533333333333333
+1841,A,2024-01-01,0,139,2,Desktop,Email,Scotland,1,1,Monday,4.633333333333334
+1842,A,2024-01-31,0,169,9,Tablet,Social,London,31,1,Wednesday,25.35
+1843,A,2024-01-25,0,173,1,Desktop,Social,Scotland,25,1,Thursday,2.8833333333333333
+1844,B,2024-01-19,0,284,3,Mobile,Social,Scotland,19,1,Friday,14.2
+1845,B,2024-01-04,0,859,4,Desktop,Organic,North,4,1,Thursday,57.266666666666666
+1846,A,2024-01-17,0,82,3,Desktop,Organic,London,17,1,Wednesday,4.1
+1847,A,2024-01-09,0,38,2,Mobile,Social,Midlands,9,1,Tuesday,1.2666666666666666
+1848,A,2024-01-31,0,65,6,Mobile,Social,London,31,1,Wednesday,6.5
+1849,B,2024-01-24,0,653,2,Mobile,Email,London,24,1,Wednesday,21.766666666666666
+1850,B,2024-01-02,0,311,7,Mobile,Social,South,2,1,Tuesday,36.28333333333333
+1851,A,2024-01-08,0,101,10,Desktop,Social,Midlands,8,1,Monday,16.833333333333332
+1852,B,2024-01-15,0,507,1,Mobile,Social,Midlands,15,1,Monday,8.45
+1853,B,2024-01-07,0,592,2,Mobile,Social,South,7,1,Sunday,19.733333333333334
+1854,B,2024-01-27,0,562,4,Tablet,Organic,South,27,1,Saturday,37.46666666666667
+1855,B,2024-01-06,0,753,4,Desktop,Social,London,6,1,Saturday,50.2
+1856,A,2024-01-01,0,87,8,Desktop,Paid Search,North,1,1,Monday,11.6
+1857,B,2024-01-15,0,422,6,Mobile,Social,South,15,1,Monday,42.2
+1858,A,2024-01-23,0,185,2,Mobile,Organic,Midlands,23,1,Tuesday,6.166666666666667
+1859,B,2024-01-26,0,553,6,Mobile,Paid Search,Midlands,26,1,Friday,55.3
+1860,B,2024-01-07,0,391,8,Mobile,Paid Search,London,7,1,Sunday,52.13333333333333
+1861,B,2024-01-29,0,449,8,Mobile,Social,North,29,1,Monday,59.86666666666667
+1862,B,2024-01-30,0,320,2,Mobile,Social,Scotland,30,1,Tuesday,10.666666666666666
+1863,A,2024-01-25,0,58,5,Mobile,Organic,South,25,1,Thursday,4.833333333333333
+1864,B,2024-01-17,0,236,4,Mobile,Paid Search,South,17,1,Wednesday,15.733333333333333
+1865,B,2024-01-02,0,1253,3,Mobile,Paid Search,London,2,1,Tuesday,62.65
+1866,B,2024-01-27,0,831,8,Desktop,Organic,North,27,1,Saturday,110.8
+1867,A,2024-01-09,0,13,3,Desktop,Social,Midlands,9,1,Tuesday,0.65
+1868,A,2024-01-29,0,54,7,Mobile,Email,Midlands,29,1,Monday,6.3
+1869,A,2024-01-09,0,42,2,Mobile,Email,Scotland,9,1,Tuesday,1.4
+1870,B,2024-01-13,0,388,1,Mobile,Paid Search,Midlands,13,1,Saturday,6.466666666666667
+1871,B,2024-01-06,1,510,5,Mobile,Paid Search,South,6,1,Saturday,42.5
+1872,A,2024-01-06,0,72,4,Mobile,Social,Scotland,6,1,Saturday,4.8
+1873,B,2024-01-20,0,211,4,Desktop,Email,North,20,1,Saturday,14.066666666666666
+1874,B,2024-01-20,0,551,4,Tablet,Paid Search,Scotland,20,1,Saturday,36.733333333333334
+1875,B,2024-01-21,0,395,3,Desktop,Social,North,21,1,Sunday,19.75
+1876,B,2024-01-03,1,234,0,Tablet,Email,Midlands,3,1,Wednesday,0.0
+1877,B,2024-01-17,0,267,2,Desktop,Organic,London,17,1,Wednesday,8.9
+1878,B,2024-01-31,1,213,3,Mobile,Paid Search,Scotland,31,1,Wednesday,10.649999999999999
+1879,A,2024-01-17,0,105,4,Tablet,Organic,Scotland,17,1,Wednesday,7.0
+1880,B,2024-01-12,0,249,2,Mobile,Email,South,12,1,Friday,8.3
+1881,B,2024-01-16,0,350,6,Desktop,Social,South,16,1,Tuesday,35.0
+1882,B,2024-01-15,0,619,5,Mobile,Social,North,15,1,Monday,51.58333333333333
+1883,B,2024-01-13,0,303,1,Mobile,Email,London,13,1,Saturday,5.05
+1884,B,2024-01-23,0,429,8,Desktop,Organic,South,23,1,Tuesday,57.2
+1885,A,2024-01-01,0,52,6,Mobile,Social,South,1,1,Monday,5.2
+1886,A,2024-01-17,0,185,1,Mobile,Paid Search,Midlands,17,1,Wednesday,3.0833333333333335
+1887,A,2024-01-03,0,2,9,Mobile,Organic,Midlands,3,1,Wednesday,0.3
+1888,A,2024-01-26,0,84,3,Mobile,Organic,South,26,1,Friday,4.199999999999999
+1889,B,2024-01-15,0,388,9,Tablet,Paid Search,North,15,1,Monday,58.2
+1890,B,2024-01-04,0,1441,4,Desktop,Email,London,4,1,Thursday,96.06666666666666
+1891,A,2024-01-04,0,31,3,Mobile,Social,South,4,1,Thursday,1.5500000000000003
+1892,A,2024-01-18,1,153,7,Mobile,Organic,North,18,1,Thursday,17.849999999999998
+1893,B,2024-01-17,0,482,5,Desktop,Social,North,17,1,Wednesday,40.166666666666664
+1894,A,2024-01-19,0,68,6,Mobile,Social,South,19,1,Friday,6.8
+1895,B,2024-01-11,0,242,3,Mobile,Organic,North,11,1,Thursday,12.1
+1896,B,2024-01-20,0,396,7,Mobile,Email,Scotland,20,1,Saturday,46.199999999999996
+1897,B,2024-01-03,0,287,5,Desktop,Organic,North,3,1,Wednesday,23.916666666666664
+1898,A,2024-01-08,0,62,8,Mobile,Email,South,8,1,Monday,8.266666666666667
+1899,A,2024-01-14,0,131,7,Mobile,Paid Search,North,14,1,Sunday,15.283333333333331
+1900,B,2024-01-26,0,459,3,Mobile,Email,South,26,1,Friday,22.950000000000003
+1901,B,2024-01-01,1,242,5,Mobile,Email,Midlands,1,1,Monday,20.166666666666664
+1902,A,2024-01-14,0,1,9,Mobile,Organic,South,14,1,Sunday,0.15
+1903,B,2024-01-02,0,429,5,Mobile,Social,North,2,1,Tuesday,35.75
+1904,A,2024-01-29,1,10,6,Mobile,Social,South,29,1,Monday,1.0
+1905,B,2024-01-23,0,410,4,Mobile,Email,London,23,1,Tuesday,27.333333333333332
+1906,A,2024-01-04,0,67,6,Mobile,Email,South,4,1,Thursday,6.7
+1907,B,2024-01-24,0,951,6,Desktop,Organic,South,24,1,Wednesday,95.1
+1908,A,2024-01-27,0,137,5,Desktop,Email,London,27,1,Saturday,11.416666666666666
+1909,A,2024-01-29,0,118,6,Mobile,Organic,London,29,1,Monday,11.799999999999999
+1910,A,2024-01-19,0,48,4,Mobile,Paid Search,London,19,1,Friday,3.2
+1911,A,2024-01-06,0,109,4,Mobile,Email,Scotland,6,1,Saturday,7.266666666666667
+1912,B,2024-01-25,0,627,7,Desktop,Paid Search,South,25,1,Thursday,73.14999999999999
+1913,B,2024-01-01,0,1682,7,Desktop,Email,London,1,1,Monday,196.23333333333335
+1914,A,2024-01-17,0,137,5,Mobile,Email,London,17,1,Wednesday,11.416666666666666
+1915,A,2024-01-08,0,178,3,Desktop,Paid Search,Midlands,8,1,Monday,8.9
+1916,B,2024-01-19,0,384,3,Desktop,Paid Search,Scotland,19,1,Friday,19.200000000000003
+1917,B,2024-01-21,1,651,3,Tablet,Organic,South,21,1,Sunday,32.55
+1918,B,2024-01-01,0,269,2,Mobile,Organic,North,1,1,Monday,8.966666666666667
+1919,A,2024-01-05,0,149,6,Mobile,Paid Search,Scotland,5,1,Friday,14.9
+1920,A,2024-01-27,0,159,3,Mobile,Email,Scotland,27,1,Saturday,7.949999999999999
+1921,B,2024-01-16,0,356,3,Desktop,Organic,Midlands,16,1,Tuesday,17.8
+1922,A,2024-01-06,0,0,11,Desktop,Email,South,6,1,Saturday,0.0
+1923,B,2024-01-08,0,289,4,Mobile,Social,South,8,1,Monday,19.266666666666666
+1924,A,2024-01-13,0,131,10,Mobile,Organic,London,13,1,Saturday,21.833333333333332
+1925,B,2024-01-16,0,474,8,Mobile,Organic,London,16,1,Tuesday,63.2
+1926,A,2024-01-30,0,29,3,Mobile,Organic,Scotland,30,1,Tuesday,1.45
+1927,B,2024-01-03,0,266,7,Mobile,Social,Midlands,3,1,Wednesday,31.033333333333335
+1928,A,2024-01-19,0,196,5,Mobile,Paid Search,South,19,1,Friday,16.333333333333332
+1929,B,2024-01-12,0,308,3,Mobile,Email,Midlands,12,1,Friday,15.400000000000002
+1930,A,2024-01-16,0,20,5,Desktop,Social,North,16,1,Tuesday,1.6666666666666665
+1931,B,2024-01-27,0,260,6,Mobile,Paid Search,South,27,1,Saturday,26.0
+1932,B,2024-01-11,0,247,5,Mobile,Organic,London,11,1,Thursday,20.583333333333332
+1933,B,2024-01-10,0,246,5,Mobile,Paid Search,Scotland,10,1,Wednesday,20.5
+1934,B,2024-01-25,0,277,2,Desktop,Paid Search,Midlands,25,1,Thursday,9.233333333333333
+1935,B,2024-01-20,0,338,6,Mobile,Paid Search,London,20,1,Saturday,33.800000000000004
+1936,B,2024-01-31,0,490,5,Tablet,Email,Scotland,31,1,Wednesday,40.83333333333333
+1937,A,2024-01-04,0,94,4,Mobile,Paid Search,London,4,1,Thursday,6.266666666666667
+1938,B,2024-01-12,1,522,7,Tablet,Paid Search,South,12,1,Friday,60.89999999999999
+1939,A,2024-01-23,0,206,5,Desktop,Paid Search,Midlands,23,1,Tuesday,17.166666666666664
+1940,A,2024-01-02,1,24,6,Mobile,Paid Search,North,2,1,Tuesday,2.4000000000000004
+1941,A,2024-01-24,0,18,6,Tablet,Social,London,24,1,Wednesday,1.7999999999999998
+1942,A,2024-01-22,0,122,6,Mobile,Social,Midlands,22,1,Monday,12.2
+1943,B,2024-01-19,0,460,3,Mobile,Paid Search,South,19,1,Friday,23.0
+1944,B,2024-01-25,0,368,5,Mobile,Paid Search,London,25,1,Thursday,30.666666666666668
+1945,B,2024-01-05,0,466,4,Mobile,Paid Search,South,5,1,Friday,31.066666666666666
+1946,B,2024-01-08,0,218,8,Desktop,Organic,North,8,1,Monday,29.066666666666666
+1947,A,2024-01-07,0,174,3,Desktop,Paid Search,North,7,1,Sunday,8.7
+1948,A,2024-01-14,0,47,2,Mobile,Paid Search,Scotland,14,1,Sunday,1.5666666666666667
+1949,A,2024-01-24,0,119,1,Mobile,Social,Scotland,24,1,Wednesday,1.9833333333333334
+1950,A,2024-01-23,0,170,7,Mobile,Social,Scotland,23,1,Tuesday,19.833333333333336
+1951,A,2024-01-03,0,27,3,Desktop,Social,South,3,1,Wednesday,1.35
+1952,A,2024-01-18,1,74,2,Mobile,Email,Scotland,18,1,Thursday,2.466666666666667
+1953,B,2024-01-16,0,273,4,Tablet,Organic,Midlands,16,1,Tuesday,18.2
+1954,B,2024-01-23,0,399,6,Mobile,Paid Search,South,23,1,Tuesday,39.900000000000006
+1955,B,2024-01-19,0,1921,2,Mobile,Social,South,19,1,Friday,64.03333333333333
+1956,B,2024-01-19,0,811,7,Desktop,Email,Scotland,19,1,Friday,94.61666666666667
+1957,B,2024-01-18,0,308,4,Mobile,Paid Search,Scotland,18,1,Thursday,20.533333333333335
+1958,A,2024-01-20,0,164,10,Mobile,Paid Search,South,20,1,Saturday,27.333333333333336
+1959,B,2024-01-16,0,303,8,Mobile,Social,North,16,1,Tuesday,40.4
+1960,B,2024-01-08,0,462,6,Mobile,Paid Search,North,8,1,Monday,46.2
+1961,A,2024-01-28,0,37,7,Tablet,Paid Search,Scotland,28,1,Sunday,4.316666666666666
+1962,A,2024-01-01,1,158,3,Mobile,Paid Search,North,1,1,Monday,7.9
+1963,B,2024-01-17,0,549,4,Mobile,Social,Midlands,17,1,Wednesday,36.6
+1964,A,2024-01-12,0,145,8,Mobile,Email,Midlands,12,1,Friday,19.333333333333332
+1965,B,2024-01-30,0,254,5,Mobile,Paid Search,Midlands,30,1,Tuesday,21.166666666666668
+1966,B,2024-01-21,0,265,4,Desktop,Email,South,21,1,Sunday,17.666666666666668
+1967,A,2024-01-11,0,61,4,Tablet,Paid Search,South,11,1,Thursday,4.066666666666666
+1968,A,2024-01-05,0,134,5,Desktop,Social,South,5,1,Friday,11.166666666666668
+1969,A,2024-01-27,0,122,5,Mobile,Email,South,27,1,Saturday,10.166666666666666
+1970,A,2024-01-12,0,7,4,Mobile,Social,South,12,1,Friday,0.4666666666666667
+1971,A,2024-01-17,0,7,3,Mobile,Organic,Scotland,17,1,Wednesday,0.35
+1972,B,2024-01-06,0,534,6,Desktop,Paid Search,North,6,1,Saturday,53.400000000000006
+1973,A,2024-01-01,0,95,8,Mobile,Organic,Scotland,1,1,Monday,12.666666666666666
+1974,B,2024-01-05,0,218,5,Mobile,Organic,North,5,1,Friday,18.166666666666668
+1975,A,2024-01-25,0,106,5,Tablet,Organic,Scotland,25,1,Thursday,8.833333333333332
+1976,B,2024-01-28,0,847,3,Mobile,Paid Search,Midlands,28,1,Sunday,42.35
+1977,A,2024-01-14,0,90,5,Mobile,Social,London,14,1,Sunday,7.5
+1978,A,2024-01-05,0,168,5,Mobile,Organic,South,5,1,Friday,14.0
+1979,B,2024-01-22,0,618,10,Mobile,Email,London,22,1,Monday,103.0
+1980,B,2024-01-24,0,553,4,Mobile,Paid Search,London,24,1,Wednesday,36.86666666666667
+1981,A,2024-01-27,0,61,4,Mobile,Social,Midlands,27,1,Saturday,4.066666666666666
+1982,B,2024-01-01,0,486,9,Mobile,Social,London,1,1,Monday,72.89999999999999
+1983,A,2024-01-30,0,183,5,Mobile,Organic,London,30,1,Tuesday,15.25
+1984,A,2024-01-18,0,197,4,Desktop,Paid Search,Midlands,18,1,Thursday,13.133333333333333
+1985,A,2024-01-16,0,42,2,Mobile,Organic,North,16,1,Tuesday,1.4
+1986,A,2024-01-09,0,25,4,Desktop,Email,Scotland,9,1,Tuesday,1.6666666666666667
+1987,B,2024-01-19,0,390,4,Mobile,Social,London,19,1,Friday,26.0
+1988,A,2024-01-22,0,205,5,Mobile,Social,South,22,1,Monday,17.083333333333332
+1989,A,2024-01-05,0,172,2,Tablet,Paid Search,Midlands,5,1,Friday,5.733333333333333
+1990,B,2024-01-27,0,392,8,Mobile,Social,London,27,1,Saturday,52.266666666666666
+1991,B,2024-01-02,0,435,3,Mobile,Paid Search,North,2,1,Tuesday,21.75
+1992,A,2024-01-30,0,51,5,Desktop,Organic,North,30,1,Tuesday,4.25
+1993,B,2024-01-15,0,282,4,Mobile,Email,South,15,1,Monday,18.8
+1994,A,2024-01-07,1,43,5,Mobile,Paid Search,London,7,1,Sunday,3.5833333333333335
+1995,B,2024-01-04,0,417,7,Mobile,Organic,South,4,1,Thursday,48.65
+1996,B,2024-01-01,1,320,6,Desktop,Email,North,1,1,Monday,32.0
+1997,B,2024-01-13,0,941,7,Desktop,Social,North,13,1,Saturday,109.78333333333333
+1998,A,2024-01-20,0,21,3,Mobile,Email,Scotland,20,1,Saturday,1.0499999999999998
+1999,A,2024-01-22,0,17,8,Mobile,Email,North,22,1,Monday,2.2666666666666666
+2000,A,2024-01-07,0,99,3,Mobile,Email,Midlands,7,1,Sunday,4.949999999999999
