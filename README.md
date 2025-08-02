@@ -1,22 +1,23 @@
 # A/B Testing Dashboard with Streamlit
 
-A clean, interactive dashboard for analyzing A/B test results using Python and Streamlit.
+A clean, interactive dashboard for analysing A/B test results using Python and Streamlit.
 
 ## 📊 Project Overview
 
 This dashboard provides comprehensive analysis of A/B test data including:
+
 - **Conversion Rate Analysis**: Compare conversion rates between test groups
 - **Statistical Significance Testing**: Z-test and chi-square test results
 - **Segmentation Analysis**: Breakdown by device, channel, and region
-- **Interactive Visualizations**: Charts and tables for data exploration
+- **Interactive Visualisations**: Charts and tables for data exploration
 
 ## 🚀 Features
 
 - **Real-time Data Analysis**: Load and process A/B test data instantly
 - **Statistical Testing**: Automated significance testing with clear results
-- **Multi-dimensional Segmentation**: Analyze results across different user segments
-- **Responsive Design**: Clean, minimalist interface optimized for insights
-- **Interactive Charts**: Plotly-based visualizations for better user experience
+- **Multi-dimensional Segmentation**: Analyse results across different user segments
+- **Responsive Design**: Clean, minimalist interface optimised for insights
+- **Interactive Charts**: Plotly-based visualisations for better user experience
 
 ## 📋 Requirements
 
@@ -30,12 +31,14 @@ This dashboard provides comprehensive analysis of A/B test data including:
 ## 🛠️ Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/ab-test-dashboard-streamlit.git
 cd ab-test-dashboard-streamlit
 ```
 
 2. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -43,6 +46,7 @@ pip install -r requirements.txt
 3. Place your `ab_test_enriched.csv` file in the root directory
 
 4. Run the dashboard:
+
 ```bash
 streamlit run ab_test_dashboard.py
 ```
@@ -74,12 +78,12 @@ ab-test-dashboard-streamlit/
 
 ### 📱 Top Performing Segments
 
-| Segment | Improvement | Performance |
-|---------|-------------|-------------|
-| **Email Channel** | +87.1% | 6.30% → 11.79% |
-| **South Region** | +191.1% | 4.04% → 11.76% |
-| **Desktop Users** | +59.7% | 6.15% → 9.82% |
-| **Paid Search** | +49.5% | 6.91% → 10.33% |
+| Segment           | Improvement | Performance    |
+| ----------------- | ----------- | -------------- |
+| **Email Channel** | +87.1%      | 6.30% → 11.79% |
+| **South Region**  | +191.1%     | 4.04% → 11.76% |
+| **Desktop Users** | +59.7%      | 6.15% → 9.82%  |
+| **Paid Search**   | +49.5%      | 6.91% → 10.33% |
 
 ### 🔬 Statistical Validation
 
@@ -98,20 +102,22 @@ Strong evidence supports deploying the Group B variant across all user segments,
 
 ## 📊 Dashboard Screenshots
 
-*[Insert your Streamlit dashboard screenshots here]*
+_[Insert your Streamlit dashboard screenshots here]_
 
 ### Key Metrics Displayed
+
 - Real-time conversion rate comparison
 - Statistical significance indicators
 - Segmentation breakdown charts
 - Interactive filtering capabilities
-- Confidence interval visualization
+- Confidence interval visualisation
 
 ---
 
 ## 🔍 Data Schema
 
 The dashboard expects a CSV file with the following columns:
+
 - `user_id`: Unique identifier for each user
 - `group`: Test group (A or B)
 - `converted`: Binary conversion indicator (0/1)
@@ -125,21 +131,25 @@ The dashboard expects a CSV file with the following columns:
 ## 📈 Analysis Features
 
 ### 1. Overall Metrics
+
 - Total users and conversions
 - Overall conversion rate
 - Average session duration and page views
 
 ### 2. A/B Comparison
+
 - Side-by-side conversion rate comparison
 - Statistical significance testing
 - Confidence intervals
 
 ### 3. Segmentation Analysis
+
 - Conversion rates by device type
 - Performance across different channels
 - Regional performance breakdown
 
 ### 4. Statistical Testing
+
 - Z-test for proportion comparison
 - Chi-square test for independence
 - P-values and confidence levels
@@ -151,12 +161,14 @@ The dashboard expects a CSV file with the following columns:
 ### 🔬 Statistical Analysis
 
 **Test Results:**
+
 - **Sample Size**: 2,000 users (987 Group A, 1,013 Group B)
 - **Test Duration**: 30 days
 - **Statistical Power**: High (balanced groups, large sample)
 - **Effect Size**: Large (51.56% relative improvement)
 
 **Confidence Level:**
+
 - **95% Confidence Interval**: [0.94%, 5.64%]
 - **Interpretation**: We are 95% confident that the true improvement lies between 0.94% and 5.64%
 - **Business Impact**: Even the lower bound (0.94%) represents meaningful improvement
@@ -190,11 +202,13 @@ The dashboard expects a CSV file with the following columns:
 ### 📈 Business Impact Assessment
 
 **Immediate Benefits:**
+
 - **Conversion Rate**: +51.56% improvement
 - **Revenue Impact**: Proportional increase in conversions
 - **User Experience**: Better engagement metrics
 
 **Long-term Considerations:**
+
 - **Scalability**: Results consistent across segments
 - **Sustainability**: No negative side effects observed
 - **ROI**: High return on implementation effort
@@ -203,30 +217,34 @@ The dashboard expects a CSV file with the following columns:
 
 **Primary Recommendation:**
 **✅ IMPLEMENT GROUP B IMMEDIATELY**
+
 - Strong statistical evidence (p < 0.01)
 - Large effect size (51.56% improvement)
 - Consistent performance across segments
 
 **Secondary Recommendations:**
+
 1. **Monitor Performance**: Track metrics post-implementation
-2. **Regional Optimization**: Consider customizing for North region
-3. **Channel Focus**: Prioritize email and paid search channels
-4. **Device Optimization**: Ensure mobile experience is optimized
+2. **Regional Optimisation**: Consider customising for North region
+3. **Channel Focus**: Prioritise email and paid search channels
+4. **Device Optimisation**: Ensure mobile experience is optimised
 
 ### 🎉 Conclusion
 
 The A/B test results provide **compelling evidence** that Group B significantly outperforms Group A with a **51.56% improvement** in conversion rate. The results are **statistically significant** and **practically meaningful**, supporting immediate implementation of the Group B variant.
 
 **Key Success Factors:**
+
 - Strong statistical significance (p < 0.01)
 - Large effect size across all segments
 - Consistent performance improvements
 - No negative side effects observed
 
 **Next Steps:**
+
 1. Implement Group B immediately
 2. Monitor performance closely
-3. Optimize based on segment insights
+3. Optimise based on segment insights
 4. Plan future testing iterations
 
 ---
@@ -244,4 +262,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For questions or issues, please open an issue on GitHub. 
+For questions or issues, please open an issue on GitHub.

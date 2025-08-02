@@ -16,7 +16,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for better styling
+
 st.markdown("""
 <style>
     .main-header {
@@ -58,7 +58,7 @@ def generate_sample_data():
     np.random.seed(42)
     n_users = 10000
     
-    # Create user IDs
+    # To create user IDs
     user_ids = [f"user_{i:06d}" for i in range(1, n_users + 1)]
     
     # Randomly assign groups (A/B)
