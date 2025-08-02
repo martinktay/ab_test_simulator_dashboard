@@ -2,6 +2,24 @@
 
 A clean, interactive dashboard for analysing A/B test results using Python and Streamlit.
 
+## 🎯 Product Context
+
+This project examines an **E-commerce Website** where we conducted a comprehensive A/B test to optimise user experience and drive conversion improvements. The test focused on enhancing the user journey from initial visit to successful conversion (purchase, sign-up, or other valuable user actions).
+
+### 📦 Product Type: E-commerce Platform
+- **Primary Goal**: Optimise conversion rates across all user touchpoints
+- **User Journey**: Traffic acquisition → Content engagement → Conversion completion
+- **Key Metrics**: Conversion rate, session duration, page views, user engagement
+- **Target Audience**: Multi-device users across various UK regions
+
+### 🧪 A/B Test Objective
+We tested user experience improvements that could enhance the conversion funnel, including potential changes to:
+- Landing page design and messaging
+- Checkout/sign-up flow optimisation
+- Mobile and tablet user experience
+- Email campaign integration and user journey
+- Regional customisation strategies
+
 ## 📊 Project Overview
 
 This dashboard provides comprehensive analysis of A/B test data including:
@@ -237,17 +255,17 @@ After conducting a comprehensive 30-day A/B test with 2,000 users, our analysis 
 Our findings show that Group B achieves a remarkable **51.56% improvement** in conversion rate compared to the control group, translating to an increase from 6.38% to 9.67%. This improvement is statistically significant at the 99% confidence level (p < 0.01), providing strong evidence to support immediate implementation.
 
 **Deep Dive Analysis:**
-The segmentation analysis reveals fascinating patterns that go beyond simple conversion rate improvements. Email users show the most dramatic response with an 87.2% improvement, suggesting the new variant particularly resonates with users who engage through email campaigns. This insight opens opportunities for targeted marketing strategies and personalised user experiences.
+The segmentation analysis reveals fascinating patterns that go beyond simple conversion rate improvements. Email users show the most dramatic response with an 87.2% improvement, suggesting the new e-commerce experience particularly resonates with users who engage through email campaigns. This insight opens opportunities for targeted email marketing strategies and personalised shopping experiences.
 
-Regional performance tells an equally compelling story. The South region demonstrates an extraordinary 191.2% improvement, while the North region shows minimal change (-2.6%). This geographical variation suggests that cultural, economic, or behavioural factors may influence user response to the new variant, providing valuable insights for regional customisation strategies.
+Regional performance tells an equally compelling story. The South region demonstrates an extraordinary 191.2% improvement, while the North region shows minimal change (-2.6%). This geographical variation suggests that cultural, economic, or behavioural factors may influence shopping preferences and user response to the new variant, providing valuable insights for regional customisation strategies.
 
-Device performance reveals another compelling insight: tablet users show the strongest response with an 84.5% improvement, followed by mobile users at 57.8%. This suggests the new variant is particularly effective on touch-based devices, opening opportunities for mobile-first design strategies.
+Device performance reveals another compelling insight: tablet users show the strongest response with an 84.5% improvement, followed by mobile users at 57.8%. This suggests the new e-commerce experience is particularly effective on touch-based devices, opening opportunities for mobile-first design strategies and enhanced mobile shopping experiences.
 
 **Technical Validation:**
 Our statistical analysis employs multiple testing methodologies to ensure robust results. The Z-test (p = 0.006834) and Chi-square test (p = 0.008726) both confirm statistical significance, while the 95% confidence interval [0.94%, 5.64%] provides a reliable range for the true improvement. Even the conservative lower bound of 0.94% represents meaningful business impact.
 
 **Business Impact Assessment:**
-The 51.56% conversion rate improvement translates directly to revenue growth and enhanced user engagement. With 2,000 users in our test, this represents a substantial sample size that provides confidence in scaling the results across the entire user base. The strong performance across device types (Tablet: +84.5%, Mobile: +57.8%, Desktop: +35.4%) ensures the improvement will benefit all user segments, with particularly strong results on mobile and tablet devices.
+The 51.56% conversion rate improvement translates directly to revenue growth and enhanced shopping experience. With 2,000 users in our test, this represents a substantial sample size that provides confidence in scaling the results across the entire customer base. The strong performance across device types (Tablet: +84.5%, Mobile: +57.8%, Desktop: +35.4%) ensures the improvement will benefit all customer segments, with particularly strong results on mobile and tablet devices - crucial for modern e-commerce success.
 
 **Strategic Implementation Roadmap:**
 
@@ -262,21 +280,21 @@ The 51.56% conversion rate improvement translates directly to revenue growth and
 
 **Phase 2: Performance Optimisation (Week 3-8)**
 
-- **Daily Performance Tracking**: Monitor conversion rates, revenue impact, and user feedback metrics
-- **Segment-Specific Analysis**: Deep dive into tablet users (+84.5%) and mobile users (+57.8%) performance
+- **Daily Performance Tracking**: Monitor conversion rates, revenue impact, and customer feedback metrics
+- **Segment-Specific Analysis**: Deep dive into tablet users (+84.5%) and mobile users (+57.8%) shopping performance
 - **North Region Investigation**: Develop targeted strategies for the North region's -2.6% performance
-- **Email Campaign Optimisation**: Leverage the 87.2% improvement in email channel for marketing strategies
-- **A/B Testing Framework**: Establish ongoing testing protocols for continuous optimisation
-- **User Experience Monitoring**: Track session duration, page views, and user satisfaction metrics
+- **Email Campaign Optimisation**: Leverage the 87.2% improvement in email channel for e-commerce marketing strategies
+- **A/B Testing Framework**: Establish ongoing testing protocols for continuous e-commerce optimisation
+- **User Experience Monitoring**: Track session duration, page views, and customer satisfaction metrics
 
 **Phase 3: Advanced Segmentation (Month 2-3)**
 
-- **Regional Customisation**: Develop South region (+191.2%) and Midlands (+64.3%) specific strategies
-- **Device-Specific Optimisations**: Focus on tablet experience given the 84.5% improvement
-- **Channel Personalisation**: Create email and paid search specific user experiences
-- **Predictive Modelling**: Build models to identify high-value user segments
-- **Cross-Platform Consistency**: Ensure seamless experience across all device types
-- **Performance Benchmarking**: Establish KPIs for ongoing success measurement
+- **Regional Customisation**: Develop South region (+191.2%) and Midlands (+64.3%) specific e-commerce strategies
+- **Device-Specific Optimisations**: Focus on tablet shopping experience given the 84.5% improvement
+- **Channel Personalisation**: Create email and paid search specific shopping experiences
+- **Predictive Modelling**: Build models to identify high-value customer segments
+- **Cross-Platform Consistency**: Ensure seamless shopping experience across all device types
+- **Performance Benchmarking**: Establish e-commerce KPIs for ongoing success measurement
 
 **Phase 4: Future Testing Strategy (Month 3+)**
 
