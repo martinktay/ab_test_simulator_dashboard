@@ -96,21 +96,25 @@ The dashboard will open at `http://localhost:8501` in your browser.
 ### Step-by-Step Setup
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/martinktay/ab_test_simulator_dashboard.git
    cd ab_test_simulator_dashboard
    ```
 
 2. **Install dependencies:**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 3. **Data preparation:**
+
    - Place your `ab_test_enriched.csv` file in the root directory
    - The dashboard will automatically load the data when launched
 
 4. **Launch the dashboard:**
+
    ```bash
    streamlit run ab_test_dashboard.py
    ```
@@ -168,18 +172,159 @@ Strong evidence supports deploying the Group B variant across all user segments,
 
 ---
 
-## 📊 Dashboard Screenshots
+## 📊 Dashboard Screenshots & Analysis
 
-### Main Dashboard View
-![Dashboard Overview](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Dashboard+Screenshot)
+### 🎯 Dashboard Overview & Key Metrics
 
-### Key Metrics Displayed
+![Dashboard Overview](1.PNG)
 
-- **Real-time conversion rate comparison** between Group A and Group B
-- **Statistical significance indicators** with p-values and confidence intervals
-- **Segmentation breakdown charts** for device, channel, and region analysis
-- **Interactive filtering capabilities** for detailed data exploration
-- **Confidence interval visualisation** for statistical validation
+**Senior Data Scientist Analysis:**
+The main dashboard presents a professional dark-themed interface that immediately communicates the critical business metrics. The four metric cards display the core A/B test results with exceptional clarity:
+
+- **Overall Conversion Rate: 8.1%** - This represents the baseline performance across all users
+- **Group A (Control): 6.4%** - The current experience serving as our benchmark
+- **Group B (Treatment): 9.7%** - The new experience showing a remarkable 51.6% improvement
+- **Relative Improvement: +51.6%** - This substantial lift indicates a highly successful test
+
+The dark theme with cyan and red color coding creates excellent visual hierarchy, making it easy to distinguish between groups while maintaining professional aesthetics. The metric cards feature subtle hover effects and accent borders that enhance user interaction without compromising readability.
+
+### 🔬 Statistical Analysis Section
+
+![Statistical Analysis](2.PNG)
+
+**Senior Data Scientist Analysis:**
+This section provides the statistical rigor that validates our business recommendations. The results demonstrate exceptional statistical significance:
+
+- **Z-Test Results**: p-value = 0.0068 (highly significant at α = 0.01)
+- **Chi-Square Test**: p-value = 0.0087 (highly significant at α = 0.01)
+- **Confidence Interval**: [0.91%, 5.68%] - Even the conservative lower bound shows meaningful improvement
+
+The statistical cards use a distinct orange accent border to differentiate them from metric cards, while the confidence interval section spans the full width to emphasize its importance. This layout effectively communicates that we have both statistical significance and practical business impact.
+
+### 📊 Conversion Rate Comparison Chart
+
+![Conversion Comparison](3.PNG)
+
+**Senior Data Scientist Analysis:**
+The bar chart provides immediate visual confirmation of the Group B advantage. The chart design effectively communicates the key insights:
+
+- **Visual Impact**: The height difference between Group A (6.4%) and Group B (9.7%) is immediately apparent
+- **Color Coding**: Cyan for Group A and coral red for Group B creates clear visual distinction
+- **Data Labels**: Direct value display above each bar eliminates the need for axis reading
+- **Grid Lines**: Subtle horizontal lines aid in precise value interpretation
+
+The transparent background allows the chart to integrate seamlessly with the dark theme while maintaining excellent readability. This visualisation effectively supports the statistical findings with intuitive graphical representation.
+
+### 🎯 Segmentation Analysis - Device Performance
+
+![Device Segmentation](4A.PNG)
+
+**Senior Data Scientist Analysis:**
+The device segmentation reveals critical insights for mobile-first strategies:
+
+- **Tablet Performance**: Exceptional 84.5% improvement (7.55% → 13.92%)
+- **Mobile Performance**: Strong 57.8% improvement (5.85% → 9.24%)
+- **Desktop Performance**: Solid 35.4% improvement (7.00% → 9.48%)
+
+The grouped bar chart effectively shows the relative performance across device types, with the tab interface allowing users to explore different segmentation dimensions. The tablet performance is particularly noteworthy, suggesting the new experience is highly effective on touch-based devices.
+
+### 📧 Segmentation Analysis - Channel Performance
+
+![Channel Segmentation](4B.PNG)
+
+**Senior Data Scientist Analysis:**
+Channel analysis reveals strategic marketing opportunities:
+
+- **Email Channel**: Outstanding 87.2% improvement (6.30% → 11.79%)
+- **Paid Search**: Strong 49.5% improvement (6.91% → 10.33%)
+- **Organic**: Solid 43.2% improvement (6.15% → 8.80%)
+- **Social**: Moderate 31.9% improvement (6.17% → 8.14%)
+
+The email channel performance is particularly compelling, suggesting the new experience resonates strongly with users who engage through email campaigns. This insight could inform email marketing strategies and personalised shopping experiences.
+
+### 🌍 Segmentation Analysis - Regional Performance
+
+![Regional Segmentation](4C.PNG)
+
+**Senior Data Scientist Analysis:**
+Regional analysis uncovers fascinating geographical patterns:
+
+- **South Region**: Extraordinary 191.2% improvement (4.04% → 11.76%)
+- **Midlands**: Strong 64.3% improvement (7.07% → 11.62%)
+- **London**: Moderate 31.4% improvement (6.28% → 8.25%)
+- **Scotland**: Solid 34.0% improvement (6.22% → 8.33%)
+- **North Region**: Minimal -2.6% change (8.38% → 8.16%)
+
+The South region's exceptional performance suggests regional customisation opportunities, while the North region's minimal change indicates the need for targeted investigation. This geographical variation provides valuable insights for regional marketing strategies.
+
+### 📈 Distribution Analysis
+
+![Distribution Analysis](5.PNG)
+
+**Senior Data Scientist Analysis:**
+The distribution charts reveal important behavioral insights:
+
+**Session Duration Distribution:**
+- Group B shows longer session durations, indicating better user engagement
+- The distribution shift suggests users spend more time exploring the new experience
+- This aligns with the improved conversion rates, suggesting quality engagement
+
+**Page Views Distribution:**
+- Group B maintains higher page view counts across most ranges
+- The peak around 3-6 page views suggests optimal user journey length
+- This indicates the new experience encourages deeper site exploration
+
+The histogram format effectively shows the distribution patterns while maintaining the cyan/red color scheme for consistency.
+
+### 📋 Detailed Metrics Table
+
+![Detailed Metrics](6.PNG)
+
+**Senior Data Scientist Analysis:**
+The detailed metrics table provides comprehensive performance data:
+
+**Group A (Control):**
+- Users: 987 | Conversions: 63 | Rate: 6.38%
+- Avg Session Duration: 88.16s | Avg Page Views: 4.94
+
+**Group B (Treatment):**
+- Users: 1,013 | Conversions: 98 | Rate: 9.67%
+- Avg Session Duration: 507.68s | Avg Page Views: 4.96
+
+The data reveals that Group B not only converts better but also engages users significantly longer (507s vs 88s), suggesting the new experience creates more compelling user journeys. The balanced sample sizes (987 vs 1,013) ensure statistical validity.
+
+### 🔍 Interactive Filters & Data Summary
+
+![Filters and Summary](7.PNG)
+
+**Senior Data Scientist Analysis:**
+The sidebar provides essential filtering and summary capabilities:
+
+**Filter Options:**
+- Date range selection for temporal analysis
+- Device type filtering for device-specific insights
+- Channel filtering for marketing channel analysis
+- Regional filtering for geographical insights
+
+**Data Summary:**
+- Total Users: 2,000 (statistically robust sample size)
+- Group A: 987 users (49.4% of sample)
+- Group B: 1,013 users (50.6% of sample)
+
+The balanced group allocation ensures statistical validity, while the filtering capabilities enable deep-dive analysis into specific segments. The dark theme maintains consistency while providing excellent usability.
+
+### 🎨 Design Excellence & Professional Presentation
+
+**Senior Data Scientist Perspective:**
+The dashboard exemplifies professional data science presentation:
+
+- **Color Harmony**: Cyan and coral red provide excellent contrast without conflict
+- **Visual Hierarchy**: Clear distinction between different data types and sections
+- **Interactive Elements**: Hover effects and transitions enhance user experience
+- **Responsive Design**: Works seamlessly across different screen sizes
+- **Accessibility**: High contrast ratios ensure readability for all users
+
+The dark theme reduces eye strain during extended analysis sessions while maintaining a modern, professional appearance suitable for executive presentations and stakeholder meetings.
 
 ## 💻 Usage
 
@@ -427,6 +572,7 @@ We welcome contributions to improve this A/B testing dashboard! Here's how you c
 ### Reporting Issues
 
 If you find a bug or have a feature request, please:
+
 1. Check existing issues first
 2. Create a new issue with a clear description
 3. Include steps to reproduce (for bugs)
