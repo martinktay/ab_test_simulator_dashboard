@@ -265,11 +265,13 @@ The South region's exceptional performance suggests regional customisation oppor
 The distribution charts reveal important behavioral insights:
 
 **Session Duration Distribution:**
+
 - Group B shows longer session durations, indicating better user engagement
 - The distribution shift suggests users spend more time exploring the new experience
 - This aligns with the improved conversion rates, suggesting quality engagement
 
 **Page Views Distribution:**
+
 - Group B maintains higher page view counts across most ranges
 - The peak around 3-6 page views suggests optimal user journey length
 - This indicates the new experience encourages deeper site exploration
@@ -284,10 +286,12 @@ The histogram format effectively shows the distribution patterns while maintaini
 The detailed metrics table provides comprehensive performance data:
 
 **Group A (Control):**
+
 - Users: 987 | Conversions: 63 | Rate: 6.38%
 - Avg Session Duration: 88.16s | Avg Page Views: 4.94
 
 **Group B (Treatment):**
+
 - Users: 1,013 | Conversions: 98 | Rate: 9.67%
 - Avg Session Duration: 507.68s | Avg Page Views: 4.96
 
@@ -301,12 +305,14 @@ The data reveals that Group B not only converts better but also engages users si
 The sidebar provides essential filtering and summary capabilities:
 
 **Filter Options:**
+
 - Date range selection for temporal analysis
 - Device type filtering for device-specific insights
 - Channel filtering for marketing channel analysis
 - Regional filtering for geographical insights
 
 **Data Summary:**
+
 - Total Users: 2,000 (statistically robust sample size)
 - Group A: 987 users (49.4% of sample)
 - Group B: 1,013 users (50.6% of sample)
