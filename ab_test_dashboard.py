@@ -19,23 +19,138 @@ st.set_page_config(
 
 st.markdown("""
 <style>
+    /* Modern Professional Styling */
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+    
+    /* Global Styles */
+    .main {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+    }
+    
+    .stApp {
+        background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    }
+    
+    /* Header Styling */
     .main-header {
-        font-size: 2.5rem;
-        color: #1f77b4;
+        font-family: 'Inter', sans-serif;
+        font-size: 3rem;
+        font-weight: 700;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
         text-align: center;
         margin-bottom: 2rem;
+        padding: 1rem 0;
+        text-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
+    
+    /* Metric Cards */
     .metric-card {
-        background-color: #f0f2f6;
-        padding: 1rem;
-        border-radius: 0.5rem;
-        border-left: 4px solid #1f77b4;
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        border-radius: 16px;
+        padding: 1.5rem;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+        margin-bottom: 1rem;
     }
+    
+    .metric-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+    }
+    
+    /* Statistical Results */
     .statistical-result {
-        background-color: #e8f4fd;
-        padding: 1rem;
-        border-radius: 0.5rem;
-        border-left: 4px solid #ff7f0e;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 1.5rem;
+        border-radius: 16px;
+        box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);
+        margin-bottom: 1rem;
+        border: none;
+    }
+    
+    /* Section Headers */
+    .section-header {
+        font-family: 'Inter', sans-serif;
+        font-size: 1.8rem;
+        font-weight: 600;
+        color: #2d3748;
+        margin: 2rem 0 1rem 0;
+        padding-bottom: 0.5rem;
+        border-bottom: 3px solid #667eea;
+        display: inline-block;
+    }
+    
+    /* Sidebar Styling */
+    .css-1d391kg {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-right: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    
+    /* Button Styling */
+    .stButton > button {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border: none;
+        border-radius: 12px;
+        padding: 0.75rem 1.5rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+    }
+    
+    .stButton > button:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+    }
+    
+    /* Chart Containers */
+    .chart-container {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 16px;
+        padding: 1.5rem;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        margin: 1rem 0;
+    }
+    
+    /* Dataframe Styling */
+    .dataframe {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    }
+    
+    /* Footer */
+    .footer {
+        text-align: center;
+        padding: 2rem 0;
+        color: #718096;
+        font-family: 'Inter', sans-serif;
+        font-size: 0.9rem;
+    }
+    
+    /* Responsive Design */
+    @media (max-width: 768px) {
+        .main-header {
+            font-size: 2rem;
+        }
+        
+        .metric-card {
+            padding: 1rem;
+        }
+        
+        .statistical-result {
+            padding: 1rem;
+        }
     }
 </style>
 """, unsafe_allow_html=True)
@@ -168,7 +283,7 @@ def create_conversion_comparison_chart(df):
         y='Conversion Rate',
         text=conversion_rates['Conversion Rate'].apply(lambda x: f'{x:.3f}'),
         color='Group',
-        color_discrete_map={'A': '#1f77b4', 'B': '#ff7f0e'},
+        color_discrete_map={'A': '#667eea', 'B': '#764ba2'},
         title='Conversion Rate Comparison: Group A vs Group B'
     )
     
@@ -176,7 +291,12 @@ def create_conversion_comparison_chart(df):
     fig.update_layout(
         yaxis_title='Conversion Rate',
         showlegend=False,
-        height=400
+        height=400,
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        font=dict(family="Inter, sans-serif"),
+        title_font_size=18,
+        title_font_color='#2d3748'
     )
     
     return fig
@@ -192,9 +312,17 @@ def create_segmentation_charts(df):
         color='group',
         barmode='group',
         title='Conversion Rate by Device Type',
-        color_discrete_map={'A': '#1f77b4', 'B': '#ff7f0e'}
+        color_discrete_map={'A': '#667eea', 'B': '#764ba2'}
     )
-    device_fig.update_layout(yaxis_title='Conversion Rate', height=400)
+    device_fig.update_layout(
+        yaxis_title='Conversion Rate', 
+        height=400,
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        font=dict(family="Inter, sans-serif"),
+        title_font_size=16,
+        title_font_color='#2d3748'
+    )
     
     # Channel segmentation
     channel_conv = df.groupby(['channel', 'group'])['converted'].mean().reset_index()
@@ -205,9 +333,17 @@ def create_segmentation_charts(df):
         color='group',
         barmode='group',
         title='Conversion Rate by Channel',
-        color_discrete_map={'A': '#1f77b4', 'B': '#ff7f0e'}
+        color_discrete_map={'A': '#667eea', 'B': '#764ba2'}
     )
-    channel_fig.update_layout(yaxis_title='Conversion Rate', height=400)
+    channel_fig.update_layout(
+        yaxis_title='Conversion Rate', 
+        height=400,
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        font=dict(family="Inter, sans-serif"),
+        title_font_size=16,
+        title_font_color='#2d3748'
+    )
     
     # Region segmentation
     region_conv = df.groupby(['region', 'group'])['converted'].mean().reset_index()
@@ -218,9 +354,17 @@ def create_segmentation_charts(df):
         color='group',
         barmode='group',
         title='Conversion Rate by Region',
-        color_discrete_map={'A': '#1f77b4', 'B': '#ff7f0e'}
+        color_discrete_map={'A': '#667eea', 'B': '#764ba2'}
     )
-    region_fig.update_layout(yaxis_title='Conversion Rate', height=400)
+    region_fig.update_layout(
+        yaxis_title='Conversion Rate', 
+        height=400,
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        font=dict(family="Inter, sans-serif"),
+        title_font_size=16,
+        title_font_color='#2d3748'
+    )
     
     return device_fig, channel_fig, region_fig
 
@@ -233,13 +377,18 @@ def create_distribution_charts(df):
         color='group',
         nbins=30,
         title='Session Duration Distribution',
-        color_discrete_map={'A': '#1f77b4', 'B': '#ff7f0e'},
+        color_discrete_map={'A': '#667eea', 'B': '#764ba2'},
         opacity=0.7
     )
     fig_duration.update_layout(
         xaxis_title='Session Duration (seconds)',
         yaxis_title='Count',
-        height=400
+        height=400,
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        font=dict(family="Inter, sans-serif"),
+        title_font_size=16,
+        title_font_color='#2d3748'
     )
     
     # Page views distribution
@@ -249,27 +398,40 @@ def create_distribution_charts(df):
         color='group',
         nbins=20,
         title='Page Views Distribution',
-        color_discrete_map={'A': '#1f77b4', 'B': '#ff7f0e'},
+        color_discrete_map={'A': '#667eea', 'B': '#764ba2'},
         opacity=0.7
     )
     fig_pages.update_layout(
         xaxis_title='Page Views',
         yaxis_title='Count',
-        height=400
+        height=400,
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        font=dict(family="Inter, sans-serif"),
+        title_font_size=16,
+        title_font_color='#2d3748'
     )
     
     return fig_duration, fig_pages
 
 def main():
     """Main dashboard function"""
-    # Header
+    # Header with modern styling
     st.markdown('<h1 class="main-header">📊 A/B Testing Dashboard</h1>', unsafe_allow_html=True)
     
     # Load data
     df = load_data()
     
-    # Sidebar filters
-    st.sidebar.header("🔍 Filters")
+    # Sidebar filters with modern styling
+    st.sidebar.markdown("""
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+                color: white; 
+                padding: 1rem; 
+                border-radius: 12px; 
+                margin-bottom: 1rem;">
+        <h3 style="margin: 0; font-family: 'Inter', sans-serif;">🔍 Filters</h3>
+    </div>
+    """, unsafe_allow_html=True)
     
     # Date filter
     if 'visit_date' in df.columns:
@@ -353,7 +515,7 @@ def main():
     
     # Statistical tests
     st.markdown("---")
-    st.subheader("🔬 Statistical Analysis")
+    st.markdown('<h2 class="section-header">🔬 Statistical Analysis</h2>', unsafe_allow_html=True)
     
     stats_results = perform_statistical_tests(df)
     
@@ -385,13 +547,13 @@ def main():
     
     # Conversion comparison chart
     st.markdown("---")
-    st.subheader("📊 Conversion Rate Comparison")
+    st.markdown('<h2 class="section-header">📊 Conversion Rate Comparison</h2>', unsafe_allow_html=True)
     conv_chart = create_conversion_comparison_chart(df)
     st.plotly_chart(conv_chart, use_container_width=True)
     
     # Segmentation analysis
     st.markdown("---")
-    st.subheader("🎯 Segmentation Analysis")
+    st.markdown('<h2 class="section-header">🎯 Segmentation Analysis</h2>', unsafe_allow_html=True)
     
     device_fig, channel_fig, region_fig = create_segmentation_charts(df)
     
@@ -408,7 +570,7 @@ def main():
     
     # Distribution analysis
     st.markdown("---")
-    st.subheader("📈 Distribution Analysis")
+    st.markdown('<h2 class="section-header">📈 Distribution Analysis</h2>', unsafe_allow_html=True)
     
     fig_duration, fig_pages = create_distribution_charts(df)
     
@@ -422,7 +584,7 @@ def main():
     
     # Detailed metrics table
     st.markdown("---")
-    st.subheader("📋 Detailed Metrics")
+    st.markdown('<h2 class="section-header">📋 Detailed Metrics</h2>', unsafe_allow_html=True)
     
     metrics_df = df.groupby('group').agg({
         'converted': ['count', 'sum', 'mean'],
@@ -433,9 +595,14 @@ def main():
     metrics_df.columns = ['Users', 'Conversions', 'Conv_Rate', 'Avg_Session_Duration', 'Std_Session_Duration', 'Avg_Page_Views', 'Std_Page_Views']
     st.dataframe(metrics_df, use_container_width=True)
     
-    # Footer
+    # Footer with modern styling
     st.markdown("---")
-    st.markdown("*Dashboard created with Streamlit • Data analysis powered by Python*")
+    st.markdown("""
+    <div class="footer">
+        <p>📊 Dashboard created with Streamlit • 🔬 Data analysis powered by Python • 🎨 Modern UI Design</p>
+        <p style="font-size: 0.8rem; margin-top: 0.5rem;">Built with ❤️ for data-driven decision making</p>
+    </div>
+    """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main() 
