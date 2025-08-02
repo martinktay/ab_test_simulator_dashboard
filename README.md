@@ -1,19 +1,43 @@
 # A/B Testing Dashboard with Streamlit
 
-A clean, interactive dashboard for analysing A/B test results using Python and Streamlit.
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+A clean, interactive dashboard for analysing A/B test results using Python and Streamlit. This project demonstrates comprehensive A/B testing analysis with statistical validation, segmentation insights, and strategic business recommendations.
+
+## 📋 Table of Contents
+
+- [Product Context](#-product-context)
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Requirements](#-requirements)
+- [Installation](#-installation)
+- [Project Structure](#-project-structure)
+- [A/B Testing Results](#-ab-testing-results-summary)
+- [Dashboard Screenshots](#-dashboard-screenshots)
+- [Data Schema](#-data-schema)
+- [Analysis Features](#-analysis-features)
+- [Detailed Analysis Results](#-detailed-analysis-results)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support](#-support)
 
 ## 🎯 Product Context
 
 This project examines an **E-commerce Website** where we conducted a comprehensive A/B test to optimise user experience and drive conversion improvements. The test focused on enhancing the user journey from initial visit to successful conversion (purchase, sign-up, or other valuable user actions).
 
 ### 📦 Product Type: E-commerce Platform
+
 - **Primary Goal**: Optimise conversion rates across all user touchpoints
 - **User Journey**: Traffic acquisition → Content engagement → Conversion completion
 - **Key Metrics**: Conversion rate, session duration, page views, user engagement
 - **Target Audience**: Multi-device users across various UK regions
 
 ### 🧪 A/B Test Objective
+
 We tested user experience improvements that could enhance the conversion funnel, including potential changes to:
+
 - Landing page design and messaging
 - Checkout/sign-up flow optimisation
 - Mobile and tablet user experience
@@ -46,28 +70,54 @@ This dashboard provides comprehensive analysis of A/B test data including:
 - plotly
 - streamlit
 
-## 🛠️ Installation
-
-1. Clone the repository:
+## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/ab-test-dashboard-streamlit.git
-cd ab-test-dashboard-streamlit
-```
+# Clone the repository
+git clone https://github.com/martinktay/ab_test_simulator_dashboard.git
+cd ab_test_simulator_dashboard
 
-2. Install dependencies:
-
-```bash
+# Install dependencies
 pip install -r requirements.txt
-```
 
-3. Place your `ab_test_enriched.csv` file in the root directory
-
-4. Run the dashboard:
-
-```bash
+# Run the dashboard
 streamlit run ab_test_dashboard.py
 ```
+
+The dashboard will open at `http://localhost:8501` in your browser.
+
+## 🛠️ Installation
+
+### Prerequisites
+
+- Python 3.7 or higher
+- pip package manager
+
+### Step-by-Step Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/martinktay/ab_test_simulator_dashboard.git
+   cd ab_test_simulator_dashboard
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Data preparation:**
+   - Place your `ab_test_enriched.csv` file in the root directory
+   - The dashboard will automatically load the data when launched
+
+4. **Launch the dashboard:**
+   ```bash
+   streamlit run ab_test_dashboard.py
+   ```
+
+5. **Access the dashboard:**
+   - Open your browser and navigate to `http://localhost:8501`
+   - The dashboard will display your A/B test results with interactive visualisations
 
 ## 📁 Project Structure
 
@@ -120,15 +170,33 @@ Strong evidence supports deploying the Group B variant across all user segments,
 
 ## 📊 Dashboard Screenshots
 
-_[Insert your Streamlit dashboard screenshots here]_
+### Main Dashboard View
+![Dashboard Overview](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Dashboard+Screenshot)
 
 ### Key Metrics Displayed
 
-- Real-time conversion rate comparison
-- Statistical significance indicators
-- Segmentation breakdown charts
-- Interactive filtering capabilities
-- Confidence interval visualisation
+- **Real-time conversion rate comparison** between Group A and Group B
+- **Statistical significance indicators** with p-values and confidence intervals
+- **Segmentation breakdown charts** for device, channel, and region analysis
+- **Interactive filtering capabilities** for detailed data exploration
+- **Confidence interval visualisation** for statistical validation
+
+## 💻 Usage
+
+### Dashboard Navigation
+
+1. **Main Metrics**: View overall conversion rates and improvement statistics
+2. **Statistical Analysis**: Examine Z-test and Chi-square test results
+3. **Segmentation Analysis**: Explore performance by device, channel, and region
+4. **Distribution Analysis**: Analyze session duration and page views patterns
+5. **Interactive Filters**: Use sidebar filters to drill down into specific segments
+
+### Key Features
+
+- **Real-time Calculations**: All metrics update automatically when filters are applied
+- **Interactive Charts**: Hover over data points for detailed information
+- **Export Capabilities**: Download filtered data for further analysis
+- **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
 
 ---
 
@@ -325,12 +393,52 @@ This project exemplifies the intersection of statistical analysis, business stra
 
 ---
 
+## 🛠️ Technology Stack
+
+- **Frontend**: Streamlit (Python web framework)
+- **Data Processing**: Pandas, NumPy
+- **Statistical Analysis**: SciPy
+- **Visualisation**: Plotly
+- **Version Control**: Git
+- **Deployment**: Local/Cloud hosting
+
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+We welcome contributions to improve this A/B testing dashboard! Here's how you can help:
+
+### How to Contribute
+
+1. **Fork the repository** on GitHub
+2. **Create a feature branch** for your changes:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Make your changes** and test thoroughly
+4. **Commit your changes** with descriptive commit messages
+5. **Push to your branch** and create a pull request
+
+### Contribution Guidelines
+
+- Follow the existing code style and formatting
+- Add tests for new features
+- Update documentation as needed
+- Ensure all tests pass before submitting
+
+### Reporting Issues
+
+If you find a bug or have a feature request, please:
+1. Check existing issues first
+2. Create a new issue with a clear description
+3. Include steps to reproduce (for bugs)
+4. Provide system information if relevant
+
+## 📈 Roadmap
+
+- [ ] Add more statistical tests (t-test, ANOVA)
+- [ ] Implement export functionality for reports
+- [ ] Add user authentication for multi-user environments
+- [ ] Create mobile-optimised dashboard version
+- [ ] Add real-time data streaming capabilities
 
 ## 📄 License
 
