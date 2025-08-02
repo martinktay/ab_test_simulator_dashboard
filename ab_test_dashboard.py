@@ -19,16 +19,17 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-    /* Modern Professional Styling */
+    /* Professional Dark Theme Dashboard */
     
     /* Global Styles */
     .main {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: #0a0a0a;
         min-height: 100vh;
+        color: #ffffff;
     }
     
     .stApp {
-        background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+        background: #0a0a0a;
     }
     
     /* Header Styling */
@@ -36,42 +37,66 @@ st.markdown("""
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         font-size: 3rem;
         font-weight: 700;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
         text-align: center;
         margin-bottom: 2rem;
         padding: 1rem 0;
-        text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        text-shadow: 0 2px 4px rgba(0,0,0,0.3);
     }
     
     /* Metric Cards */
     .metric-card {
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(10px);
-        border: 1px solid rgba(255, 255, 255, 0.2);
-        border-radius: 16px;
+        background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+        border: 1px solid #333333;
+        border-radius: 12px;
         padding: 1.5rem;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
         transition: all 0.3s ease;
         margin-bottom: 1rem;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .metric-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 3px;
+        background: linear-gradient(90deg, #00d4ff, #0099cc);
     }
     
     .metric-card:hover {
         transform: translateY(-2px);
-        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 12px 40px rgba(0, 212, 255, 0.2);
+        border-color: #00d4ff;
     }
     
     /* Statistical Results */
     .statistical-result {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white;
+        background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+        color: #ffffff;
         padding: 1.5rem;
-        border-radius: 16px;
-        box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);
+        border-radius: 12px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
         margin-bottom: 1rem;
-        border: none;
+        border: 1px solid #333333;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .statistical-result::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 3px;
+        background: linear-gradient(90deg, #ff6b6b, #ee5a24);
     }
     
     /* Section Headers */
@@ -79,62 +104,98 @@ st.markdown("""
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         font-size: 1.8rem;
         font-weight: 600;
-        color: #2d3748;
+        color: #ffffff;
         margin: 2rem 0 1rem 0;
         padding-bottom: 0.5rem;
-        border-bottom: 3px solid #667eea;
+        border-bottom: 3px solid #00d4ff;
         display: inline-block;
     }
     
     /* Sidebar Styling */
     .css-1d391kg {
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(10px);
-        border-right: 1px solid rgba(255, 255, 255, 0.2);
+        background: #1a1a1a;
+        border-right: 1px solid #333333;
     }
     
     /* Button Styling */
     .stButton > button {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white;
+        background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
+        color: #000000;
         border: none;
-        border-radius: 12px;
+        border-radius: 8px;
         padding: 0.75rem 1.5rem;
-        font-weight: 500;
+        font-weight: 600;
         transition: all 0.3s ease;
     }
     
     .stButton > button:hover {
         transform: translateY(-1px);
-        box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+        box-shadow: 0 8px 25px rgba(0, 212, 255, 0.4);
     }
     
     /* Chart Containers */
     .chart-container {
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(10px);
-        border-radius: 16px;
+        background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+        border-radius: 12px;
         padding: 1.5rem;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
         margin: 1rem 0;
+        border: 1px solid #333333;
     }
     
     /* Dataframe Styling */
     .dataframe {
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(10px);
+        background: #1a1a1a;
         border-radius: 12px;
         overflow: hidden;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+        border: 1px solid #333333;
     }
     
     /* Footer */
     .footer {
         text-align: center;
         padding: 2rem 0;
-        color: #718096;
+        color: #888888;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         font-size: 0.9rem;
+    }
+    
+    /* Custom metric styling */
+    .metric-value {
+        color: #00d4ff !important;
+        font-weight: 700 !important;
+    }
+    
+    .metric-label {
+        color: #cccccc !important;
+        font-weight: 500 !important;
+    }
+    
+    .metric-delta {
+        color: #00ff88 !important;
+        font-weight: 600 !important;
+    }
+    
+    /* Tab styling */
+    .stTabs [data-baseweb="tab-list"] {
+        gap: 8px;
+        background: #1a1a1a;
+        border-radius: 8px;
+        padding: 4px;
+    }
+    
+    .stTabs [data-baseweb="tab"] {
+        background: #2d2d2d;
+        border-radius: 6px;
+        color: #cccccc;
+        border: 1px solid #333333;
+    }
+    
+    .stTabs [aria-selected="true"] {
+        background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
+        color: #000000;
+        font-weight: 600;
     }
     
     /* Responsive Design */
@@ -290,7 +351,7 @@ def create_conversion_comparison_chart(df):
         y='Conversion Rate',
         text=conversion_rates['Conversion Rate'].apply(lambda x: f'{x:.3f}'),
         color='Group',
-        color_discrete_map={'A': '#667eea', 'B': '#764ba2'},
+        color_discrete_map={'A': '#00d4ff', 'B': '#ff6b6b'},
         title='Conversion Rate Comparison: Group A vs Group B'
     )
 
@@ -301,9 +362,10 @@ def create_conversion_comparison_chart(df):
         height=400,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        font=dict(family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
+        font=dict(
+            family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
         title_font_size=18,
-        title_font_color='#2d3748'
+        title_font_color='#ffffff'
     )
 
     return fig
@@ -321,16 +383,17 @@ def create_segmentation_charts(df):
         color='group',
         barmode='group',
         title='Conversion Rate by Device Type',
-        color_discrete_map={'A': '#667eea', 'B': '#764ba2'}
+        color_discrete_map={'A': '#00d4ff', 'B': '#ff6b6b'}
     )
     device_fig.update_layout(
         yaxis_title='Conversion Rate',
         height=400,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        font=dict(family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
+        font=dict(
+            family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
         title_font_size=16,
-        title_font_color='#2d3748'
+        title_font_color='#ffffff'
     )
 
     # Channel segmentation
@@ -343,16 +406,17 @@ def create_segmentation_charts(df):
         color='group',
         barmode='group',
         title='Conversion Rate by Channel',
-        color_discrete_map={'A': '#667eea', 'B': '#764ba2'}
+        color_discrete_map={'A': '#00d4ff', 'B': '#ff6b6b'}
     )
     channel_fig.update_layout(
         yaxis_title='Conversion Rate',
         height=400,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        font=dict(family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
+        font=dict(
+            family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
         title_font_size=16,
-        title_font_color='#2d3748'
+        title_font_color='#ffffff'
     )
 
     # Region segmentation
@@ -365,16 +429,17 @@ def create_segmentation_charts(df):
         color='group',
         barmode='group',
         title='Conversion Rate by Region',
-        color_discrete_map={'A': '#667eea', 'B': '#764ba2'}
+        color_discrete_map={'A': '#00d4ff', 'B': '#ff6b6b'}
     )
     region_fig.update_layout(
         yaxis_title='Conversion Rate',
         height=400,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        font=dict(family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
+        font=dict(
+            family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
         title_font_size=16,
-        title_font_color='#2d3748'
+        title_font_color='#ffffff'
     )
 
     return device_fig, channel_fig, region_fig
@@ -389,7 +454,7 @@ def create_distribution_charts(df):
         color='group',
         nbins=30,
         title='Session Duration Distribution',
-        color_discrete_map={'A': '#667eea', 'B': '#764ba2'},
+        color_discrete_map={'A': '#00d4ff', 'B': '#ff6b6b'},
         opacity=0.7
     )
     fig_duration.update_layout(
@@ -398,9 +463,10 @@ def create_distribution_charts(df):
         height=400,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        font=dict(family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
+        font=dict(
+            family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
         title_font_size=16,
-        title_font_color='#2d3748'
+        title_font_color='#ffffff'
     )
 
     # Page views distribution
@@ -410,7 +476,7 @@ def create_distribution_charts(df):
         color='group',
         nbins=20,
         title='Page Views Distribution',
-        color_discrete_map={'A': '#667eea', 'B': '#764ba2'},
+        color_discrete_map={'A': '#00d4ff', 'B': '#ff6b6b'},
         opacity=0.7
     )
     fig_pages.update_layout(
@@ -419,9 +485,10 @@ def create_distribution_charts(df):
         height=400,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        font=dict(family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
+        font=dict(
+            family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"),
         title_font_size=16,
-        title_font_color='#2d3748'
+        title_font_color='#ffffff'
     )
 
     return fig_duration, fig_pages
@@ -438,12 +505,14 @@ def main():
 
     # Sidebar filters with modern styling
     st.sidebar.markdown("""
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
-                color: white; 
+    <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); 
+                color: #00d4ff; 
                 padding: 1rem; 
                 border-radius: 12px; 
-                margin-bottom: 1rem;">
-        <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">🔍 Filters</h3>
+                margin-bottom: 1rem;
+                border: 1px solid #333333;
+                box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);">
+        <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600;">🔍 Filters</h3>
     </div>
     """, unsafe_allow_html=True)
 
